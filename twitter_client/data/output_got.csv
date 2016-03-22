@@ -1,0 +1,604 @@
+username;date;text;id
+drisso1893;2016-03-21 23:22;@aeolianine cool. The rticle package looks nice! Should mention the #bioconductor BiocStyle package too. Very useful for vignettes.;712056861994844161
+carleshf;2016-03-15 18:23;Great job @albita_gs ! #psygenet #R #Bioconductor https:// twitter.com/albita_gs/stat us/709806930357850112 ;709807172155211776
+Sorena997;2016-03-13 16:43;@CI4CC #ci4cc2016 #Bioconductor Go to https:// bioconductor.org for more information.  Attend the annual meetings !;709057310853705728
+Sorena997;2016-03-13 16:41;@CI4CC #ci4cc2016 #Bioconductor development and use reflects more of a solid commercial product than an open source tool! Fantastic Effort !;709056843394342912
+groundwalkergmb;2016-03-12 04:26;@henrikbengtsson @Bioconductor It's #Bioconductor . See logo.;708509497820626944
+henrikbengtsson;2016-03-12 03:17;Once and for all: #Bioconductor or #BioConductor ? #rstats , cc @Bioconductor;708492026698797056
+enricoferrero;2016-03-09 16:08;LOLA: overlap significance of genomic regions against large public database http:// databio.org/lola/ #rstats #bioconductor #bioinfomatics;707598910420873216
+brennanpcardiff;2016-03-09 14:48;#vizbi Link to #Bioconductor package mentioned by Zaugg https://www. bioconductor.org/packages/relea se/bioc/html/SNPhood.html ;707578894589669376
+DrMarkDunning;2016-03-02 09:33;Fancy coming to Portugal to learn RNA- and ChIP-seq analysis in #bioconductor ? March 29th - April 1st. Apply here http:// bit.ly/1Uy4TwY;704962932199727108
+seandavis12;2016-02-28 01:52;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/ExperimentHub.html  ExperimentHub Client to access ExperimentHub;703759678531043329
+iacus;2016-02-26 14:06;CSAMA 2016 | Statistics and Computing in Genome Data Science #Bioconductor course http://www. huber.embl.de/csama2016/ #csama2016 Registration Open!;703219710150647808
+Bioconductor;2016-02-25 20:07;#rstats / #bioconductor New Package Submission Deadline March 25 https://support.bioconductor,org/p/78868/;702948154434580480
+agapow;2016-02-24 15:50;Does #bioconductor biomart package work with http:// genenames.org any more? Tried to convert some probe IDs & can't connect to the sever.;702520899346554881
+Bioconductor;2016-02-22 14:55;#rstats / #Bioconductor Course: Statistics and Computing in Genome Data Science, July 10-15, 2016, http://www. huber.embl.de/csama2016/;701782447646752770
+seandavis12;2016-02-19 21:24;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/metaCCA.html  metaCCA Summary Statistics-Based Multivariate Meta;700793187116433409
+Bioconductor;2016-02-19 20:33;#Bioconductor 3.3 release schedule: http:// bioconductor.org/developers/rel ease-schedule/ ;700780357000388608
+nclbsu;2016-02-16 16:14;New courses open for registration. 16th - 20th May, #rstats and #bioconductor http:// bsu.ncl.ac.uk/support/course s/ ;699627953873879040
+a2idea;2016-02-06 12:19;"LOLA: enrichment analysis for #genomic region sets and regulatory elements in #R and #Bioconductor " http:// bioinformatics.oxfordjournals.org/cgi/content/sh ort/32/4/587?rss=1 ;695944814190133248
+jp_gorman;2016-02-06 10:21;Well impressed with the effort that gets put into #bioconductor r package ensemble, docs courses and sample workflows look really good.;695915328828764160
+seandavis12;2016-02-05 21:35;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/RCy3.html  RCy3 Display and manipulate graphs in Cytoscape >= 3.3.0;695722410843238400
+ksamuk;2016-02-03 23:29;Another #rstats #bioconductor gem: SNPRelate, high performance implementation of PCA and much more for SNP data https://www. bioconductor.org/packages/relea se/bioc/html/SNPRelate.html ;695026393684406276
+wolfgangkhuber;2016-02-02 14:04;Now on #Bioconductor : IHW for FDR with data-driven hypothesis weighting http://www. bioconductor.org/packages/devel /bioc/html/IHW.html  preprint is here: http:// biorxiv.org/content/early/ 2015/12/13/034330 ;694521865897951232
+hdashnow;2016-02-01 03:40;MissMethyl authors @BelindaPhipson @JovMaksimovic @AliciaOshlack showing off awesome logo #r #bioconductor #lca2016 pic.twitter.com/uwduZS3TND;694002261744160768
+hdashnow;2016-02-01 03:28;Next up in the Open Source and Bioinformatics miniconf: @BelindaPhipson talking about #R and #Bioconductor #lca2016;693999435991244800
+seandavis12;2016-02-01 02:25;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/GenVisR.html  GenVisR Genomic Visualizations in R: Produce highly;693983574265978881
+aefrieden;2016-01-29 22:26;I always know I am working on #biostats when all my chrome tabs have the #bioconductor symbol.;693198521730797568
+AedinCulhane;2016-01-29 22:15;Easier Gene Set Enrichment analysis in #bioconductor #rstats http:// bmcbioinformatics.biomedcentral.com/articles/10.11 86/s12859-016-0884-1 ;693195691766738944
+spleonard1;2016-01-22 22:00;Great talk from @mikelove on #DESeq2 !  I don't envy him explaining biology of RNAseq to pure statisticians... #R #bioconductor;690655366904819712
+enricoferrero;2016-01-22 10:57;Getting an error with DESeq2::rlog() when using fast=TRUE? https:// support.bioconductor.org/p/73736/#77297 #rstats #bioinformatics #bioconductor;690488571128602624
+AedinCulhane;2016-01-22 08:51;I've heard really great professors teach this course #rstats #Bioconductor https:// twitter.com/rafalab/status /676831629235630080 ;690456752081539073
+seandavis12;2016-01-16 21:13;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/cellTree.html  cellTree Inference and visualisation of Single-Cell RNA;688469217335726080
+seandavis12;2016-01-14 06:40;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/rnaseqcomp.html  rnaseqcomp Benchmarks for RNA-seq Quantification;687524704526176256
+Bioconductor;2016-01-11 11:51;New job opportunity: #rstats / #Bioconductor core team Senior Programmer / Analyst http://www. roswellpark.org/careers/admini strative/senior-programmeranalyst-4301 ;686515699435614208
+spleonard1;2016-01-05 18:31;"GO analysis using clusterProfiler" http://www. r-bloggers.com/go-analysis-us ing-clusterprofiler/  via @rbloggers Great package! #r #bioconductor;684442233043484672
+Bioconductor;2016-01-04 19:34;New #Bioconductor package submission process https:// support.bioconductor.org/p/76472/;684095631716167680
+spleonard1;2015-12-30 06:55;. @KasperDHansen your #bioconductor #coursera is great!  Thanks so much!;682092594130636800
+Bioconductor;2015-12-28 20:02;#Bioconductor http:// bioconductor.org to be down for scheduled maintenance. 30 mins starting at 12:01PM Thurs 12/31 https:// support.bioconductor.org/p/76368/;681566013972873216
+seandavis12;2015-12-24 21:13;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/kimod.html  kimod A k-tables approach to integrate multiple Omics-Data;680134297077084160
+RLangTip;2015-12-24 16:05;SANTA will help you quantify the association between a gene and a molecular network http:// bit.ly/1YmXg0a #rstats #bioconductor;680056756253421568
+labrazil;2015-12-24 09:42;#R / #Bioconductor tool to download, process and prepare #TCGA data. @TCGAupdates @bioconductor @LABioconductor http:// nar.oxfordjournals.org/cgi/content/lo ng/gkv1507v1 ;679960383726161921
+seandavis12;2015-12-23 18:24;Statistical Methods for Functional #Genomics course @cshlmeetings announcement: http:// bit.ly/1YBFpO5 #bioinformatics #bioconductor;679729402859642880
+RNASeqBlog;2015-12-21 17:48;An end-to-end gene-level #RNASeq differential expression workflow using #Bioconductor packages - http:// go.shr.lc/1S5ni3b;678995470027329536
+canninl;2015-12-19 16:59;paxtoolsr: 16 pathway databases/1.1M interactions; help expand use in #bioconductor . #rstats http:// goo.gl/IQllOl pic.twitter.com/u8Oa74kJWl;678258362006507521
+Thomas_F_Hahn;2015-12-16 22:39;I am an almost blind student looking for tutor for bioconductor. Contact me via Skype at tfh002 or at Thomas.F.Hahn3@gmail.com #bioconductor;677256749175345152
+seandavis12;2015-12-15 13:55;Thanks, @depsy_org for http:// bit.ly/1NRbrnw . Would be great to see #bioconductor repositories added in addition to #Rstats CRAN pkgs.;676762563237965824
+spleonard1;2015-12-13 19:27;"msa: an R package for multiple sequence alignment" #r #bioconductor http:// bioinformatics.oxfordjournals.org/cgi/content/sh ort/31/24/3997?rss=1 ;676121295113682944
+AMathelier;2015-12-10 16:54;@Patrick_J_Short @WyWyWa @ofornes Sorry for late reply. @Bioconductor JASPAR2016 package under review at #Bioconductor . Hopefully out soon.;674995558512066560
+TomSchwarzl;2015-12-07 16:43;@mikelove : sequencing biases strongly affects transcript level estimations - http:// bit.ly/1jKg2vp #bioinformatics #bioconductor DevConf;673905783197868032
+TomSchwarzl;2015-12-07 14:21;shinyURL - great package to share your current shiny view,  Andrzej Oles @#bioconductor DevConf #bioinformatics;673870041763422208
+TomSchwarzl;2015-12-07 14:14;Robert Gentleman (23andMe) about advantages of PheWAS over GWAS. Also opportunities for validations. #Bioconductor DevConf #Bioinformatics;673868134219194368
+rnomics;2015-12-04 14:02;A Computational Pipeline for Cross-Species Analysis of http:// bit.ly/1NvZOOr #AnalysisPipelines #bioconductor #bioinformatics #RNAseq;672777902560116736
+canninl;2015-12-04 13:38;Access 20,861 drug response profiles & omics with rcellminer and Shiny #rstats #bioconductor http:// goo.gl/KlJQ0n pic.twitter.com/k6BxBxfC3J;672771920295759873
+enricoferrero;2015-12-04 10:42;How to correctly import Bismark coverage files into bsseq? https:// support.bioconductor.org/p/75502/ #genomics #bioinformatics #rstats #bioconductor;672727654475407360
+la_press;2015-12-03 23:46;A Computational Pipeline for Cross-Species Analysis of #RNA -seq Data Using R and #Bioconductor http:// ow.ly/Vpg4b;672562510692802560
+seandavis12;2015-12-03 02:33;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/diffHic.html  diffHic Differential Analyis of Hi-C Data: Detects;672242321845567488
+GregFinak;2015-12-02 18:25;#OpenCyto and other free, open source cytometry data analysis tools reviewed. #Bioconductor #rstats http://www. the-scientist.com/?articles.view /articleNo/44593/title/Free-Flow/ ;672119382227599360
+seandavis12;2015-11-24 23:45;Extending @SBGenomics with #Amazon #Redshift , #Rstats and #bioconductor http:// amzn.to/1XpqdD6 via @awscloud #bigdata #bioinformatics;669300791455391744
+sjcockell;2015-11-23 10:13;#rstats and #bioconductor course this week - great to see plenty of returning faces for @nclbsu courses.;668734211092832260
+seandavis12;2015-11-19 21:21;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/similaRpeak.html  similaRpeak Metrics to estimate a level of;667452624631898114
+remyangela;2015-11-18 21:38;Tears of joy as my analysis finally works (AND makes sense!) #R #Bioconductor #DMRcate #epigenetics http:// bit.ly/1QNH6aI;667094580068802560
+liz__is;2015-11-18 10:16;Paper for our GenomicInteractions #bioconductor pkg is out! http://www. biomedcentral.com/1471-2164/16/9 63/  Tools for manipulating + visualising HiC, ChiaPET, etc;666922945713950721
+Yh_Taguchi;2015-11-17 04:40;biomaRt does not work use e.g., ensembl = useMart("ENSEMBL_MART_ENSEMBL",host=" http:// mart.ensembl.org ") #bioconductor;666475917045276672
+Bioconductor;2015-11-14 05:07;#rstats / #Bioconductor new tutorial: Deseq2: RNA-seq and Negative binomial distribution https:// support.bioconductor.org/p/74572/;665395539622645760
+DrMarkDunning;2015-11-10 15:23;Invites sent and European Bioc Dev meeting is shaping-up nicely. Timetable to be announced soon. #EuroBioC2015 #Bioconductor;664101151130914817
+SteffLocke;2015-11-03 14:52;Nice, can use #bioconductor packages in #AzureML Great case study from @revodavid , learnt a lot this keynote! #earl2015;661556532547559424
+mygeneinfo;2015-10-23 16:20;MT @myvariantinfo :Now you can add variant #annotation data to your workflow via our new R package from #bioconductor http:// myvariant.info;657577451480965120
+vikasjee;2015-10-21 14:25;rnomics: Bioconductors #RNA -seq Workflow in Jupyter notebook format: Browsing http:// bit.ly/1XjPtfP #Presentations #bioconductor #Dock ;656823584380317697
+rnomics;2015-10-21 14:23;Bioconductors #RNA -seq Workflow in Jupyter notebook format: Browsing http:// bit.ly/1XjPtfP #Presentations #bioconductor #Docker #RNAseq;656823141478477824
+robertclab;2015-10-21 08:21;LOLA: Locus Overlap Analysis, a  GSEA-like analysis for genomic regions by N. Sheffield http:// databio.org/lola #rstats #bioconductor;656732099370577920
+Bioconductor;2015-10-15 17:25;#Bioconductor Public data and open source tools for multi-assay genomic investigation of disease http:// bib.oxfordjournals.org/cgi/content/lo ng/bbv080v1 ;654694483603275776
+vivekbhr;2015-10-15 06:57;New #bioconductor release 3.2 with 80 new packages . #rstats #genomics https:// twitter.com/Bioconductor/s tatus/654390619377274880 ;654536567160242176
+Bioconductor;2015-10-14 21:17;#Bioconductor 3.2 is released! http:// bioconductor.org/news/bioc_3_2_ release/ ;654390619377274880
+genetics_blog;2015-10-13 15:01;TIN: #Bioconductor / #Rstats pkg for Transcriptome Instability Analysis http://www. ncbi.nlm.nih.gov/pubmed/26448683 http:// bioconductor.org/packages/relea se/bioc/html/TIN.html ;653933486336798720
+fjnogales;2015-10-08 21:25;"A big computer, a complex algorithm and a long time does not equal science" Robert Gentleman https:// en.wikipedia.org/wiki/Robert_Ge ntleman_(statistician)  #rstats #bioconductor;652218260818108416
+MyGeneCounsel;2015-10-08 18:31;#Bioconductor project to develop statistical and computational analysis tools for high-throughput #genomics data | http:// ow.ly/Takr4;652174374854914052
+seandavis12;2015-10-01 21:14;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/TarSeqQC.html  TarSeqQC TARgeted SEQuencing Experiment Quality Control;649678811357954049
+seandavis12;2015-10-01 10:59;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/DiffLogo.html  DiffLogo DiffLogo: A comparative visualisation of;649523936984735744
+SunitJain;2015-09-22 12:02;#rstats :  "oposSOM: R-package for high-dim portraying of genome-wide exp landscapes on #bioconductor " http:// bioinformatics.oxfordjournals.org/cgi/content/sh ort/31/19/3225?rss=1 ;646278502908604416
+seandavis12;2015-09-18 21:36;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/RTCGA.html  RTCGA The Cancer Genome Atlas Data Integration: The Cancer;644973300435812352
+monimunozto;2015-09-17 15:34;R packages in #metabolomics from Alexandre Perera's lab at UPC. http:// b2slab.upc.edu #MAIT #Bioconductor #CCBCOL3;644519805328953344
+dalloliogm;2015-09-17 09:19;bioconductor coursera course https://www. coursera.org/course/genbioc onductor  #bioconductor #coursera #MOOC;644425461146251264
+vivekbhr;2015-09-15 23:13;#rstats #bioconductor https:// twitter.com/Bioconductor/s tatus/643876835999285249 ;643910631830257664
+vivekbhr;2015-09-14 12:29;Now we can do multiple sequence alignment in #rstats , using msa #bioconductor package http:// bit.ly/1UQHpA5 #bioinformatics #genomics;643386055702540288
+CharlesJolyB;2015-09-10 03:00;New blog post: How to extract promoters positions https:// charlesjb.github.io/How_to_extract _promoters_positions/  #bioconductor #rstats;641793401751535616
+mritchieau;2015-09-09 06:57;Next up @PeteHaitch explaining how to go about DNA methylation analysis in #bioconductor #Rstats #giwincob15 pic.twitter.com/oa7Esx8Xs6;641490541767626752
+mritchieau;2015-09-09 06:49;@mt_morgan giving us a high level tour of the #bioconductor #Rstats project at #giwincob15 (in the dark!) pic.twitter.com/64gaao71en;641488524865204228
+ChiachunChiu;2015-09-08 07:52;Dr. Martin Morgan is demonstrating how to build a #R / #Bioconductor package. #BiocAsiaPacific2015 pic.twitter.com/oV5dqF68rw;641142088864694273
+Bioconductor;2015-09-08 05:08;#rstats / #Bioconductor new tutorial: Bioconductor on Coursera https:// support.bioconductor.org/p/71905/;641100835250925568
+tangming2005;2015-09-08 04:38;bioconductor workflows http:// bioconductor.org/help/workflows/ #bioconductor;641093110395596800
+mritchieau;2015-09-01 04:00;A week until the #Rstats fun begins in Tokyo at #Bioconductor Asia-Pacific Developers' Mtg 8th Sept http:// tinyurl.com/ns6qy55 See you there!;638547030248296449
+seandavis12;2015-09-01 01:53;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/AnnotationHubData.html  AnnotationHubData Transform public data;638514893361139712
+road2stat;2015-08-29 03:09;Wow, the SBG API client is available on #bioconductor now, thanks @yintengfei ! Guess we may have some champagne. https:// twitter.com/seandavis12/st atus/637369214223958016 ;637446949906444290
+seandavis12;2015-08-28 22:00;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/sbgr.html  sbgr R Client for Seven Bridges Genomics API: R client for;637369214223958016
+guangchuangyu;2015-08-26 12:27;seq2pathway was deprecated, https:// github.com/Bioconductor-m irror/seq2pathway/commit/7fae4a8d48e89638541ce2911247e59d298fd2ed  . Is it due to my blog post, http:// ygc.name/2015/08/21/fun ctional-enrichment-analysis-with-ngs-data/  ? #rstats #Bioconductor;636500125968302080
+genetics_blog;2015-08-24 15:21;Coursera: #Bioconductor for Genomic Data Science https://www. coursera.org/course/genbioc onductor  #Rstats;635819233566412800
+seandavis12;2015-08-23 16:06;diffHic: a #Bioconductor package to detect differential #genomic interactions in Hi-C data http://www. biomedcentral.com/1471-2105/16/2 58  #bioinformatics;635468096329895936
+hjpimentel;2015-08-22 20:17;What's the "right" way to deal with dplyr::select and AnnotationDbi::select clashing? #rstats #Bioconductor;635168941128609792
+TechWars_io;2015-08-22 08:42;We compared #bioconductor vs #biopython - see results: http://www. techwars.io/fight/biocondu ctor/biopython/ ;634994088383787008
+tangming2005;2015-08-22 04:40;learning GenomicRanges, GenomicFeatures, GenomicAlignments #bioconductor;634933097432117249
+a2idea;2015-08-19 01:44;"diffHic: a #Bioconductor package to detect differential #genomic interactions in Hi-C data" http://www. biomedcentral.com/1471-2105/16/2 58 ;633801665875804161
+vivekbhr;2015-08-18 20:19;RT @genetics_blog The #rstats #bioconductor package for Hilbert Curves.. #dataviz #datascience https:// twitter.com/genetics_blog/ status/633627083948851201 ;633719889782534146
+wolfgangkhuber;2015-08-18 16:53;HilbertViz by S.Anders came with #Bioconductor 2.3, 10/2008. New HilbertCurve by Zuguang Gu, more flexible interface https:// twitter.com/mikaelhuss/sta tus/633628092779655172 ;633667967255973888
+TechWars_io;2015-08-17 15:25;We compared #bioconductor vs #biopython - see results: http://www. techwars.io/fight/biocondu ctor/biopython/ ;633283398887415809
+SunitJain;2015-08-14 10:38;#stats :  "Differences in the network structure of CRAN and #BioConductor " http://www. r-bloggers.com/differences-in -the-network-structure-of-cran-and-bioconductor/ ;632124245762424832
+najapliz;2015-08-14 08:16;Nice blog describing #kaggle image denoising challenge #R #bioconductor https:// twitter.com/ColinAPriest/s tatus/632064104459452416 ;632088288904511488
+seandavis12;2015-08-14 01:37;@doublehelixlf You'll need to use the development version of #bioconductor to get these new packages. http:// bioconductor.org/developers/how -to/useDevel/ ;631987899588710400
+seandavis12;2015-08-14 00:36;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/synlet.html  synlet Hits Selection for Synthetic Lethal RNAi Screen;631972665209802752
+seandavis12;2015-08-14 00:36;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/NanoStringDiff.html  NanoStringDiff Differential Expression Analysis;631972664601616384
+DiegoKuonen;2015-08-13 18:55;#RStats #CRAN #BioConductor MT @RevolutionR : @RevoJoe & @RevoAndrie presented @#JSM2015 http:// bit.ly/1TpDJ7N pic.twitter.com/9p4oiGX8O3;631886770205011971
+dogvile;2015-08-13 07:13;The Network structure of R packages on CRAN  BioConductor by @RevolutionR #bioconductor #cran http://www. slideshare.net/RevolutionAnal ytics/jsm-r-pkgs-2015-0809  @SlideShare @Rbloggers;631710093424390144
+stuffspec;2015-08-12 14:57;Some List of Documents About Affy Package Bioconductor, #affy #package #bioconductor http://www. stuffspec.com/publicfiles/Af fy_Package_Bioconductor.html ;631464459903483904
+mritchieau;2015-08-10 02:01;Travel scholarships available for #Bioconductor Asia-Pacific Developers' Meeting 8th Sept 2015, Tokyo http:// tinyurl.com/ns6qy55 #rstats;630544367669788672
+Bioconductor;2015-08-06 08:09;#rstats / #Bioconductor new tutorial: Analysis of peaks generated from Homer using Diffbind https:// support.bioconductor.org/p/70806/;629187421142298625
+DainaBouquin;2015-08-05 19:28;A Short Introduction to #Bioconductor http://www. r-bloggers.com/a-short-introd uction-to-bioconductor/  #statistics #R #genomics;628996030860775424
+SunitJain;2015-08-05 10:56;#rstats #omics :  "A Short Introduction to #Bioconductor " http://www. r-bloggers.com/a-short-introd uction-to-bioconductor/ ;628867271222538240
+a2idea;2015-07-24 20:16;"ChIPseeker: an #R / #Bioconductor package for #ChIP peak annotation, comparison and #visualization " http:// bioinformatics.oxfordjournals.org/cgi/content/sh ort/31/14/2382?rss=1 ;624659418588807171
+Bioconductor;2015-07-24 20:09;#rstats / #Bioconductor new tutorial: Course Material from BioC 2015: Where Software and Biology Connect https:// support.bioconductor.org/p/70357/;624657567893975040
+CharlesJolyB;2015-07-24 16:55;Just discovered the BiocStyle package: http:// bioconductor.org/packages/relea se/bioc/html/BiocStyle.html  #Bioconductor #rstats;624608974688509952
+bfariabi;2015-07-23 14:33;Great! You can find the #BioC2015 materials at the #Bioconductor website.;624210743286743040
+TechWars_io;2015-07-20 22:57;We compared #biopython vs #bioconductor - see results: http://www. techwars.io/fight/biopytho n/bioconductor/ ;623250341040144385
+dctrudgian;2015-07-16 03:10;Making #bioconductor GenomicFeatures work with Intel compiled R - http://www. trudgian.net/2015/07/15/bio conductor-intel.html ;621502081208225793
+seandavis12;2015-07-10 22:08;New #Bioconductor channel on @F1000Research consider submitting a workflow! http:// f1000research.com/channels/bioco nductor  #bioinformatics;619614068735930370
+Bioconductor;2015-07-09 20:09;#rstats / #Bioconductor new tutorial: Introduction to Bioconductor for high-throughput sequence analysis https:// support.bioconductor.org/p/69677/;619221758718124037
+Bioconductor;2015-07-02 22:00;#rstats / #Bioconductor new tutorial: Orchestrating a small, parallel, RNA-seq pre-processing workflow using R https:// support.bioconductor.org/p/69411/;616712988012089344
+seandavis12;2015-07-01 23:11;#bioconductor quarterly newsletter http://www. bioconductor.org/help/newslette rs/2015_July/ ;616368594117652480
+Bioconductor;2015-07-01 23:05;@Bioconductor #rstats / #Bioconductor July Newsletter now available at http://www. bioconductor.org/help/newslette rs/2015_July/ ;616367073766146048
+bAshlynlam;2015-06-30 22:22;Great #Bioconductor presentation at #useR2015 and enjoying #AalborgDenmark;615993858820808704
+seandavis12;2015-06-27 11:10;First attempt at using #aws #ec2 for teaching #bioinformatics went well using #bioconductor AMI and @rstudio ; automated setup using @ansible;614737479527190528
+a2idea;2015-06-27 02:47;"specL--an R/ #Bioconductor package to prepare peptide spectrum matches for use in targeted #proteomics " http:// bioinformatics.oxfordjournals.org/cgi/content/sh ort/31/13/2228?rss=1 ;614611067621085184
+genetics_blog;2015-06-26 15:00;ChIPseeker: #Rstats / #Bioconductor pkg for ChIP peak annotation, comparison and visualization http:// bioinformatics.oxfordjournals.org/content/early/ 2015/03/30/bioinformatics.btv145.short  #bioinformatics;614432987434864640
+mritchieau;2015-06-19 08:17;Hands-on course #Bioconductor for high-throughout sequence analysis by Dr Martin Morgan, Tokyo 7th Sept 2015 http:// tinyurl.com/nbp2sx5 #Rstats;611794960090697728
+mritchieau;2015-06-19 07:54;#Bioconductor is big in Japan! Join us in Tokyo at the 1st Asia-Pacific Developers' Meeting 8th Sept 2015 http:// tinyurl.com/ns6qy55 #Rstats;611789256344801281
+TechWars_io;2015-06-15 12:22;We compared #bioconductor vs #biopython - see results: http://www. techwars.io/fight/biocondu ctor/biopython/ ;610406930419482624
+attilacsordas;2015-06-10 14:51;going to read this during coffee break, RG is an #rstats #bioconductor legend https:// twitter.com/23andMe/status /608629440315203584 ;608632592351506432
+seandavis12;2015-06-10 07:28;#rstats code by @mt_morgan akin to really good poetry: kallisto #RNAseq output into #bioconductor https:// gist.github.com/mtmorgan/eaf45 6ad5b45c431c494  #bioinformatics;608520985696980992
+neurosciforall;2015-06-05 19:20;If you are interested in analysis of genetic data, #Bioconductor is your friend! https:// twitter.com/Bioconductor/s tatus/606887479887560704 ;606888232257622018
+tangming2005;2015-05-29 16:29;cluster your multi-dimensional genomic data sets using iclusterplus #bioconductor http:// bioconductor.org/packages/devel /bioc/html/iClusterPlus.html ;604308523791450115
+ChristosArgyrop;2015-05-29 00:51;Kudos to the #NCBI staff who wrote the GEOquery #Bioconductor package in R. Makes life easy(ier). #rstats;604072551401185280
+PeteHaitch;2015-05-27 02:30;Anyone interested in splitting accommodation for BioC 2015 in Seattle? #Bioconductor;603372586085588994
+Bioconductor;2015-05-26 18:15;Epigenomics RoadMap Project files now accessible via AnnotationHub #Bioconductor http:// bioconductor.org/packages/devel /bioc/vignettes/AnnotationHub/inst/doc/AnnotationHub-HOWTO.html ;603248218126700544
+seandavis12;2015-05-15 22:53;#bioconductor adopt End-of-Life process for packages: http:// bioconductor.org/developers/pac kage-end-of-life/ ;599331829271961601
+hedipeterson;2015-05-15 14:28;4h linux command line course w/ @adlerpriit launched the ELIXIR Spring course series @UniTartuCS #R #Bioconductor #HPC #RNAseq to follow.;599204787867914241
+vivekbhr;2015-05-13 21:02;#rstat #genomics #bioconductor https:// twitter.com/mikelove/statu s/598566458503929856 ;598579081542787072
+stephaniehicks;2015-05-12 14:05;RTCGAToolbox = #Bioconductor package to extract pre-processed TCGA data. Made by Mehmet in our BCB dept @DanaFarber ! http:// bioconductor.org/packages/devel /bioc/html/RTCGAToolbox.html ;598111698315280384
+TechWars_io;2015-05-11 15:33;We compared #bioconductor vs #biopython - see results: http://www. techwars.io/fight/biocondu ctor/biopython/ ;597771408123502592
+CharlesJolyB;2015-05-10 03:21;New blog post: How to import narrowPeak https:// charlesjb.github.io/How_to_import_ narrowPeak/  #bioconductor #rstats;597224838449799169
+ktakeda1;2015-04-30 18:23;#Build2015 #genomics demo now at http:// buildwindows.com using #bioconductor on 16k #azure cores on linux @Azure4Research;593827988485070850
+seandavis12;2015-04-29 04:14;NCBI GEO Metadata Survey using GEOmetadb and dplyr http:// rpubs.com/seandavi/GEOMe tadbSurvey2014  #rstats #bioconductor;593251890068094976
+KamanuFred;2015-04-28 12:45;Nice summary & worked example on biomaRt https:// nsaunders.wordpress.com/2015/04/28/som e-basics-of-biomart/  #rstats #bioconductor;593018314290569217
+aliya_Hshah;2015-04-27 11:56;#Visualizing 6 months of #bioconductor #development using #gource #dataviz https:// youtu.be/-HZ4XOh49fw @vivekbhr @seandavis12 #datascience;592643490934366208
+seandavis12;2015-04-26 19:55;Visualization of six months of #Bioconductor development using gource #dataviz http:// youtu.be/-HZ4XOh49fw?a;592401527517511680
+infotariat;2015-04-26 18:55;Fantastic set of tutorials for those getting the hang of R, Bioconductor, genomics. #rstats #bioconductor http:// training.bioinformatics.ucdavis.edu/docs/2012/05/D AV/ ;592386538274619392
+genetics_blog;2015-04-24 15:00;Protocol for Analysis+visualization of RNA-Seq data using RStudio+ #Bioconductor +IGB http://www. ncbi.nlm.nih.gov/pmc/articles/P MC4387895/  @aloraine205 et al #Rstats;591602595359260673
+hoellenmotte;2015-04-24 12:28;Don't waste any time! Count your #NGS reads fast and easy within #R . Available now on #bioconductor http:// master.bioconductor.org/packages/relea se/bioc/html/bamsignals.html ;591564322096214016
+Bioconductor;2015-04-23 21:33;BioC 2015 #rstats / #Bioconductor Annual Conference July 20-22, Seattle, WA http:// bioconductor.org/BioC2015/;591339159618396160
+Bioconductor;2015-04-17 22:19;#Bioconductor 3.1 is released! http:// bioconductor.org/news/bioc_3_1_ release/ ;589176399908376576
+seandavis12;2015-04-16 00:01;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/edge.html  edge Extraction of Differential Gene Expression: The edge;588477303816085504
+shabbychef;2015-04-14 06:01;Error in namespaceExport(ns, exports) : 
+  undefined exports: .__C__file, .__C__pipe, .__C__textConnection, .__C__AsIs #bioconductor;587843149634019328
+neilfws;2015-04-13 22:28;Comparing the execution time between foverlaps and findOverlaps http://www. r-bloggers.com/comparing-the- execution-time-between-foverlaps-and-findoverlaps/  #rstats #bioconductor;587728998051942400
+tisimpson;2015-04-12 07:26;Some really nice examples in here. " @kihyy : Create complex heatmaps http:// bit.ly/1DVgBvx #bioconductor #R #heatmap ";587139773434847232
+kihyy;2015-04-12 06:46;Create complex heatmaps http:// bit.ly/1DVgBvx #bioconductor #R #heatmap;587129544315920384
+bcantarel;2015-04-07 16:20;why can't all of the tools in #bioconductor be available on one version of #R ?  I just want to make a sexy complex heatmap...;585462169111699456
+Bioconductor;2015-04-04 00:23;#Bioconductor April 2015 newsletter: http:// bioconductor.org/help/newslette rs/2015_April/ ;584134245938896898
+bioinformatics1;2015-04-02 14:33;#Bioconductor Robert Gentleman has been appointed Vice President of Computational Biology at @23andMe http://www. pharmiweb.com/pressreleases/ pressrel.asp?ROW_ID=112127#.VR1ERvzF-So  #Rstats;583623391258771456
+AltunaAkalin;2015-03-31 14:38;Analyze methylation profiles from Roadmap epigenomics and ENCODE #rstats #bioconductor http:// zvfak.blogspot.com/2015/03/using- genomation-to-analyze-methylation.html?spref=tw ;582899886288449536
+seandavis12;2015-03-26 23:30;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/TIN.html  TIN Transcriptome instability analysis: The TIN package;581236747058597888
+seandavis12;2015-03-19 23:54;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/canceR.html  canceR A Graphical User Interface for accessing and;578706233391083520
+RNASeqBlog;2015-03-13 14:25;Visualization of #RNASeq Data Using #RStudio , #Bioconductor ...- http:// bit.ly/18hZMMT @aloraine205 @UNCC_BIGScience pic.twitter.com/QJLVQJdd6R;576388534942093312
+genetics_blog;2015-03-13 14:00;ChIPseeker: #Rstats / #Bioconductor pkg for ChIP peak annotation, comparison, visualization http:// bioinformatics.oxfordjournals.org/content/early/ 2015/03/11/bioinformatics.btv145.short?rss=1  #bioinformatics;576382382388965376
+rnomics;2015-03-13 12:07;Analysis and Visualization of #RNA -Seq Expression Data http:// bit.ly/1Bd686N #DataVisualization #bioconductor #bioinformatics #RNAseq;576353977287065600
+seandavis12;2015-03-10 23:49;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/BrowserViz.html  BrowserViz BrowserViz: interactive R/browser graphics;575443366667812865
+liz__is;2015-03-09 11:50;testthat or RUnit? #rstats #bioconductor;574900092928417792
+dasaptaerwin;2015-03-04 08:42;I've been using 'pcamethods' pkg  ( #bioconductor ),but the new #factorextra pkg ( http:// sthda.com/english ) has more viz. #rstats @UbuntuID;573040739447226368
+Bioconductor;2015-02-28 16:42;#rstats / #bioconductor Celebrating 100000 svn commits! https:// stat.ethz.ch/pipermail/bioc -devel/2015-February/007024.html ;571712062692323328
+craig_parman;2015-02-16 13:11;What is the largest amount of ram and cpus you have used with R? Do you have a use for more? Looking at options. #Bioconductor #rstats;567310403961896960
+TechWars_io;2015-02-15 13:46;We compared #bioconductor vs #biopython - see results: http://www. techwars.io/fight/biocondu ctor/biopython/ ;566956807462330368
+seandavis12;2015-02-14 19:13;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/BubbleTree.html  BubbleTree A method to elucidate purity and clonality;566676575530541056
+Bioconductor;2015-02-09 20:01;Martin Morgan introduces Bioconductor to new users in this latest video - https://www. youtube.com/watch?v=dg6Nvm MVQ3I&index=1&list=PLdl4u5ZRDMQSX1YmESUDUIIVBndGM3BMR  watch now! #Bioconductor #genomics;564876758327902208
+RECrossland;2015-02-07 11:37;Thanks @sjcockell & team for hugely enjoyable #Bioconductor course. Survived the week & even managed some heat maps along the way! @nclbsu;564025241329209346
+JMTali;2015-02-06 13:38;ggbio!! " @genetics_blog : High-throughput genomic analysis with #Bioconductor http://www. nature.com/nmeth/journal/ v12/n2/full/nmeth.3252.html  #Rstats pic.twitter.com/S7HDti06ho ;563693325983973376
+GryderArt;2015-02-03 23:12;@seandavis12 congrats on your recent #Bioconductor paper in Nature Methods! http:// buff.ly/1LzTKGX;562750427222274049
+sjcockell;2015-02-02 14:27;Third time around for our #bioconductor course this week. Today, a gentle introduction to #rstats .;562255950783217664
+RECrossland;2015-02-02 09:54;Braving a #BioConductor course this week - hoping I survive to Friday! @nclbsu @FMSgradschool;562187269239734273
+armish;2015-02-01 18:49;Good to see the #Bioconductor paper in Nature Methods, but why is it behind a pay-wall? Terrible choice. - http:// buff.ly/1LzTKGX;561959454099664896
+seandavis12;2015-01-31 19:18;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/birte.html  birte Bayesian Inference of Regulatory Influence on;561604558301167617
+gjhansen;2015-01-30 14:39;@genetics_blog : 'High-throughput genomic analysis with #Bioconductor http://t.c pic.twitter.com/OCTMO24B7V , see more http:// tweetedtimes.com/search/rstats/ en?s=tnp ;561171934214647809
+jamesmalone;2015-01-30 10:30;New release of the #EMBLEBI AtlasRDF #Bioconductor R package. Fixes a few bugs: http://www. bioconductor.org/packages/devel /bioc/html/AtlasRDF.html ;561109175322050562
+genetics_blog;2015-01-29 18:52;High-throughput genomic analysis with #Bioconductor http://www. nature.com/nmeth/journal/ v12/n2/full/nmeth.3252.html  #Rstats pic.twitter.com/C9xOJq1HOx;560873093418471424
+Bioconductor;2015-01-29 18:47;Orchestrating high-throughput genomic analysis with Bioconductor http:// rdcu.be/b2VE Nature Methods publication, #rstats / #Bioconductor;560871767959298048
+TechWars_io;2015-01-23 18:01;We compared #bioconductor vs #biopython - see results: http://www. techwars.io/fight/biocondu ctor/biopython/ ;558685987707305984
+wakuteka;2015-01-14 09:10;2Qiita... / DNAR #Bioconductor #R - Qiita http:// htn.to/JXaUd26;555290963950592000
+MicrosoftR;2015-01-12 16:15;. #Bioconductor project advances understanding of #genetics http:// bit.ly/14pxBJI;554673020816879616
+jamesaeddy;2015-01-08 07:11;Well then.. looks like it's time to learn @docker RT @Bioconductor : Announcing #Docker containers for #Bioconductor : http:// bioconductor.org/help/docker/;553086463794229248
+Bioconductor;2015-01-08 00:07;Announcing #Docker containers for #Bioconductor : http:// bioconductor.org/help/docker/;552979959140995072
+seandavis12;2014-12-13 23:15;Polyester: simulating RNA-seq datasets with differential transcript expression | bioRxiv and #bioconductor http:// ow.ly/FPLsN;543906998316961792
+seandavis12;2014-12-13 04:59;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/coMET.html  coMET coMET: visualisation of regional epigenome-wide;543631155300290560
+liz__is;2014-12-05 14:39;Best practice for getting gene names/locations in #bioconductor ? TxDb.Mmusculus.UCSC.mm9.knownGene or http:// org.Mm.eg .db or other?;540878037731266560
+TechWars_io;2014-12-05 14:35;We compared #bioconductor vs #biopython - see results: http://www. techwars.io/fight/biocondu ctor/biopython/ ;540877154876399616
+seandavis12;2014-12-03 23:58;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/FlowSOM.html  FlowSOM Using self-organizing maps for visualization and;540294124235001856
+AltunaAkalin;2014-11-26 19:40;@genetics_blog we no use bedtools because we use GenomicRanges #Bioconductor #rstats;537692473754406914
+seandavis12;2014-11-25 23:55;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/PROPER.html  PROPER PROspective Power Evaluation for RNAseq: This;537394147225640960
+guangchuangyu;2014-11-23 02:39;[source code plagiarism] proper use of GOSemSim http:// ygc.name/2014/11/23/pro per-use-of-gosemsim/#sthash.TOY6s6zk.uxfs  via @guangchuangyu #CRAN #Bioconductor #rstats;536348284806131714
+mdshw5;2014-11-20 21:44;"Use #Bioconductor ." Heard this spoken and don't know where to begin? Nice introduction by @fellgernon : http:// lcolladotor.github.io/2014/10/16/sta rtBioC ;535549378438909952
+SahaSurya;2014-11-18 13:41;Its here.. RT @DrJCThrash : Moderated estimation of fold change & dispersion for #RNAseq data wt DESeq2 http:// bit.ly/1yP7MfD #bioconductor;534703038188253185
+Bioconductor;2014-11-17 15:36;Reminder: #bioconductor / #rstats job opportunity https:// support.bioconductor.org/p/62737/;534369460841218049
+seandavis12;2014-11-13 04:54;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/saps.html  saps Significance Analysis of Prognostic Signatures;532758374060793856
+SeqComplete;2014-11-11 22:07;mt #bioinformatics #bioit @genetics_blog : 'I had no idea #Bioconductor had a st pic.twitter.com/WIjk41kr23 , see more http:// tweetedtimes.com/search/%23bioi nformatics%20OR%20%23bioit?s=tnp ;532293684193419264
+genetics_blog;2014-11-11 15:00;I had no idea #Bioconductor had a stack exchange-like support page https:// support.bioconductor.org / #rstats #bioinformatics pic.twitter.com/YasqqjslnI;532186156453363712
+DeltaBCDad;2014-11-05 17:23;Performing set operations on bed files is one of the most frustrating simple things I do #bioinformatics . #bedops #bedtools #bioconductor;530047744698642432
+aemonten;2014-11-04 14:22;Does anyone have any experience with the PWMEnrich package for #Bioconductor ?;529639867316461568
+rnomics;2014-11-03 13:08;Overview of an #RNA Seq Workflow: This series is part of the http:// bit.ly/10eM6hp #Presentations #bioconductor #workflow #RNAseq;529258773584424960
+tangming2005;2014-10-31 20:27;I want to visualize some genomic data with R and it then happens that someone already made a package! #bioconductor;528282151046107136
+genetics_blog;2014-10-25 18:00;Chimera: #Rstats / #Bioconductor pkg for secondary analysis of fusion products http:// bioinformatics.oxfordjournals.org/content/early/ 2014/10/21/bioinformatics.btu662.short?rss=1  #bioinformatics;526055824368869379
+tisimpson;2014-10-17 17:34;My previous two tweets illustrating the  importance of software in research in quite a timely fashion. #bioconductor @SoftwareSaved;523150104182915073
+magic_mp;2014-10-17 17:01;miRNAtap package finally in production as part of #Bioconductor 3.0 release! http://www. bioconductor.org/packages/relea se/bioc/html/miRNAtap.html  @tisimpson;523141857132707840
+SAGRudd;2014-10-17 08:55;#bioconductor met its match - @affymetrix HTA_2.0 presents formidable challenge - using #ExpressionConsole for 1st time = #PleasantSurprise;523019445674209280
+andrewsu;2014-10-16 17:40;Blog post on new mygene #bioconductor package, the R client to @mygeneinfo http:// mygene.info http:// sulab.org/2014/10/introd ucing-mygene-r-package/  by @AztecAsstToThe;522789273636855810
+seandavis12;2014-10-15 19:51;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/Metab.html  Metab Metab: An R Package for a High-Throughput Analysis;522459702311919616
+genetics_blog;2014-10-15 15:00;Chimera: #Rstats / #Bioconductor pkg for secondary analysis of fusion products http:// bioinformatics.oxfordjournals.org/content/early/ 2014/10/06/bioinformatics.btu662.abstract  #bioinformatics;522386608184893440
+chunleiwu;2014-10-14 23:44;MyGene.R just released with the latest #bioconductor 3.0 http:// mygene.info/mygene-r-relea sed-in-bioconductor-3-0/ ;522155933397295104
+neilfws;2014-10-14 23:33;Upgraded our machines, all went smoothly. MT @Bioconductor : #Bioconductor 3.0 is released! http://www. bioconductor.org/news/bioc_3_0_ release/ ;522153349571813378
+andrewsu;2014-10-14 23:32;#bioconductor v3.0 out! https:// support.bioconductor.org/p/62034/ includes our mygene.R gene annot pkg http://www. bioconductor.org/packages/relea se/bioc/html/mygene.html  kudos @chunleiwu and team!;522152979474821120
+dgermain21;2014-10-14 22:48;Super cool, especially spatial genomics and epigenomics! RT @genetics_blog : Lots of new #rstats / #bioconductor pkgs http://www. bioconductor.org/news/bioc_3_0_ release/ ;522141855480164352
+genetics_blog;2014-10-14 22:42;Lots of new #rstats / #bioconductor packages http://www. bioconductor.org/news/bioc_3_0_ release/ ;522140299741888512
+Bioconductor;2014-10-14 22:32;#Bioconductor 3.0 is released! http://www. bioconductor.org/news/bioc_3_0_ release/ ;522137974759124992
+ncloonan;2014-10-11 00:19;MR: Voom with quality weights available in the limma package #bioconductor #ABiC14;520715394995068930
+Bioconductor;2014-10-11 00:07;New Video's added ! pRolocGUI Tutorial now on Bioc's youTube channel - https://www. youtube.com/playlist?list= PLdl4u5ZRDMQQAEzUldG0T-UY0YC-kVepR  #Bioconductor #Proteomics;520712320079507456
+hyphaltip;2014-10-10 20:53;RG: mentions that all his #bioconductor pkgs are artistic license and #OpenSource Still okay at Roche/Genetech.;520663401249247233
+hyphaltip;2014-10-10 20:25;RG: exonfindR #bioconductor pkg to discover exons & build gene models giving splice graph & expression counts. #RNAseq #useR;520656491166965760
+hyphaltip;2014-10-10 20:12;RG: RNA-seq with HTSeqGenie is internal genetech pipeline, uses GSNAP for spliced RNA aln. Use ONE set of gene models. #useR #bioconductor;520653213389692928
+adramirez451;2014-10-10 02:22;Reading about HT-Seq Analysis using #R and #Bioconductor instead of completing an assignment about cats dying #JustScientistThings;520383734189527040
+PeteHaitch;2014-10-08 21:57;That's my first BioC package :D " @seandavis12 : New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/GenomicTuples.html  GenomicTuples Representation and manipulation";519954737634885632
+notSoJunkDNA;2014-10-08 20:06;by @acfrazee @jtleek et al RT @seandavis12 New 2 #bioconductor http:// bioconductor.org/packages/devel /bioc/html/derfinder.html  derfinder Fast differential expression analysis of RNA;519926900215795712
+VirusMuser;2014-10-08 18:03;@_NickGolding_ R....it's been a while....reccommend any good books etc. to get back into it? #rstats #bioconductor;519895938387959808
+ashim888;2014-10-08 15:15;Well This #bioconductor takes a lotta time to download and with a internet speed like this i'm gonna take a nap. #slowinternetsucks;519853719710470144
+seandavis12;2014-10-06 23:56;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/rRDP.html  rRDP Interface to the RDP Classifier: Seamlessly interfaces;519259865437306880
+bio_alice;2014-09-26 23:17;Scalable #Genomics with R and #Bioconductor http:// arxiv.org/abs/1409.2864;515626282261176321
+stephaniehicks;2014-09-25 14:46;Fantastic overview of #Bioconductor for the analysis of #genomics data. Perfect for undergrads http:// arxiv.org/pdf/1409.2864. pdf  via @mikelove #rstats;515135281453076480
+seandavis12;2014-09-22 13:40;Now THIS http:// bioconductor.org/packages/devel /bioc/vignettes/seqplots/inst/doc/SeqPlotsGUI.html  is a #shinyapp  pretty fancy! #rstats #bioconductor;514031389801738240
+yokofakun;2014-09-18 22:38;so there is a Q&A site for #bioconductor based on the #biostars platform https:// support.bioconductor.org/t/Latest/ !;512717308133773312
+abhishekpratap;2014-09-18 00:00;@seandavis12 does that mean the mailing list is going away?? which is fine ..just wanted to check #bioconductor;512375475688456192
+seandavis12;2014-09-17 23:53;New #bioconductor support site is live at https:// support.bioconductor.org / with all emails imported and 13 years of archives available!;512373882561785856
+wgrover;2014-09-17 19:45;Originator of #R language and #Bioconductor to speak on "Genome Scale Data Analysis" @UCRiverside Oct. 10 12pm Genomics auditorium;512311375545503747
+Bioconductor;2014-09-16 00:26;The #Bioconductor mailing list has been replaced with this Q&A Site: https:// support.bioconductor.org / . The bioc-devel list is still going.;511657304127598593
+Bioconductor;2014-09-15 15:20;Course: Learning #rstats / #Bioconductor for Sequence Analysis. Dates: October 27-29, Seattle, WA. Registration: https:// register.bioconductor.org/Seattle-Oct-20 14/ ;511519810983690240
+lawremi;2014-09-11 21:42;Love #rstats and #bioconductor ? So do we @Genentech research; jobs openings in #bioinformatics ; apply here: http://www. gene.com/careers;510166618245042176
+attilacsordas;2014-09-11 10:05;Scalable Genomics with #rstats and #bioconductor http:// arxiv.org/abs/1409.2864 looks like a good and airy overview;509991143702937600
+bioinfosm;2014-08-29 21:58;Epiviz:interactive visual analytics for functional #genomics data http://www. nature.com/nmeth/journal/ v11/n9/full/nmeth.3038.html  web browser or #bioconductor pkg #bioinformatics;505459435037155330
+seandavis12;2014-08-28 19:04;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/MBASED.html  MBASED Package containing functions for ASE analysis;505053373968564224
+Bioconductor;2014-08-27 17:09;Latest material from the Brazilian 2014 Cancer Epigenomics now available at : http://www. bioconductor.org/help/course-ma terials/2014/Epigenomics/  - #Bioconductor;504662052401471490
+Bioconductor;2014-08-26 20:29;We heard you at the #BioC2014 - a better, faster and more intuitive way of finding #Bioconductor material http://www. bioconductor.org/help/course-ma terials/ ;504350012827267072
+tisimpson;2014-08-26 09:46;Our miRNA target prediction integration method just released in #Bioconductor Dev - miRNAtap - http:// bit.ly/1wvy0Hb #miRNA;504188065557282816
+stephaniehicks;2014-08-25 13:30;postdoc #protip : you know it will be a great week when your R pkg was just accepted on #Bioconductor ! :) http:// bioconductor.org/packages/devel /bioc/html/quantro.html  #rstats;503882165558726657
+TechWars_io;2014-08-24 19:02;We compared #bioconductor vs #biopython - see results: http://www. techwars.io/fight/biocondu ctor/biopython/ ;503603203317846017
+Sonali_bioc;2014-08-22 23:51;@stephaniehicks - haha! Thats a good one... Lets see if #BiocStyle from #Bioconductor makes it to a "stylist toolbox" ! :) Congrats again !;502951184420720640
+stephaniehicks;2014-08-21 17:58;Can I put 'stylist' on my CV now that I have officially "styled" my R package for #Bioconductor ?;502499997787889664
+helioRocha_;2014-08-20 01:31;Search for #CRAN , #GitHub and #BioConductor #packages at #Rdocumentation .org | ( #R news & tutorials) http:// goo.gl/Ft7eAW;501889270504620032
+nsegata;2014-08-18 13:47;@genetics_blog writing an interface (higher-lev then #rpi2 ) between #pandas and #bioconductor shouldn't be impossible (but inefficient);501349623207043073
+genetics_blog;2014-08-18 13:42;@nsegata who's planning on re-implementing the entire #Bioconductor project in python? not me!;501348333907374080
+genetics_blog;2014-08-15 18:00;NetPathMiner: #Rstats / #Bioconductor pkg for network path mining through gene expression http:// bioinformatics.oxfordjournals.org/content/early/ 2014/08/08/bioinformatics.btu501.short?rss=1 ;500326206194327553
+scilahn;2014-08-14 23:35;Big thanks to tech support @RevolutionR for timely and patient email support to deal with a #bioconductor install bug;500048208379146240
+seandavis12;2014-08-09 19:37;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/proteoQC.html  proteoQC An R package for proteomics data quality;498176263710720000
+seandavis12;2014-08-08 10:48;New to #bioconductor http:// bioconductor.org/packages/devel /bioc/html/STAN.html  STAN STrand-specific ANnotation of genomic data: STAN;497680827619098624
+sambuckberry;2014-08-07 02:20;Looks powerful! EpiVis and epivizr in #bioconductor ; visual analytics for functional genomics data http:// bit.ly/1AW8ryI @naturemethods;497190559669170177
+enlightenbio;2014-08-04 20:00;#Epiviz #visualization tool for genonmic data #opensource #bioconductor #Chipseq #RNAseq via http:// ow.ly/zW5pm & http:// ow.ly/zW5aI;496370151319945216
+stephaniehicks;2014-08-01 16:46;theme for #BioC2014 : shiny/interactive graphics for genomic data based on #bioconductor R packages e.g. shinyMethyl, shinyphyloseq, epivizr;495234186278879232
+stephaniehicks;2014-08-01 13:43;Michael Lawrence on essential fns for genomic ranges, isoforms expression, disjoint regions & variant calling #BioC2014 #Bioconductor;495188177288957952
+stephaniehicks;2014-07-31 18:08;Afternoon practicals starting w/ @KasperDHansen on minfi #bioconductor package for DNA methylation analysis http://www. bioconductor.org/packages/relea se/bioc/html/minfi.html  #BioC2014;494892405838323712
+OpenCyto;2014-07-30 15:51;Workshop on using #OpenCyto at #BioConductor conference Thursday, July 31, 2014.;494495450360446976
+stephaniehicks;2014-07-30 15:26;Are you developing a #Bioconductor R package? Check out BiocCheck instead of 'R CMD check' http://www. bioconductor.org/packages/relea se/bioc/html/BiocCheck.html  #BioC2014 #rstats;494489187308277760
+Bioconductor;2014-07-15 18:26;#Rstats / #Bioconductor RNA-seq workflows; slides here http:// mikelove.github.io/biocrnaseq/;489098780990394370
+genetics_blog;2014-07-15 16:27;The #ISMB #Rstats / #Bioconductor annotation talk has awesome examples. Too bad the slides aren't as well commented http:// master.bioconductor.org/help/course-ma terials/2014/ISMB2014/Annotation_slides.pdf ;489068828912275456
+chunleiwu;2014-07-15 16:04;#ismb #wk05 Martin Morgan is talking about AnnotationHub for #bioconductor #rstats;489063076818595840
+genetics_blog;2014-07-15 16:02;#ISMB I won't be able to stick around for @mikelove 's talk on #Rstats / #Bioconductor RNA-seq workflows; slides here http:// mikelove.github.io/biocrnaseq/;489062555860889600
+markgerstein;2014-07-13 16:25;Bernau: mentions survHD, a #Bioconductor package on the Synthesis of high-dimensional survival analysis https:// bitbucket.org/lwaldron/survhd #ISMB #PP05;488343573826654208
+eddelbuettel;2014-07-10 20:35;I like "Use Rcpp" :-) MT @Bioconductor Guide for developing Mavericks pkgs with C/C++ for #Bioconductor : https:// stat.ethz.ch/pipermail/bioc -devel/2014-July/005951.html  ;487319301397823490
+Bioconductor;2014-07-10 20:22;Guidelines for developing Mavericks packages with C/C++ for #Bioconductor and avoiding pitfalls: https:// stat.ethz.ch/pipermail/bioc -devel/2014-July/005951.html ;487315984659652608
+PaeoniaDrop;2014-07-07 04:03;Going to give this paper 15 mins. Then I'm going to bed. #bioconductor #GradSchoolProblems;485982520630968322
+yi_john_huang;2014-07-07 01:57;#VariantAnnotation : a #Bioconductor package for exploration and annotation of #genetic_variants http:// feedly.com/e/r6TGqYdy via @feedly;485950716498821122
+Bioconductor;2014-07-03 20:25;#Bioconductor / #rstats July newsletter available at http:// bioconductor.org/help/newslette rs/2014_July/ ;484780064647548928
+bioinfosm;2014-07-03 17:34;Excellent #bioconductor #R #NGS tutorial featuring #Limma #normalization Data Analysis for #Genomics http:// genomicsclass.github.io/book/ H/T @brent_p;484737053179912192
+webbedfeet;2014-07-03 04:31;@earino @guneetc79 Actually a lot of the #Bioconductor stuff is industry-standard. In academic omics it is probably the default by far.;484539848309895168
+rmflight;2014-07-01 15:25;. @genetics_blog with package already on CRAN? this is how to do a methods paper! http:// cran.r-project.org/web/packages/m GSZ/index.html  #rstats #bioconductor;483979728307912706
+gtamazian;2014-06-14 13:00;Nice genomic data visualization with #hilbertcurve produced by HilbertVis package from #Bioconductor . http://www. ebi.ac.uk/huber-srv/hilb ert/gallery.html ;477782565836029952
+markrobinsonca;2014-06-12 18:17;Come to the edgeR / voom / featureCounts tutorial! MT @seandavis12 #Bioconductor Conf, Jul 31 - Aug 1, 2014, Boston https:// register.bioconductor.org/BioC2014/;477137700898996225
+seandavis12;2014-06-12 17:58;Reminder: #Bioconductor Conference, July 31 - Aug 1, 2014, Boston https:// register.bioconductor.org/BioC2014/;477132796864233472
+rnomics;2014-06-06 13:52;Next maSigPro: updating maSigPro Bioconductor... http:// bit.ly/1kGGK5X #ExpressionandQuantification #bioconductor #geneexpression #RNAseq;474896726512246784
+Bioconductor;2014-06-02 03:40;BioC2014 #rstats / #Bioconductor annual conference July 30-Aug 1, Boston https:// register.bioconductor.org/BioC2014/;473293064904376320
+JosephGuhlin;2014-05-29 15:54;#GenomeGraphs package for non-ENSEMBL datasets? It'd be great to read just GFF file for example. #R #bioconductor;472028335242227712
+stevepiccolo;2014-05-21 17:29;So far I've been extremely pleased with the Rsubread package in #Bioconductor for processing RNA-Seq data. Fast and clean! #bioinformatics;469153125668892674
+UseqMiseq;2014-05-20 21:01;Good site with Sets of Manuals/Tutorials for #R , #bioconductor , #VimR , NGS-GUI, EMBOSS etc... | @scoopit http:// sco.lt/5PSG6D;468843981787656192
+Sonali_bioc;2014-05-16 20:31;Just registered for #rstats / #Bioconductor BioC 2014 Annual Conference, Boston July 30 - August 1 https:// register.bioconductor.org/BioC2014/;467386945778114560
+sjcockell;2014-05-16 17:26;#rstats #bioconductor course is so tiring to deliver. Think it went well though.;467340345651777537
+sambuckberry;2014-05-16 02:27;An accurate way to predict the sex of samples in high throughput gene expression datasets @simplystats #bioconductor http://www. bioconductor.org/packages/relea se/bioc/html/massiR.html ;467113963402973184
+neilfws;2014-05-08 02:37;Getting some nice results out of #rstats #bioconductor maSigPro pic.twitter.com/PF47B9DAxS;464217438909779968
+rmflight;2014-05-06 19:13;. @iddux but #bioconductor #rstats is doing better than either http://www. google.com/trends/explore ?hl=en-US&q=biopython,+bioperl,+bioconductor#q=biopython%2C%20bioperl%2C%20bioconductor&cmpt=q ;463743341490737152
+Bioconductor;2014-05-05 23:39;#Bioconductor 2.14 binary packages for Mavericks (Mac OS X 10.9) are now available. https:// stat.ethz.ch/pipermail/bioc onductor/2014-May/059378.html ;463448039063965696
+imarshut_old;2014-04-17 16:18;#Bioconductor http://www. marshut.com/iupqzr/fontcon fig-error-in-r-3-10-when-running.html  Fontconfig error in R 3.10 when running;456813865448120324
+genetics_blog;2014-04-04 13:45;QC for ChIP-seq data in #Rstats / #Bioconductor http://www. bioconductor.org/packages/devel /bioc/html/ChIPQC.html  #bioinformatics;452064301759856641
+pizzzzzle;2014-03-25 12:03;counting reads per gene with genomic ranges #RNAseq #R #bioconductor http:// pzumbo.weebly.com/1/post/2014/03 /counting-reads-per-gene-with-genomic-ranges.html  @mason_lab;448429864392347650
+jamesmalone;2014-03-12 12:51;Here's my overview of our new AtlasRDF Biocondcutor R package. http:// drjamesmalone.blogspot.co.uk/2014/03/the-at lasrdf-bioconductor-package.html  #rdf #emblebi #linkeddata #bioconductor @simonjupp;443730918411603968
+Bioconductor;2014-03-08 00:25;This #edX course features #Bioconductor , though it's relatively 'small' with only 10,000 students registered. https://www. edx.org/course/harvard x/harvardx-ph525x-data-analysis-genomics-1401#prerequisites ;442093750961987584
+genetics_blog;2014-03-04 18:01;SeqGSEA: #Rstats / #Bioconductor pkg for gene set enrichment analysis of RNA-Seq diff expression+splicing data http:// bioinformatics.oxfordjournals.org/content/early/ 2014/02/16/bioinformatics.btu090.short?rss=1 ;440909912152244224
+seandavis12;2014-02-06 12:57;Some R/Bioconductor course material http:// seandavi.github.io/BiocBrazil2014/ from ongoing http:// bioinformatics.fmrp.usp.br/curso2014/ #bioinformatics #bioconductor;431411377455251456
+Bioconductor;2014-02-03 21:25;Short course: Introduction to #rstats / #bioconductor for Sequence Analysis, Feb 27-28, Seattle https:// secure.bioconductor.org/Seattle-Feb-20 14/ ;430451886097833984
+genetics_blog;2014-02-03 15:51;From Smyth group: Voom - linear model analysis tools for RNA-seq read counts http:// genomebiology.com/2014/15/2/R29/ abstract  #rstats #bioconductor;430367872624652288
+aloraine205;2014-02-01 18:04;Many thanks are due to Marc Carlson for maintaining #Bioconductor database org.At.tair.db for #Arabidopsis . Very useful!;429676558979067904
+ResearchBug;2014-01-29 15:55;Need a small, human or mouse microarray #dataset on GEO for intro #rstats / #bioconductor wrkshp? @seandavis12 @genetics_blog #genetics;428556986423451648
+imarshut_old;2014-01-04 03:41;#Bioconductor #Listserv http://www. marshut.com/ikwyus/parse-c haracter-strings-so-they-align-line-up-match-properly.html  Parse character strings so they &quot;align&quot; (line up/match) properly;419312488711471106
+nocx;2013-12-29 21:22;Exploiting parallel #R in the cloud with SPRINT. http://www. ncbi.nlm.nih.gov/pubmed/23223611 #bioconductor #rstats #bioinformatics;417405171593777153
+Chris_Evelo;2013-12-22 09:35;. @egonwillighagen nice to see work on @Open_PHACTS calls from R. A #Bioconductor package using the IMS would be useful by itself I think;414690727197552640
+Chris_Evelo;2013-12-21 15:21;@egonwillighagen but yes that is why I want @PathVisio , @Cytoscape , #R #Bioconductor and even HTML and Excel support for @Open_PHACTS;414415439616155648
+JinliangYang;2013-12-19 22:18;Analysis of RNA-seq Data with #rstat / #Bioconductor R codes included http:// bit.ly/19VV4ie;413795581836808192
+rnomics;2013-12-17 15:54;Analysis of #RNA -Seq Data with R/Bioconductor: Analysis... http:// bit.ly/JDjirl #Presentations #bioconductor #geneexpression #RNAseq;412974095853027328
+omictools;2013-12-17 04:03;An informative directory for #NGS and #microarray analysis! #sequencing #bioinformatics #statistics #datamining #bioconductor #bigdata;412795163019194368
+copypasteusa;2013-11-29 00:57;ReportingTools automatically recognizes and transforms outputs of #R #Bioconductor packages into HTML-based reports. http:// bioinformatics.oxfordjournals.org/cgi/content/lo ng/29/24/3220 ;406225439128961024
+seandavis12;2013-11-26 16:26;A simple function for importing illumina expression iDAT files into #Bioconductor : https:// gist.github.com/seandavi/76612 90  #bioinformatics;405371883971170304
+caseybergman;2013-11-24 08:02;SRAdb: query and use public next-generation sequencing data from within R ( http:// bit.ly/1c1TO0J ) #bioconductor;404520409238097920
+abhishekpratap;2013-11-23 01:38;full #bioconductor code search : http:// search.bioconductor.jp / #R;404061392598097920
+genetics_blog;2013-11-19 21:03;I've used MEDIPS quite a bit for some MeDIP-seq experiments. Paper finally published: http://www. ncbi.nlm.nih.gov/pubmed/24227674 #rstats #bioconductor;402905023379943426
+UseqMiseq;2013-11-19 16:19;Workshops on: Command-Line #Bioinformatics , #Ensembl and #Bioconductor 2014, Newcastle Biomedicine | @scoopit http:// sco.lt/637uMr;402833598258380800
+isatools;2013-11-17 11:58;Looking to learn more advanced R? Have a look here http:// adv-r.had.co.nz / #r #bioconductor #dataanalysis;402043175248089088
+neilfws;2013-11-13 00:44;getting a sense that minfi blockFinder() not quite ready for prime-time #bioconductor;400423905048797184
+neilfws;2013-11-12 21:48;So many QC measures. So little documentation on how to interpret them. #bioconductor;400379701920661504
+vsbuffalo;2013-11-08 22:32;GenomicRanges's new tileGenome() is pretty neat. Bit of hacking and you get pretty fast summary functions over chrom bins #bioconductor;398941081577857025
+bluemm79;2013-11-04 12:51;BioCode's Notes: Integrating the Biological Universe. #NGS #proteomics #databases #bioconductor #data | @scoopit http:// sco.lt/9KV8Ph;397345460253634560
+Bioconductor;2013-10-30 18:56;#Bioconductor / #rstats developer meeting additional details http:// bit.ly/1aE3o7A;395625252895481856
+Bioconductor;2013-10-30 18:53;#Bioconductor / #rstats developer meeting Cambridge, UK - Dec 9-10 http:// bit.ly/18DicjP;395624458464927744
+gtamazian;2013-10-24 19:45;@Bioconductor Thanks! #Bioconductor Rsamtools FaFile proved to be really fast and effective.;393448145549815808
+rnomics;2013-10-24 13:13;New #RNA -Seq Pathway and Gene-set Analysis Workflows in... http:// bit.ly/1ad7u6b #PathwayAnalysis #bioconductor #GAGE #RNAseq @MyEN;393349440813019136
+antagomir;2013-10-20 16:39;Fully scalable preprocessing of arbitrarily large microarray (short oligo) atlases on ordinary desktop https:// tinyurl.com/oftnoc5 #bioconductor;391951755279204352
+balcomes;2013-10-17 01:55;The Bioconductor package I wrote, interactiveDisplay, has just been released! #bioconductor #gsoc2013 http:// bioconductor.org/packages/relea se/bioc/html/interactiveDisplay.html ;390642082009735168
+genetics_blog;2013-10-15 22:28;#Rstats #bioinformatics RT @mikelove : #Bioconductor 2.13 is released. >10% new packages. same low price. http://www. bioconductor.org/news/bioc_2_13 _release/ ;390227700902010880
+Bioconductor;2013-10-15 21:28;#Bioconductor 2.13 is released! http:// bit.ly/GX2hqG;390212593257705472
+gknoProject;2013-10-14 23:47;GViz: Plotting data and annotation information along genomic coordinates http://www. bioconductor.org/packages/2.12/ bioc/html/Gviz.html  h/t @vsbuffalo #Rstats #bioconductor;389885183538638848
+seandavis12;2013-10-13 21:09;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/epivizr.html  epivizr R Interface to epiviz web app: This package;389483035898683392
+seandavis12;2013-10-11 21:31;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/flipflop.html  flipflop Fast lasso-based isoform prediction as a flow;388763773500395520
+seandavis12;2013-10-11 21:31;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/FGNet.html  FGNet Functional gene networks derived from biological;388763772707688450
+druvus;2013-10-11 13:07;#Bioconductor v2.12 consist of 672 software packages I remember the old days when it used to be just 20 packages #R;388636850371301376
+GregFinak;2013-10-11 04:02;#OpenCyto is now available on #BioConductor . Build hierarchical automated gating pipelines and templates for your large flow data sets.;388499731275476992
+attilacsordas;2013-10-10 21:35;R.Gentelman: "it's data structures that drive interoperability" http://www. nature.com/nbt/journal/v3 1/n10/full/nbt.2721.html?WT.ec_id=NBT-201310  in the context of #rstats & #bioconductor;388402403801718784
+genetics_blog;2013-10-02 18:01;Software for Computing and Annotating Genomic Ranges http://www. ploscompbiol.org/article/info:d oi/10.1371/journal.pcbi.1003118  #Rstats #bioconductor #genomics #bioinformatics;385449551437766656
+KatherineMejia;2013-10-01 05:00;Software for computing and annotating genomic ranges" #R #Bioconductor http://www. ncbi.nlm.nih.gov/entrez/query.f cgi?cmd=Retrieve&db=PubMed&dopt=Abstract&list_uids=23950696 ;384890421035270146
+SahaSurya;2013-09-30 22:01;RT @hcorrada : The metagenomeSeq paper is out in Nat. Methods. http:// bit.ly/18GGrQ7 . #metagenomics v @aphillippy #bioconductor;384785039806169088
+stephaniehicks;2013-09-30 19:02;How can I take the intersection of all ranges within a single GRanges object? disjoin() almost does it, but not quite. #bioconductor #rstats;384740154960658432
+seandavis12;2013-09-07 20:21;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/ASSET.html  ASSET An R package for subset-based association analysis of;376425116860960768
+davidfredman;2013-08-29 05:45;@doc2r06 #bioconductor tuts: http:// goo.gl/jRSpqg , http:// goo.gl/h8GGAJ , http:// goo.gl/SZv3X Useful: http:// goo.gl/gOGB7N;372943107840421888
+seandavis12;2013-08-28 00:00;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/RTN.html  RTN Reconstruction of transcriptional networks and analysis;372493972276801536
+genetics_blog;2013-08-27 13:55;Nature protocols: analyzing RNA-seq with #Rstats / #Bioconductor http://www. nature.com/nprot/journal/ v8/n9/full/nprot.2013.099.html  #bioinformatics;372341629019258880
+robertclab;2013-08-27 08:34;tweeDEseq paper published http:// bit.ly/1f1Oite a #rstats / #Bioconductor pkg for DE analysis of RNA-seq data with a Poisson-Tweedie model.;372260762707701760
+Bioconductor;2013-08-26 00:42;Intermediate course: Understanding #rstats / #Bioconductor , Seattle Sept 30 / Oct 1 http:// bit.ly/18Ueuok;371779629880578050
+laxvid;2013-08-22 13:10;@simplystats @ctitusbrown @drio R is a beast but can be tame in good hands (not mine most of the time)! #Bioconductor like community helps!;370518262402281472
+neilfws;2013-08-22 04:25;All done: #bioconductor xps installs fine after "sudo apt-get install root-system";370386171387314176
+neilfws;2013-08-22 04:17;OK. So a prerequisite for #bioconductor xps is something called root. Seems needlessly complex.;370384086994395136
+neilfws;2013-08-22 04:10;#bioconductor xps installation (as sudo) complaining about ROOTSYS. Have never seen this before.;370382463324794880
+Bioconductor;2013-08-21 02:28;#Bioconductor 2.13 Release Schedule announced http:// bit.ly/1732SQt;369994435079061504
+raphg;2013-08-20 17:13;New paper from our group on Bayesian eQTL modeling (iBMQ) #rstats #bioconductor package http:// bioinformatics.oxfordjournals.org/content/early/ 2013/08/19/bioinformatics.btt485.abstract ;369854672103677952
+genetics_blog;2013-08-16 21:00;#Rstats / #Bioconductor pkg for Sample Size & Power Analysis for Microarray & NGS data http://www. bioconductor.org/packages/relea se/bioc/html/SSPA.html  #bioinformatics;368462296668205056
+bffo;2013-08-09 05:08;I must applaud #PLOScb 4 a software art. | #rstat #bioconductor | Software 4 Computing & Annotating Genomic Ranges | http:// dx.plos.org/10.1371/journa l.pcbi.1003118 ;365686102943735808
+genetics_blog;2013-08-08 22:23;#Rstats / #Bioconductor Software for Computing and Annotating Genomic Ranges http://www. ploscompbiol.org/article/info:d oi/10.1371/journal.pcbi.1003118#!@genetics_blopg ;365584140533374976
+Bioconductor;2013-08-06 23:33;RSS feeds of #Bioconductor package build status now available. http:// bit.ly/156RWMy;364876975875174401
+seandavis12;2013-08-03 19:25;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/seqCNA.html  seqCNA Copy number analysis of high-throughput sequencing;363727411747512320
+andrewsu;2013-08-01 17:30;last link on #Rstats / #bioconductor tutorials in addition to great material at http://www. bioconductor.org/help/course-ma terials/  of course...;362973549738205185
+andrewsu;2013-08-01 17:27;just discovered a fantastic set of tutorials and training materials on #Rstats / #bioconductor http:// manuals.bioinformatics.ucr.edu/workshops & links therein;362972855480225792
+seandavis12;2013-07-30 21:01;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/OmicCircos.html  OmicCircos High-quality circular visualization of omic;362302054816944129
+kevin_ushey;2013-07-19 08:04;Autocomplete pkg names in library or require calls: utils::rc.settings(ipck=TRUE) Handy for those gigantic #Bioconductor pkg names #rstats;358120175666610176
+genetics_blog;2013-07-12 13:15;Materials from useR! 2013 couse: #Rstats / #Bioconductor for Analyzing High-Throughput #Genomics Data http:// gettinggeneticsdone.blogspot.com/2013/07/course -materials-from-user-2013.html  #bioinformatics;355661587320803328
+Bioconductor;2013-07-12 07:55;#Bioconductor / #rstats new course material from #CSAMA 2013, #useR2013 http:// bit.ly/12l5W5D;355581197851693057
+seandavis12;2013-07-05 23:53;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/BiocStyle.html  BiocStyle Standard styles for vignettes and other;353285606375292928
+mwanger;2013-07-05 13:24;seems to be nice for publication figure " @GenomicsIo : Gviz has rapidly become my favorite #bioconductor http://www. bioconductor.org/packages/relea se/bioc/html/Gviz.html  #Rstats ";353127215854133248
+GenomicsIo;2013-07-05 13:12;And here is a nice presentation about Gviz with great examples of the capabilities http://www. bioconductor.org/help/course-ma terials/2012/BiocEurope2012/GvizEuropeanBioc2012.pdf  #bioconductor #Rstats;353124157459939328
+GenomicsIo;2013-07-05 13:08;Gviz has rapidly become my favorite #bioconductor package for visualizing our sequencing (and array) data http://www. bioconductor.org/packages/relea se/bioc/html/Gviz.html  #Rstats;353123169764245504
+Bioconductor;2013-07-01 03:14;#Bioconductor / #rstats Annual Conference Seattle July 17 (Dev. Day) 18-19 early registration ends July 1 http:// bit.ly/12Wr2ww;351524277390020608
+seandavis12;2013-06-29 20:25;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/RDAVIDWebService.html  RDAVIDWebService An R Package for retrieving;351058915821228032
+genetics_blog;2013-06-29 15:00;PING 2.0: an #Rstats / #Bioconductor package for nucleosome positioning using #NGS data http:// bioinformatics.oxfordjournals.org/content/early/ 2013/06/20/bioinformatics.btt348.abstract  #bioinformatics;350977060719689728
+daweonline;2013-06-27 07:28;Why on earth #R is so incredibly slow? More precisely: why #bioconductor packages are so terribly designed?;350138554195787776
+genetics_blog;2013-06-24 18:00;Count-based differential expression analysis of RNA-seq data using #Rstats and #Bioconductor http:// arxiv.org/abs/1302.3685 #bioinformatics #arXiv;349210418910212096
+seandavis12;2013-06-22 19:32;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/flowBeads.html  flowBeads flowBeads: Analysis of flow bead data: This;348508917518708737
+hashonomy_gus;2013-06-20 00:24;[1302.3685] Count-based differential expression analysis of RN... http:// hashonomy.com/khaf/ #rna #sequencing #bioconductor (via @bioinfosm );347495139750580224
+stephaniehicks;2013-06-19 22:36;Getting started with #samtools and Rsamtools http:// statisticalrecipes.blogspot.com/2013/06/gettin g-started-with-samtools-and.html  #genomics #bioinformatics #NGS #rstats #bioconductor;347467958550925314
+seandavis12;2013-06-18 19:51;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/vtpnet.html  vtpnet variant-transcription factor-phenotype networks;347064117883973632
+Bioconductor;2013-06-15 21:15;#Bioconductor / #rstats BioC 2013 Annual Conference Developer Day starting to take shape http:// bit.ly/18LatGz;345998037665067008
+Bioconductor;2013-06-15 21:14;#Bioconductor / #rstats BioC 2013 Annual Conference July 18-19 http:// bit.ly/12Wr2ww final days for Workshop proposals!;345997700996681728
+MarcosEgeaCorti;2013-06-14 13:56;@WyoWeeds @ReskiLab @zentree BTW calling R hippie considering that #Bioconductor is R is hilarious;345525227888984064
+QuartzBio;2013-06-12 10:11;Quartz Bio @QuartzBio supports the R foundation for Statistical Computing http://www. r-project.org / #R / #Rstats / #Bioconductor / #Bioinformatics;344743867184205824
+RashiNaresh;2013-06-07 20:23;And now ' #R ' is the new annoying thing in life. *sigh* #Bioconductor;343085802764500992
+drng;2013-06-07 01:00;Oh zing. The latest version of #R 3.0.1 has been named "Good Sport" #Gatsby #NerdHumor #Bioconductor pic.twitter.com/ulh0D19N58;342793200735498240
+laxvid;2013-06-05 20:01;Creating cool heatmaps using package Heatplus #R #bioconductor;342355393269334016
+SahaSurya;2013-05-31 11:35;RT @attilacsordas "Using R and #Bioconductor for proteomics data analysis."by @lgatt0 #arxiv http:// arxiv.org/abs/1305.6559 #bioinformatics;340416288637714432
+Bioconductor;2013-05-30 23:19;#Bioconductor / #rstats 2013 conference with about a dozen afternoon practicals http:// bit.ly/1aFDjDT travel scholarship deadline June 10.;340230981686525952
+neilfws;2013-05-29 11:00;Struggling to download some of the larger files from #bioconductor website for past couple of days.;339682624324915200
+RevoJoe;2013-05-23 19:15;#rstats , #bioconductor and C++ make a platform for #bioinformatics : see Milwaukee ASA workshop http:// bit.ly/12Q0A4C;337632820484784128
+bioinfosm;2013-05-21 18:52;r3Cseq: long-range genomic interactions from chromosome conformation capture & #NGS data http:// nar.oxfordjournals.org/cgi/content/lo ng/gkt373v1  #bioconductor #sequencing;336902332937797632
+Bioconductor;2013-05-17 17:49;Reminder: Course: Intermediate #rstats / #Bioconductor for High-Throughput Sequence Analysis, 28-29 May, Seattle, http:// bit.ly/10sMFg3;335436859142438913
+nlavielle;2013-05-17 11:21;Faire joujou sur un package R pour voir s'il nous intresse ? J'aime mon boulot :) ! #R #bioconductor #gwascat #ggbio;335339379209957376
+seandavis12;2013-05-15 19:11;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/flowFit.html  flowFit Estimate proliferation in cell-tracking dye;334732860332314624
+seandavis12;2013-05-11 20:01;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/XVector.html  XVector Representation and manpulation of external;333295834638741504
+genetics_blog;2013-05-09 16:24;Very nice post on the beauty of #Bioconductor by @vsbuffalo http:// vincebuffalo.com/2012/03/08/the -beauty-of-bioconductor.html  #Rstats;332516321495486466
+GenomicsIo;2013-05-07 17:03;#bioconductor #Gviz is awesome for visualizing our data & after 2 hours of digging I found solution for setting y-axis scale for all tracks;331801499145482240
+rnomics;2013-05-06 14:05;Workshop on #RNA -Seq data analysis: From Raw Sequence Data To mining... http:// bit.ly/10j2J5i #Events #bioconductor #galaxy #RNAseq @MyEN;331394209925976065
+genetics_blog;2013-05-02 23:53;Joint analysis of multiple ChIP-Seq datasets with #Rstats #Bioconductor . Paper: http:// genomebiology.com/2013/14/4/R38/ abstract  ...software: http:// bioconductor.org/packages/relea se/bioc/html/jmosaics.html ;330092829206511616
+Bioconductor;2013-05-01 18:31;Course: Intermediate #rstats / #Bioconductor for High-Throughput Sequence Analysis, 28-29 May, Seattle, http:// bit.ly/10sMFg3;329649185668345856
+laxvid;2013-04-26 15:40;Installing #R #bioconductor with #Rstudio on the new MacBook Pro. Getting it ready for production.;327794434555125760
+Bioconductor;2013-04-26 01:12;#Bioconductor / #rstats 2013 conference updated sponsors, speakers, activities, and deadlines http:// bit.ly/12Wr2ww .;327575961639985153
+coxtonyj;2013-04-24 13:56;Our BaseSpaceR package is now part of #Bioconductor 2.12 http:// bioconductor.org/packages/relea se/bioc/html/BaseSpaceR.html ;327043278857969664
+seandavis12;2013-04-21 19:08;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/sSeq.html  sSeq Shrinkage estimation of dispersion in Negative Binomial;326034618463690753
+hongqin;2013-04-18 15:07;require(org.Sc.sgd.db)
+x <- org.Sc.sgdALIAS
+ls(x)[grep("^Y..\\d{3}", ls(x))] #bioconductor #yeast;324886829990047745
+hongqin;2013-04-18 14:11;#bioconductor gene set enrichment analysis, Chao-Jen Wong http://www. bioconductor.org/help/course-ma terials/2010/SeattleJan10/day2/GeneSetEnrichment.pdf ;324872893529997313
+riccombeni;2013-04-17 09:49;#bioconductor package for deconvolution of heterogeneous tissue samples from RNA-seq data http:// bioinformatics.oxfordjournals.org/cgi/content/lo ng/29/8/1083 ;324444383543963648
+genetics_blog;2013-04-16 13:47;SeqGSEA - gene set / pathway analysis for RNA-seq w/ #Rstats #Bioconductor http:// bioconductor.org/packages/relea se/bioc/html/SeqGSEA.html  #NGS #Bioinformatics;324141985168519171
+Bioconductor;2013-04-12 19:39;Work on Google Summer of Code projects for #Bioconductor - contact us now with project proposals. #rstats http://www. bioconductor.org/developers/gso c2013/ ;322781089376636928
+genetics_blog;2013-04-10 16:34;RNA-seq now in #Rstats limma package. Manual: http://www. bioconductor.org/packages/relea se/bioc/vignettes/limma/inst/doc/usersguide.pdf  #Bioconductor #bioinformatics h/t @mattVDiLeo;322009732191760384
+diXa_FP7;2013-04-09 12:22;Maximum nmb of participants for the #diXa course - Microarray Analysis using #R and #Bioconductor almost reached! http:// goo.gl/jCDgL;321583925942165506
+raphg;2013-04-08 06:14;@xieyihui Very cool. I would love for everything to stay within GitHub, including #rstats & #Bioconductor package dev, checks, and builds.;321129005656973312
+seandavis12;2013-04-05 05:10;New to #bioconductor http:// bioconductor.org/packages/2.13/ bioc/html/BiSeq.html  BiSeq Processing and analyzing bisulfite sequencing data;320025722989195264
+genetics_blog;2013-04-01 20:51;Code to create a limma expressionset object from Illumina BeadArray https:// gist.github.com/stephenturner/ 4165059  #Rstats #bioconductor;318812828515577858
+seandavis12;2013-03-30 18:52;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/copynumber.html  copynumber Segmentation of single- and multi-track;318073204948217859
+BioMickWatson;2013-03-26 19:52;RT @seandavis12 New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/metagenomeSeq.html  metagenomeSeq Statistical analysis for sparse high;316638873444827136
+diXa_FP7;2013-03-26 10:10;Still a few spaces available for the #diXa : #Microarray Analysis using #R and #Bioconductor course. Register now! http:// goo.gl/jCDgL;316492408592412672
+yuifu;2013-03-24 16:36;transcriptEnsembl #R #Bioconductor http:// qiita.com/items/78d3dc61 1aed286f49a5 ;315864654121406464
+yuifu;2013-03-21 03:54;Transcriptdb #R #Bioconductor - Qiita by @yuifu on @Qiita_jp http:// qiita.com/items/4bab5f71 3aa75bd18a84 ;314585756389748736
+genetics_blog;2013-03-19 21:12;RNA-seq power calculations in #rstats http:// bioconductor.org/packages/2.12/ bioc/html/RNASeqPower.html  #Bioinformatics #bioconductor;314122176355774464
+Bioconductor;2013-03-15 17:16;#rstats / #Bioconductor Annual Conference BioC2013 July 17, 18, 19 Seattle WA Registration open http:// bit.ly/12Wr2ww;312613323646566402
+genetics_blog;2013-03-13 18:31;DESeq2 for RNA-seq now available on #Bioconductor http://www. bioconductor.org/packages/devel /bioc/html/DESeq2.html  details: http:// seqanswers.com/forums/showthr ead.php?t=28350  #rstats #bioinformatics #NGS @myen;311907312652648448
+SAGRudd;2013-03-04 03:00;virtualArray: an #Rstats / #bioconductor package to merge raw data from different microarray platforms = #w00t @http:// buff.ly/Yll0Qi;308411703467581440
+seandavis12;2013-02-26 19:51;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/pRoloc.html  pRoloc A unifying bioinformatics framework for spatial;306491711260073985
+seandavis12;2013-02-21 19:29;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/cisPath.html  cisPath Visualization of the Shortest Functional Paths;304674098821361664
+Bioconductor;2013-02-21 17:54;@ucfagls @duffy_ma For #Bioconductor packages choose a Bioc mirror via setRepositories(), or use http:// bioconductor.org/install/ for bioc & CRAN;304650259504717824
+diXa_FP7;2013-02-20 09:48;Registration for #diXa " #Microarray Analysis using R and #Bioconductor " course, 14-16 May at EBI, UK is now open http:// goo.gl/jCDgL;304165571447119873
+Bioconductor;2013-02-19 20:57;New course material: Intermediate #rstats / #Bioconductor for Sequence Analysis, http:// bit.ly/WUYjn7;303971606185799680
+wakuteka;2013-02-12 17:45; / Biostrings::readDNAStringSetmultifasta #R #Bioconductor - Qiita http:// htn.to/hxUG5p;301386652352405504
+genetics_blog;2013-02-09 16:04;RamiGO: an #Rstats #Bioconductor package providing an AmiGO #dataviz interface http:// bit.ly/W7BQ4f;300274051069394944
+seandavis12;2013-02-06 19:33;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/lpNet.html  lpNet Linear Programming Model for Network Inference: lpNet;299239411294552065
+seandavis12;2013-02-06 19:33;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/SomatiCA.html  SomatiCA SomatiCA: identifying, characterizing, and;299239388402024448
+mt_morgan;2013-02-06 17:08;@BayesMonk  Ask on the #Bioconductor mailing list http:// bioconductor.org/help/mailing-l ist/mailform/  (no subscription required) where you provide format & details.;299203044434915328
+radaniba;2013-01-29 16:06;Intermediate #R / #Bioconductor for High-Throughput #Sequence #Analysis http://www. biocodershub.net/community/disc ussions/topic/intermediate-r-bioconductor-for-high-throughput-sequence-analysis/ ;296288235141881857
+Bioconductor;2013-01-29 16:05;A few places and a little time to enrol in #rstats / #Bioconductor Feb 14 / 15 Seattle sequence analysis course https:// bitly.com/ZEor2X;296287898578341888
+PabloPGar;2013-01-25 00:16;Os presento parte de lo que es mi primera programacin :-) #RStatistics #Bioconductor pic.twitter.com/Jsc66OkH;294599629532692480
+neilfws;2013-01-24 01:12;The oligo package documentation at Github is very good: https:// github.com/benilton/oligo /wiki/Getting-the-grips-with-the-oligo-Package  #rstats #bioconductor;294251224319008768
+peccul;2013-01-23 14:49; } UCSC Genome Browser Rplot #Bioconductor #R - Qiita http:// qiita.com/items/a99d5fb9 f24367f55461 ;294094391910473730
+number_three;2013-01-22 17:18;Nice new #bioconductor #genome tool in R to access SRA data from @NCBI and ENA: http:// bit.ly/10E4cYz;293769528775696384
+genetics_blog;2013-01-22 15:13;GSVA: gene set variation analysis for microarray and #RNASeq data http://www. biomedcentral.com/1471-2105/14/7 /abstract  #bioinformatics #Rstats #bioconductor @myen;293738220376690688
+number_three;2013-01-22 03:29;New handy #bioconductor source code search tool: http:// search.bioconductor.jp / #rstats;293561101021491202
+stephaniehicks;2013-01-21 20:58;DriverNet = identifying driver mutations using mRNA expression networks; available on #Bioconductor #genomics http:// genomebiology.com/2012/13/12/R12 4/abstract ;293462549708546048
+dritoshien;2013-01-20 18:01;I updated a full source code search engine for Bioconductor 2.12 (devel). http:// search.bioconductor.jp / #rstats #Bioconductor;293055600177319936
+seandavis12;2013-01-17 13:55;Finally got our SRAdb #bioconductor / #rstats manuscript out: http://www. biomedcentral.com/1471-2105/14/1 9/abstract ;291906674980179968
+drchriscole;2013-01-16 19:28;Got it. Many thanks.RT @Bioconductor Please seee the second posting here: http://www. genome.jp/kegg/docs/plea .html  #bioconductor;291627908047466496
+wakuteka;2013-01-16 09:28;DNAR #Bioconductor #R - Qiita http:// htn.to/BSVB33;291477030724308993
+drchriscole;2013-01-13 20:54; @seandavis12 : New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/KEGGREST.html  KEGGREST Client-side REST access to KEGG how does it fit with licencing model?;290562377454342144
+seandavis12;2013-01-13 19:32;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/KEGGREST.html  KEGGREST Client-side REST access to KEGG: A package that;290541780213051392
+wakuteka;2013-01-13 08:46;UCSC Genome Browser Rplot #Bioconductor #R - Qiita http:// htn.to/AXmuyD;290379256008159232
+egonwillighagen;2013-01-12 10:17;@antagomir ah, ok :) I had not seen that, or maybe just ignored it. Well, that settles it then :) #BioConductor it is;290039676516052992
+Bioconductor;2013-01-12 01:07;Course: Intermediate #rstats / #Bioconductor for sequence analysis http:// bit.ly/ZEor2X;289901407375589377
+wakuteka;2013-01-11 08:56; /  #R #Bioconductor - Qiita http:// htn.to/ch6bmC;289657052119306240
+genetics_blog;2013-01-07 13:39;RamiGO: #Rstats #Bioconductor package providing an AmiGO #geneontology #Dataviz interface http:// bioinformatics.oxfordjournals.org/content/early/ 2013/01/05/bioinformatics.bts708.short?rss=1  #bioinformatics;288278723495616512
+rmflight;2013-01-06 02:33;just when i was going to try and resolve them, #categoryCompare build problems resolve themselves on #bioconductor;287748583699128323
+rnomics;2013-01-04 15:38;RNA-Seq Workshop  An introductory course to #RNA -Seq: Centro di... http:// bit.ly/WqUG3V #Events #BampGu #bioconductor #RNAseq @MyEN;287221427487272962
+seandavis12;2012-12-22 00:02;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/Rbowtie.html  Rbowtie R bowtie wrapper: This package provides an R;282274969789014016
+genetics_blog;2012-12-18 12:11;+1 #Rstats #Bioconductor RT @brent_p : I'd like to see the comparison from the DEXSeq paper run on the new cuffdiff2.;281008853628366848
+seandavis12;2012-12-15 19:28;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/rTANDEM.html  rTANDEM Encapsulate X!Tandem in R.: This package;280031659372445696
+tim_yates;2012-12-15 09:22;heading to Zurich airport after a fun* 2 days of #bioconductor (* after my talk);279879154839744512
+tim_yates;2012-12-14 08:08;also, the GViz #bioconductor package looks awesome #rstats;279498057974947840
+tim_yates;2012-12-14 08:07;GRanges objects are getting the $ operator to bring them in line with data.frame, RangedData et al. #rstats #bioconductor;279497786267934721
+antifreezeprot;2012-12-13 14:53;Enjoying the Bioconductor European Developers Workshop 2012 with the huge concentration of Macbooks. :) :) #bioconductor #bioinformatics #R;279237690203987968
+genetics_blog;2012-12-11 16:53;RNA-seq analysis with #Rstats #Bioconductor DESeq, DEXSeq, edgeR (PDF): http:// faculty.ucr.edu/~tgirke/HTML_P resentations/Manuals/Workshop_Dec_6_10_2012/Rrnaseq/Rrnaseq.pdf  #bioinformatics #NGS;278543113075695616
+gvegayon;2012-12-11 13:34;@raimun2 mira #bioconductor http:// bit.ly/U2Eupo y AniWiki http:// bit.ly/VQ4F7Y #rstats #viz #dynamics;278492910981349376
+Initworks;2012-11-28 15:19;Built 64 bit #R & #Bioconductor on #Solaris 10, https://www. initworks.com/wiki/pages/vie wpage.action?pageId=6521038 ;273808412469501952
+braincode;2012-11-23 09:03;Attending a #RNAseq master class by @mikaelhuss @karolinskainst on #R #bioconductor affy, lumi, DESeq, edgeR Nice post: http:// bridgecrest.blogspot.se/2011_09_01_arc hive.html ;271901844823998464
+seandavis12;2012-11-17 18:58;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/pRoloc.html  pRoloc A unifying bioinformatics framework for organelle;269877222955950080
+mglbranco;2012-11-13 22:09;@physorg_com News about software like #cytoscape or #bioconductor would be much more appreciated...;268475597087440896
+hrhotz;2012-11-13 15:45;New job opening at the FMI for a #bioconductor and #usegalaxy person: http://www. fmi.ch/Careers/JobDet ails.html?jobID=158 ;268378954468057088
+neilfws;2012-11-06 00:49;IlluminaHumanMethylation450k.db install fails unless you install AnnotationForge #bioconductor #rstats;265616808873168896
+rOpenSci;2012-11-05 04:41;Inerest in an #rstats pkg for @23andme ? MT @davekincaid : Very cool. Analyze your @23andme data using R & #bioconductor http:// bit.ly/VpPLon;265312850392805376
+davekincaid;2012-11-04 13:45;Very cool. Analyze your @23andme data using #Rstats and #bioconductor http:// bit.ly/VpPLon;265087440505692160
+AlyaaMahmoud;2012-10-30 21:19;@AhmedMoustafa @mrrizkallah and dataset within used as the main example through out " #Bioconductor case studies";263389626646003712
+seandavis12;2012-10-18 19:35;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/deepSNV.html  deepSNV Detection of subclonal SNVs in deep sequencing;258999881463656448
+pinin4fjords;2012-10-17 18:13;Why didn't I know about phenoTest in #bioconductor ? Painlessly test association between expression/ clinical variables: http:// bit.ly/TuWXt5;258616817357058048
+steevmi1;2012-10-16 23:57;One homework down, one to go. #rstats #bioconductor;258341042548523009
+seandavis12;2012-10-16 19:08;New to #bioconductor http:// bioconductor.org/packages/2.12/ bioc/html/cancerclass.html  cancerclass Development and validation of diagnostic;258268310859296768
+genomematt;2012-10-09 01:24;More conservative F-test in next #bioconductor release of #edgeR . Chi Sq optimistic due to estimated vs true dispersion;255463739418099713
+genetics_blog;2012-10-08 18:00;#Bioconductor Packages for Analyzing Chip-seq Data http:// bioscholar.com/genomics/bioco ndutor-packages-analyzing-chip-seq-data/  #rstats #bioinformatics @myen;255352074815029248
+pulistbook;2012-10-05 19:26;http://www. pulist.net/bioconductor-c ase-studies-use-r.html  #Bioconductor #Software #Cancer #Research Bioconductor Case Studies (Use R!);254286336507400193
+davidfredman;2012-10-05 11:07;#bioconductor update to 2.11: biocLite("BiocUpgrade"). Refreshingly simple.;254160913228255232
+raphg;2012-10-04 20:24;New QUAliFiER paper for flow QA http:// goo.gl/Z1Oxi #bmcbioinformatics #Rstats #bioconductor #cyto #rglab #openaccess;253938698322866177
+stephaniehicks;2012-10-03 15:48;ggbio = new R package useful for graphics of genomic data #bioconductor #ggplot2 #dataviz #genomics #bioinformatics http:// genomebiology.com/2012/13/8/R77/ abstract ;253506855102468096
+rnomics;2012-09-30 07:56;RT @freesci : RT @DrDuaneHassane : Paper is now out on easy#RNASeq. A #BioConductor package... http:// bit.ly/VddFRP #phylogenomics_gen @MyEN;252300884132909056
+DrDuaneHassane;2012-09-29 19:17;Paper is now out on easyRNASeq. A #BioConductor package to process RNA-seq data http:// ow.ly/e5th1;252109836366532609
+watsonhaigh;2012-09-27 00:00;#bioconductor supports @AARNet mirror as of #BioC 2.10 ( #R 2.15.0). Use chooseBioCmirror() after sourcing the biocLite.R file;251093943238938624
+BennyChain;2012-09-20 19:39;Just submitted and had accepted new #microarray analysis package "agilp" on #bioconductor . Try it out! http://WWW. Bioconductor.org;248853792458686465
+iGenomics;2012-09-18 21:14;RT @genetics_blog Compared DESeq and edgeR for RNA-seq/ChIP-seq analysis: http:// gettinggeneticsdone.blogspot.com/2012/09/deseq- vs-edger-comparison.html   #Rstats #Bioinformatics #Bioconductor;248152915276079104
+genetics_blog;2012-09-18 13:37;The bench scientist's guide to statistical analysis of RNA-Seq data http://www. biomedcentral.com/1756-0500/5/50 6/abstract  w/ #Rstats #Bioconductor #bioinformatics;248038156589494272
+i_314;2012-09-17 01:25;Alzheimer's disease microarray data set available. https:// stat.ethz.ch/pipermail/bioc onductor/2004-July/005399.html  #bioconductor #bioinformatics;247491318052450307
+seandavis12;2012-09-14 20:13;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/OrganismDbi.html  OrganismDbi Software to enable the smooth interfacing;246688135340249088
+seandavis12;2012-09-13 20:36;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/BigMatrix.html  BigMatrix An extension of the bigmemory package with;246331589238341633
+GeneSigDB;2012-09-12 20:58;#PLOS : Ten Years of Pathway Analysis: Current Approaches and Outstanding Challenges http:// dx.plos.org/10.1371/journa l.pcbi.1002375  #bioconductor #bioinformatics;245974577753227264
+GeneSigDB;2012-09-12 20:56;Gene Set Analysis method  Annotation Enrichment Analysis corrects number GO terms/gene http:// arxiv.org/abs/1208.4127 #bioinformatics #bioconductor;245974247913189377
+Bioconductor;2012-09-12 19:44;Course: Advanced #rstats / #Bioconductor Programming, Seattle WA 15-16 October, http:// bit.ly/OqxJjz;245955974299545600
+DrDuaneHassane;2012-09-08 12:55;ReQON: a #Bioconductor package for recalibrating quality scores from next-generation sequencing data http:// ow.ly/dyGQl;244403545577771008
+genetics_blog;2012-09-06 14:23;Statistics for semi-quantitative MS data? #RStats / #Bioconductor DESeq vignette mentions MS data can be used, but no details.;243701072433127424
+MOOCs4U;2012-09-03 17:03;Still can't find the CDCOCA package in #Rstats or #Bioconductor as the authors claim. It's not even @progenetix http:// bquot.com/e57;242653997188669440
+fellgernon;2012-08-21 00:22;L. Collado Torres ( #academic ) is online! http:// goo.gl/fb/5S355 #website #r #bioconductor;237691175295922178
+seandavis12;2012-08-15 19:02;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/networkBMA.html  networkBMA Regression-based network inference using;235798553342132225
+seandavis12;2012-08-14 00:46;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/synapter.html  synapter Label-free data analysis pipeline for optimal;235160450885632000
+macmanes;2012-08-10 21:12;Giving the #Rstats #Bioconductor package EBcoexpress a try. It's using 15Gb of RAM as of now, maybe should try smallish dataset 1st..;234019291450707968
+rmflight;2012-08-01 13:19;Learned my lesson. ALWAYS run build and check before commiting to #bioconductor server, even if tests worked #rstats;230638997716742144
+rnomics;2012-07-31 18:26;RT @bffo : RT @notSoJunkDNA : "easy#RNASeq: a #bioconductor package for processing ##RNA -Seq... http:// bit.ly/QWFfxQ #phylogenomics_gen @MyEN;230353664873730048
+notSoJunkDNA;2012-07-31 17:26;"easyRNASeq: a #bioconductor package for processing #RNA -Seq data" from Delhomme et al. http:// bioinformatics.oxfordjournals.org/cgi/content/lo ng/bts477v1  and http:// bioconductor.org/packages/relea se/bioc/html/easyRNASeq.html ;230338749597376512
+seandavis12;2012-07-25 04:07;My tutorial on accessing public omics data using R and #bioconductor at #bioc2012 http:// watson.nci.nih.gov/~sdavis/tutori als/publicdatatutorial/ ;227963138228760576
+tokybo;2012-07-24 17:16;#BioC2012 Shah presents inference of tumor evolution using allele frequency, CNV state, LOH, cellularity http:// ow.ly/csMzq #bioconductor;227799512293457921
+tokybo;2012-07-24 16:18;#BioC2012 about to start after an exciting developer day #bioconductor;227784954652807169
+genetics_blog;2012-07-22 00:51;Differential Binding of Transcription Factor with ChIP-seq #rstats #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/DBChIP.html  via @seandavis12 #bioinformatics;226826750183739392
+seandavis12;2012-07-21 19:56;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/bsseq.html  bsseq Analyze, manage and store bisulfite sequencing data;226752634168684544
+brent_p;2012-07-19 17:49;I'm going to #bioconductor BioC conference: https:// secure.bioconductor.org/BioC2012/ should learn a lot.;225995705410523136
+ResearchProcess;2012-07-15 16:29;* #RPackages - a custom #search engine for #R #packages under #CRAN and #bioconductor *  This thing is so https:// plus.google.com/10626803236449 7388036/posts/HYV5SnbypSi ;224526215812349954
+i_314;2012-07-14 18:47;Advanced Genomic Data Mining. Full Text PDF: http://www. ploscompbiol.org/article/info%3 Adoi%2F10.1371%2Fjournal.pcbi.1000121  #bioconductor #rstats #datamining;224198507207213056
+vsbuffalo;2012-07-11 21:31;@genetics_blog Why not use ggbio? http:// bit.ly/MllbVJ #bioconductor;223152674391064576
+rguha;2012-07-09 20:25;are there any #bioconductor packages that handle the EDS file format from the ABI ViiA 7 qPCR platform? #rstats #bioinformatics;222411282907791360
+Mondongho;2012-07-07 19:38;Counting cells under with R package EBImage image processing package http:// bit.ly/NeITE4 Automated cell phenotyping. #bioconductor;221674533315289088
+rguha;2012-07-06 05:32;to the bioinfo tweeps: recommendations for #bioconductor packages for analysis of taqman qPCR data? Found 5 so far ...;221099208709644288
+notSoJunkDNA;2012-07-05 20:55;@bioinfosm if you're into #Bioconductor take a look at http://www. bioconductor.org/help/course-ma terials/2011/CSAMA/Friday/Afternoon%20Labs/LiebermanAidenHiC2009.pdf ;220969097020719107
+seandavis12;2012-07-04 20:10;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/synapter.html  synapter Label-free data analysis pipeline for optimal;220595335758749696
+genetics_blog;2012-07-04 20:09;Anyone used the Gene Set Variation Analysis #Rstats #Bioconductor package? http://www. sagebase.org/research/gsva. php  #bioinformatics;220595228304883713
+rnomics;2012-07-02 19:18;RT @vsbuffalo : Cool, qrqc is featured in the May 2012 #Bioconductor course, both in the... http:// bit.ly/P0ZfEg #phylogenomics_gen @MyEN;219857541864239105
+vsbuffalo;2012-07-02 18:58;TIL about the useDevel() function in BiocInstaller. Very cool. #bioconductor;219852494447194112
+genetics_blog;2012-06-29 08:31;RGalaxy: Wrap #Rstats Functions as Tools http:// bit.ly/MboXnA #bioinformatics #bioconductor #usegalaxy;218607707773599744
+bergmanlab;2012-06-27 21:16;MT @seandavis12 : New to #bioconductor "RGalaxy: Make an R function available in the Galaxy web platform" ( http:// bit.ly/MAPbyw ) #usegalaxy;218075248174698496
+Bioconductor;2012-06-27 19:42;New Community Contributed Help Resources page is available on #Bioconductor website. Thanks to contributors! http:// bioconductor.org/help/community/;218051792632676352
+seandavis12;2012-06-27 19:41;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/RGalaxy.html  RGalaxy Make an R function available in the Galaxy web;218051490785402881
+genetics_blog;2012-06-20 11:37;Repitools - #Rstats / #Bioconductor toolset for epigenomic data. http://www. bioconductor.org/packages/devel /bioc/html/Repitools.html ;215392802991910912
+seandavis12;2012-06-11 20:21;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/ddgraph.html  ddgraph Distinguish direct and indirect interactions with;212263231371223040
+notSoJunkDNA;2012-06-07 18:54;great class on Statistical Genomics on youtube (6 videos), from @rafalab #bioconductor #RNAseq http://www. youtube.com/user/RafalabCh annel ;210791809109073922
+seandavis12;2012-06-06 19:58;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/FunciSNP.html  FunciSNP Integrating Functional Non-coding Datasets with;210445530201993216
+onertipaday;2012-06-06 11:10;RT @alegonbel : #bioconductor code search http:// search.bioconductor.jp / #rstats;210312646531100672
+alegonbel;2012-06-05 23:20;#bioconductor code search http:// search.bioconductor.jp /;210134005587247106
+bffo;2012-06-04 21:11;Ready for #cbwmda #rstat #bioinformatics #bioconductor http:// bioinformatics.ca/workshops/micr oarray-workshop  pic.twitter.com/dbj4RkwJ;209739103795810304
+notSoJunkDNA;2012-06-04 20:59;To install DEXSeq on Amazon Cloud, choose 'R CMD INSTALL ' method, not biocLite. Don't ask me why! #bioconductor #rstats #aws;209736270396669954
+FelipeRiveroll;2012-05-26 16:53;A heatmap to look a relationship between GO categories based on the amount of gene shared http:// brainchronicle.blogspot.mx/2012/05/anothe r-look-at-over-representation.html  #bioconductor #GO;206412630531903488
+moorejh;2012-05-26 13:26;#rstats #genetics #bioinformatics MT @westr @mndoci @prismatic Using #Bioconductor to Analyze your @23andme Data http:// prsm.tc/MCJ2hq #pm101;206360715165044736
+C_IMT;2012-05-23 17:42;R.Scheuerman:Ressources like Immport and #Bioconductor are working toward making these tools accessible to immunologists #cimt2012;205337936051449857
+moorejh;2012-05-21 21:22;#rstats #bioinformatics RT @cytoscape graphite - a #Bioconductor package to convert pathway topology to gene network http://www. biomedcentral.com/1471-2105/13/20;204668635086725120
+genetics_blog;2012-05-20 17:44;Using the cufflinks GTF in DEXSeq for RNA-Seq? http:// seqanswers.com/forums/showthr ead.php?t=20193  #bioinformatics #Rstats #bioconductor;204251364585508864
+daweonline;2012-05-14 13:08;need help on #rsamtools #r #bioconductor;202007540865843201
+aefrieden;2012-05-11 00:07;In Dallas then to louisiana, had a great design breakthrough on the plane! #perl #bioconductor;200723847127900161
+seandavis12;2012-05-08 05:15;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/exomeCopy.html  exomeCopy Copy number variant detection from exome;199714083061235713
+i_314;2012-05-03 16:45;Using #Bioconductor to Analyze your @23andMe Data. http://www. vincebuffalo.com/notes/2012/03/ 12/23andme-bioconductor.html ;198075928390287360
+i_314;2012-05-03 13:34;beadarray package for #bioconductor . Quality assessment and low-level analysis for @illumina BeadArray data. http://www. bioconductor.org/packages/2.9/b ioc/html/beadarray.html ;198027659274485761
+seandavis12;2012-05-02 00:16;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/cancerclass.html  cancerclass Development and validation of diagnostic;197464452906491904
+ChristophChamp;2012-04-26 08:41;#Bioconductor 2.10 release http:// bit.ly/I6O8AW;195417371635232768
+bffo;2012-04-23 21:32;new NCBI youtube video: geo2r http:// youtu.be/EUPmGWS8ik0 geo2r page: http:// 1.usa.gov/Ia1TDF #rstat #bioconductor #bioinformatics;194524050490523648
+seandavis12;2012-04-21 00:39;New to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/ddgraph.html  ddgraph Direct and indirect interactions with Graphical;193484041922691072
+Bioconductor;2012-04-19 21:10;new to #bioconductor http:// bioconductor.org/packages/2.11/ bioc/html/motifRG.html  motifRG A package for;193069141077397504
+i_314;2012-04-16 21:43;Interesting discussion on how to apply randomForest to microarray analysis in #rstats #bioconductor http:// comments.gmane.org/gmane.science. biology.informatics.conductor/39631  #bioinformatics;191990335071723522
+MOOCs4U;2012-04-16 12:42;Tell me about #Bioconductor or R packages for analysing Copy Number V ariants in SNParray data. #bioinformatics;191853978663923713
+Bioconductor;2012-04-09 18:56;Course: #rstats / #Bioconductor for High-throughput Sequence Analysis, May 10-11, Seattle, WA http:// bit.ly/Hs0DH3;189411443555303425
+BioStarQuestion;2012-04-07 21:23;#Bioconductor #quantsmooth prepareGenomePlot for #mouse data http:// goo.gl/fb/9tuPD #graphs #genome;188723812651646976
+genetics_blog;2012-04-05 14:27;Detecting differential usage of exons from RNA-Seq data (DEXSeq) http:// precedings.nature.com/documents/6837 /version/2/files/npre20126837-2.pdf  #Rstats #bioinformatics #bioconductor;187894173465198592
+herrtschmidt;2012-04-04 23:10;Is there any #bioconductor package using the uniprot mapping table  or should I build some?;187663402292887552
+BioStarQuestion;2012-04-03 23:13;Has anyone successfully used the #Bioconductor #ShortRead package to read in #PacBio read alignments, in SAM/ #BAM  http:// goo.gl/fb/whGze;187301765052497920
+Bioconductor;2012-04-03 03:05;#BioC2012 speakers list coming together! https:// secure.bioconductor.org/BioC2012/ #Bioconductor;186997879402020864
+Bioconductor;2012-04-03 03:02;#Bioconductor 2.10 is released! http:// bioconductor.org/news/bioc_2_10 _release/ ;186997046203527168
+seandavis12;2012-03-29 20:34;New to #bioconductor categoryCompare - Meta-analysis of high-throughput experiments using feature annotations: Calculates significant;185449922194182144
+mtwolfinger;2012-03-29 10:14;See this excellent "HT Sequence Analysis with #R and #Bioconductor " resource: http:// bit.ly/autUEx #NGS #bioinformatics;185293832601088000
+BioStarQuestion;2012-03-29 07:00;Your thoughts on a "standard" pipeline to process #Illumina 450K data http:// goo.gl/fb/zmesv #methylation #microarray #bioconductor;185244954736590848
+herrtschmidt;2012-03-28 21:15;What should I read  to get a good start about gene set enrichment analysis #bioconductor;185097862512787457
+BioStarQuestion;2012-03-26 18:55;What table of coordinates is used for "minor" bands in paintCytobands from quantsmooth from #Bioconductor ? http:// goo.gl/fb/DshSF #ideogram;184337716153032706
+BioStarQuestion;2012-03-24 14:07;Softwares for simple #statistics of #bed files http:// goo.gl/fb/f3iui #r #bioconductor;183555745067962369
+i_314;2012-03-22 02:13;InSilico DB query engine for genomics samples information. http:// insilico.ulb.ac.be/browse Download datasets for using #rstats #bioconductor .;182651256538533888
+i_314;2012-03-19 19:29;HIV-1 Subtype C Sequence Datasets http://www. bioafrica.net/subtype/subC/H IVsequences.html  Good datasets to practice #rstats and #bioconductor skills.;181824632360411136
+genetics_blog;2012-03-14 15:35;Video Tip: Convert Gene IDs with Biomart http:// gettinggeneticsdone.blogspot.com/2012/03/video- tip-convert-gene-ids-with-biomart.html  #Rstats #Bioconductor #Ensembl;179953984843423746
+drng;2012-03-10 03:09;I have succumbed to R #Bioinformatics #limma #Bioconductor;178316672392904704
+seandavis12;2012-03-05 18:46;New to #bioconductor exomeCopy - CNV detection from exome sequencing read depth: Detection of copy number variants (CNV) from exome;176740409349910528
+aefrieden;2012-03-01 01:21;You could garner a lot if attention if you made a good #bioconductor video series;175028035962155008
+seandavis12;2012-02-28 23:34;Aedin Culhane speaking about exploratory data analysis using #rstats and #bioconductor http:// bcb.dfci.harvard.edu/~aedin/courses /Seattle2012/ ;174638529534640128
+rvidal;2012-02-27 18:55;Taking a good look at cghMCR. Anyone here every give it a try? #bioconductor #rstats;174206064118603776
+seandavis12;2012-02-27 17:34;In Seattle at the https:// secure.bioconductor.org/SeattleFeb12/ advanced #rstats #bioconductor course using #ami to host image of Bioconductor;174185526939762688
+aefrieden;2012-02-25 00:39;does anyone know a good #bioconductor video series?;173205328731713538
+loyalgoff;2012-02-19 21:53;cummeRbund v1.1.3 released. Can be downloaded at http:// bit.ly/uyqxnL #Rstats #Bioconductor #rnaseq #cummeRbund;171351808239861761
+karthikkn;2012-02-18 18:21;Where can I get free lectures on #Bioconductor ? #help;170935945087033345
+genetics_blog;2012-02-17 18:35;#Bioconductor (dev) package: easyRNASeq - count summarization & normalization for RNA-seq Data http://www. bioconductor.org/packages/devel /bioc/html/easyRNASeq.html  #Rstats #Bioinformatics;170577245180669953
+BioStarQuestion;2012-02-15 20:25;gene to #goslim mapping http:// goo.gl/fb/F6jjc #geneontology #goseq #r #bioconductor;169880043135315970
+BernardBlackBFX;2012-02-15 11:25;Unwinding with a bottle of red, seqanswers, biostar and the #bioconductor mailing list #bioinformatics #rstats;169744244427329536
+genetics_blog;2012-02-14 21:53;Discussion on SeqAnswers and #Bioconductor mailing list about merits of cufflinks vs DESeq http:// seqanswers.com/forums/showthr ead.php?t=17678  #rstats #bioinformatics;169539906379587584
+seandavis12;2012-02-14 16:03;New to #bioconductor CNAnorm - A normalization method for Copy Number Aberration in cancer samples: Performs ratio, GC content correction;169451598542680065
+neilfws;2012-02-12 23:25;Whoever wrote the documentation for IlluminaHumanMethylation450k.db really should have mentioned toTable() #bioconductor;168838259483484160
+seandavis12;2012-02-11 11:58; @neilfws : Limma user guide: shining (rare) example of good R/Bioconductor documentation - http:// bit.ly/zmeU6U (PDF) +1 #bioconductor;168302859266433025
+rnomics;2012-02-05 09:05;RT @BioStarQuestion : #AgiMicroRna #Package in #R / #Bioconductor http:// goo.gl/fb/nBXgF #mirna http:// bit.ly/xO3Izt #rnomics -bioinfo @MyEN;166084906714279937
+BioStarQuestion;2012-02-02 14:41;Updated #affy : ReadAffy has changed and breaks my pipeline! http:// goo.gl/fb/nwt6Z #bioconductor #affymetrix;165082514648608768
+BioStarQuestion;2012-02-01 11:31;Compare individual nucleotides from two sequences http:// goo.gl/fb/GX6Ye #r #biostring #bioconductor #sequence #comparison;164672138605891584
+genetics_blog;2012-01-30 19:16;#Bioconductor / #Rstats package: Signaling Pathway Impact Analysis (SPIA) http://www. bioconductor.org/packages/relea se/bioc/html/SPIA.html  #bioinformatics @myen;164064479900991488
+microbe89;2012-01-30 17:04;New post: Subsetting ranged data with its values Example subset... http:// goo.gl/nWSam #Bioconductor #Bioinformatics;164031154540920832
+caseybergman;2012-01-28 17:11;@gilbertjacka - try #bioconductor SRAdb  package to access metadata ( http:// bit.ly/wTArCz );163308234927652864
+caseybergman;2012-01-27 21:53;@hlapp - for SRA meta-data that is there, #bioconductor SRAdb is real time-saver ( http:// bit.ly/wTArCz ) #ncbi;163016774516867072
+seandavis12;2012-01-26 01:20;New to #bioconductor RedeR - Bridging the gap between hierarchical network representation and functional analysis.: RedeR is an R-based;162344056595292160
+seandavis12;2012-01-22 00:23;New to #bioconductor cummeRbund - Analysis, exploration, manipulation, and visualization of Cufflinks high-throughput sequencing data;160880150639161344
+geoffjentry;2012-01-20 18:59;CNA() function in DNAcopy sorts chroms alphabetically. Blarg. #rstats #bioconductor;160436336732536836
+aefrieden;2012-01-20 13:21;@JVJAI are we scrapping #bioconductor ?;160351163282231296
+genetics_blog;2012-01-17 18:19;Annotating limma Results with Gene Names for Affy Microarrays http:// gettinggeneticsdone.blogspot.com/2012/01/annota ting-limma-results-with-gene.html  #rstats #bioinformatics #bioconductor;159339001843687424
+BioStarQuestion;2012-01-16 18:09;#Bioconductor : package "is not available" http:// goo.gl/fb/LD7do #r;158974292716040192
+BioStarQuestion;2012-01-15 10:21;normalize CEL files and identify differentially expressed genes (i.e.down-regulated) in tumor samples http:// goo.gl/fb/YIOuh #bioconductor;158493910967128064
+rnomics;2012-01-04 16:11;htSeqTools  Quality Control, Visualization and Processing... http:// bit.ly/AAA60g #Data_Analysis #Other_Tools #bioconductor #RNA -seq @MyEN;154595729183223808
