@@ -1,4 +1,10 @@
-import urllib, urllib2, json, tweepy, csv
+import urllib
+import urllib2
+import json
+import tweepy
+import csv
+import datetime
+import re
 from pyquery import PyQuery
 from tweepy import OAuthHandler
 from tweepy.error import TweepError
@@ -33,13 +39,13 @@ class TwitterClient(object):
 
         return tweepy.API(auth)
 
-
-    def get_tweet_ids(self, term):
+    def get_tweet_ids(self, term, get_info):
         """
         Given a search term or search phrase, find all the IDs of the result
         tweets.
         """
         tweet_ids = []
+        full_tweets = []
 
         refreshCursor = ''
 
@@ -53,7 +59,7 @@ class TwitterClient(object):
             except Exception:
                 break
 
-            #Exit when no more tweets loaded
+            # Exit when no more tweets loaded
             if len(tweets) == 0:
                 break
 
@@ -61,12 +67,18 @@ class TwitterClient(object):
                 tweetPQ = PyQuery(tweetHTML)
                 tweet_id = tweetPQ.attr("data-tweet-id")
                 tweet_ids.append(tweet_id)
-
+                if get_info:
+                    tweet_info = dict()
+                    tweet_info['id'] = tweet_id
+                    tweet_info['username'] = tweetPQ("span.username.js-action-profile-name b").text()
+                    tweet_info['text'] = self.text_format(re.sub(r"[^\x00-\x7F]", "", tweetPQ("p.js-tweet-text").text()).replace('# ', '#').replace('@ ', '@'))
+                    tweet_info['date'] = int(tweetPQ("small.time span.js-short-timestamp").attr("data-time"))
+                    tweet_info['date'] = datetime.datetime.fromtimestamp(tweet_info['date'])
+                    full_tweets.append(tweet_info)
             if len(tweet_ids) > 700:
                 break
 
-        return tweet_ids
-
+        return tweet_ids, full_tweets
 
     def getJsonReponse(self, term, refreshCursor):
         """
@@ -74,40 +86,45 @@ class TwitterClient(object):
         based on given term inside a limited min/max position.
         """
         url = """https://twitter.com/i/search/timeline?f=realtime&q={}&src=typd&max_position={}""".format(urllib.quote(term), refreshCursor)
-        print url
+        # print url
         headers = {'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; Win64; x64)'}
-        request = urllib2.Request(url, headers = headers)
+        request = urllib2.Request(url, headers=headers)
         response = urllib2.urlopen(request).read()
         json_response = json.loads(response)
         return json_response
 
     def slice_list(self, input_list, size):
-       "Slice an input list into a specific size and yield shorten lists"
-       for i in range(0, len(input_list), size):
-           yield input_list[i:i + size]
-       return
+        "Slice an input list into a specific size and yield shorten lists"
+        for i in range(0, len(input_list), size):
+            yield input_list[i:i + size]
+        return
 
-    def get_tweets(self, term):
+    def get_tweets(self, term, get_info=False):
         """
         Given a list of tweet IDs, return all information related to it.
+        Params:
+        * term: query to pass to twitter search
+        * get_info: If True, skip the use of Tweepy and use the hacky result
         """
-        tweet_ids = self.get_tweet_ids(term)
+        tweet_ids, full_info = self.get_tweet_ids(term, get_info)
         tweets = []
+        if get_info is True:
+            return full_info
+        else:
+            # try:
+            for tweet in self.query_api(tweet_ids):
+                tweets.append(self.get_tweet_info(tweet))
+            # except TweepError:
+            #     return tweets
 
-        # try:
-        for tweet in self.query_api(tweet_ids):
-            tweets.append(self.get_tweet_info(tweet))
-        # except TweepError:
-        #     return tweets
-
-        return tweets
+            return tweets
 
     def query_api(self, tweet_ids):
         """
         """
-        print "tweet_ids " + str(len(tweet_ids))
+        # print "tweet_ids " + str(len(tweet_ids))
         for hundred_tweets in self.slice_list(tweet_ids, 100):
-            print hundred_tweets
+            # print hundred_tweets
             for tweet in self.api.statuses_lookup(hundred_tweets):
                 yield tweet
 
@@ -127,14 +144,14 @@ class TwitterClient(object):
 
     def text_format(self, text):
         text = text.encode('utf-8')
-        text = text.replace('"',' ').replace("\n"," ")
+        text = text.replace('"', ' ').replace("\n", " ")
         return text
 
     def write_results(self, tweets):
         """
         Save results in an output csv file.
         """
-        headers = ['username','date','text','id']
+        headers = ['username', 'date', 'text', 'id']
         with open('tweets.csv', 'w') as csvfile:
             writer = csv.DictWriter(csvfile, headers)
             writer.writeheader()
