@@ -3,7 +3,9 @@ from pyquery import PyQuery
 from tweepy import OAuthHandler
 from tweepy.error import TweepError
 
-class TwitterClient:
+__all__ = ['TwitterClient']
+
+class TwitterClient(object):
     """
     Main class of the Research Software Sentiment Analyser module for querying
     Twitter for reviews on software for research.
