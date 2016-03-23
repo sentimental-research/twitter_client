@@ -123,13 +123,16 @@ class TwitterClient:
 
         tweet_info['username'] = tweet.author.screen_name
         tweet_info['date'] = tweet.created_at
-        tweet_info['text'] = self.tweet_encode(tweet.text)
+        tweet_info['text'] = self.text_format(tweet.text)
         tweet_info['id'] = tweet.id
 
         return tweet_info
 
-    def tweet_encode(self, text):
-        return text.encode('utf-8')
+    def text_format(self, text):
+        text = text.encode('utf-8')
+        text = text.replace('"',' ').replace("\n"," ")
+        print text
+        return text
 
     def write_results(self, tweets):
         """
