@@ -1,1 +1,2 @@
-# twitter_client
+# Research Software Sentiment Analyser - Twitter Client
+
