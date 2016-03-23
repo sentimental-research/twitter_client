@@ -1,5 +1,5 @@
-Title: Research Software Sentiment Analyser
+__Title__: __Research Software Sentiment Analyser__ - __Twitter Client__
 
-Authors: Olivier Philippe (@oliph), Raquel Alegre (@raquel-ucl)
+__Authors__: Olivier Philippe (@oliph), Raquel Alegre (@raquel-ucl)
 
-URL: https://github.com/sentimental-research/twitter_client
+__URL__: https://github.com/sentimental-research/twitter_client
