@@ -1,0 +1,740 @@
+username,date,text,id
+GovsInfo,2016-03-08 18:23:17,#Matplotlib: Add colorbar to cartopy image: #HowTo https://t.co/yExO0l5Bed,707270480949067776
+PythonDiario,2016-03-11 00:06:37,How to change point to comma in matplotlib graphics? https://t.co/0HIgULNYZR,708081658247786496
+I_am_Grand,2016-03-08 10:30:32,"@MCeeP it doesn't plot natively though, so does matplotlib interface with it or are you using something else? Something custom?",707151508253581313
+functiontelechy,2016-03-11 15:59:33,"@nmontecc @bwhitman @ndreasa For real though, can we convince @blocktronics to make a matplotlib plugin?",708321471035252740
+AdamSmitht1,2016-03-13 11:37:31,#Python Matplotlib - KeyError when indexing Pandas dataframe - KeyError : 'x' #Tech #News #HowTo https://t.co/PxgxFkU5J1,708980305277931520
+codermctwist,2016-03-11 18:58:29,Still the right steps to install matplotlib basemap on your Mac - https://t.co/M68TlvEeNW,708366503607832576
+socherryknits,2016-03-12 10:12:58,@mackles01 I'm on TM351 Data Management drowning in matplotlib &amp; python #confused #OUStudent,708596638525296641
+therriaultphd,2016-03-09 12:55:04,"Weird idea from a dream last night:  matshotlib , which recreates famous movie scenes shot by shot as matplotlib figs. (I need a vacation.)",707550270520107009
+MTotolrahaman,2016-03-11 17:00:08,#How to plot text below xticks (using x-coords) in matplotlib when x-axis are dates? #Tech #Internet #Programming https://t.co/vLZXJrUu9z,708336719574265856
+GovsInfo,2016-03-10 21:59:58,#Matplotlib Subplot Datetime X-Axis Ticks Not Working As Intended: #HowTo https://t.co/An4qjKAPdU,708049786088378369
+programmingncr,2016-03-10 21:06:52,"Figure changes color when saving https://t.co/7BkGQXvUnb #LearnPython   I am creating a plot in matplotlib, and try to save it as a png fi…",708036421597138949
+slerts,2016-03-13 12:45:28,Argh 😡 #ipython #jupyter notebook Mac OSX users. How did you get matplotlib to show plots? .use( TkAgg ) isn't working,708997406843490304
+polarwander,2016-03-17 04:35:50,Fun times today at @UCBIDS with @hackerwithin group presenting on geospatial data plotting in matplotlib: https://t.co/1nB23wG6FK,710323736243621888
+socket_x,2016-03-13 13:48:22,matplotlibで散布図を表示してさらにその上に散布されてる点から点へ線をプロットしたいんすけど，座標から座標へ指定してもなんかズレるん,709013233579876352
+javidcf,2016-03-10 14:53:01,Let's please forbid the usage of matplotlib without seaborne in all future Python code.,707942339420024832
+MTotolrahaman,2016-03-09 10:57:54,#Importing Matplotlib.pyplot: DLL load failed #Tech #Internet #Programming https://t.co/iBf8QLa4cK,707520783724257280
+MCeeP,2016-03-08 11:23:06,"@I_am_Grand yup, matplotlib works with it nicely (so far)",707164738980024320
+DeniseDSLu,2016-03-12 08:55:45,TIL 1) SQL 2) matplotlib 3) there's a Torchy's in Denver???! #nicar16 https://t.co/v58EmaHoNu https://t.co/zoJChWWc6m,708577208349097984
+Themes_Net,2016-03-13 21:44:07,error in strpdate2num converter in matplotlib: I am trying to read from file a datetime string followed by som... https://t.co/ESG3atplbv,709132961732370432
+venikunche,2016-03-21 09:32:06,Guide to data visualization in matplotlib (Python): https://t.co/uoxqnyHyrP,711847846656368641
+MTotolrahaman,2016-03-12 14:44:47,#How to fill between two rings with matplotlib #Tech #Internet #Programming https://t.co/jhKXCDO8EA,708665044503023616
+ProfCompMod,2016-03-18 17:44:15,Beautiful introduction to and exercises for learning matplotlib at https://t.co/fQTHyypxWC https://t.co/ukveHet0xq,710884536058417152
+MTotolrahaman,2016-03-10 22:42:23,#How to plot text below xticks (using x-coords) in matplotlib when x-axis are dates? #Tech #Internet #Programming https://t.co/vLZXJrUu9z,708060460457828353
+dancow,2016-03-18 14:12:42,This Matplotlib tutorial is one of the most beautiful guides I've seen on any topic https://t.co/CQSE2ccYMG,710831298277838850
+bobpoekert,2016-03-11 22:49:48,@tenfootfangs there aren't any. I actually dropped everything longer than an hour. I don't know why matplotlib decided to center like that,708424712804630532
+AdamSmitht1,2016-03-12 14:07:00,#Matplotlib drawing fractals #Tech #News #HowTo https://t.co/LQHMDPw0C5,708655534803648512
+GovsInfo,2016-03-10 20:55:26,#creating and referencing separate matplotlib plots: #HowTo https://t.co/zC4WxBuuES,708033543318929408
+_96N_,2016-03-11 15:37:46,GUIとOpenCVのPythonバインド周りとmatplotlib周りがクソつらいのでウインドーズは使いたくない,708315991273373696
+peryaudo,2016-03-08 09:20:01,pythonもbundleよろしくvirtualenvとか経由で使ったほうが楽なんだろうかと思う度にmatplotlibが動かないだopencvが動かないだ聞いてチキってしまう,707133761792581634
+MTotolrahaman,2016-03-11 11:26:21,#matplotlib &amp; seaborn: how to get rid of lines? #Tech #Internet #Programming https://t.co/WjCoKkvswb,708252717802774528
+PeterYoachim,2016-03-22 23:22:03,"So I wrote a utility to swap in different default settings to generate paper, slide, and web-ready plots. #PyAstro16 https://t.co/0MWMzkJU8x",712419097623941120
+GovsInfo,2016-03-12 15:33:52,#Plotting patches in random-shape with matplotlib: #HowTo https://t.co/QKvbBWiQ4t,708677396103303172
+startechwall,2016-03-12 05:04:49,#python contour plot alignment not correct using Matplotlib (The algorithm of Matplotlib contour is wrong?) #Tech … https://t.co/55yNI0Rutd,708519090839818240
+GovsInfo,2016-03-13 17:35:23,#Annotate axis with text in matplotlib: #HowTo https://t.co/rxcdTWepdx,709070365323083780
+programmingncr,2016-03-11 20:04:58,"Live graphing multiple subplots with matplotlib https://t.co/j1xaXtXVOx #LearnPython   So the following code will display a figure, and on…",708383232660787201
+plotlygraphs,2016-03-21 15:05:06,matplotlib tip of the day: Add an arrow to your annotations https://t.co/mylejhursi #python #datascience #d3js https://t.co/X7pFbdjgjb,711931646010859520
+NumFOCUS,2016-03-18 17:59:01,Congratulations! :) @matplotlib is a @NumFOCUS Sponsored Project  https://t.co/RM82gwUe0c,710888252736036864
+hassankhan,2016-03-11 21:05:16,"matplotlib documentation, that’s that shit I DONT LIKE",708398406348181504
+vthakr,2016-03-08 17:57:13,So happy to announce that my @OReillyMedia course “Matplotlib for Developers” is now available as an Early Release! https://t.co/KkrR3oue1P,707263921569136641
+dancow,2016-03-18 00:18:54,This is a really beautiful guide to data visualization in matplotlib (Python): https://t.co/CQSE2ccYMG,710621464236457984
+OrsiniJasiah,2016-03-11 19:00:52,#Hide meridians and parallel lines from plot and add TICK marks in matplotlib? #gis #HowTo #Tech https://t.co/k6ElCaUzmV,708367102017736704
+AdamSmitht1,2016-03-12 09:51:46,#Getting black graph when using Matplotlib in my Python notebook #Tech #News #HowTo https://t.co/HRlbdP5ret,708591304905719808
+communauteSIG,2016-03-08 21:46:44,"Python : Comment convertir les graphiques obtenus avec le module matplotlib en couches shapefiles,... https://t.co/bRevk35Njp #portailSIG",707321677655355392
+FlorenTselai,2016-03-13 16:52:34,Sometimes I think that the only thing more awkward than object-oriented programming is Matplotlib's OO interface #programming #python,709059589476622337
+woquendo,2016-03-12 13:40:08,@asmeurer $ cd ~/.matplotlib ; fc-cache -frv ./ # Should take a couple of minutes,708648775707992064
+newsafaribooks,2016-03-08 21:01:15,Matplotlib for Developers #InfiniteSkills https://t.co/14sTnzPZA6 #Python,707310232746086406
+polarwander,2016-03-17 04:54:19,The @ProjectJupyter notebook with these geospatial examples and matplotlib/jupyter tidbits is here: https://t.co/hP3SW8YiP5,710328387835813889
+MTotolrahaman,2016-03-10 21:07:07,#How to I change line color after calling matplotlib plot? #Tech #Internet #Programming https://t.co/zjxT4s02bE,708036486336258048
+gjreda,2016-03-08 23:15:20,pandas functionality I forget about far too often and find myself in matplotlib subplots land: https://t.co/63BO4225qO,707343976295084035
+btatmaja,2016-03-08 12:50:28,"Python for scientific computing: Numpy, Scipy and Matplotlib @ictpnews https://t.co/eHmbYoRHCX",707186725085421569
+GeoNe_ws,2016-03-10 19:03:12,Python : Comment convertir les graphiques obtenus avec le module matplotlib en couches shapefiles... || https://t.co/DzYHE3MQT0,708005301568536577
+startechwall,2016-03-13 13:37:34,#Overlay rotated Images on plot with Matplotlib #Tech #Question #HowTo https://t.co/sAs88F73OT,709010517193527301
+NumFOCUS,2016-03-18 16:45:16,RT @jscarto: (1/2) Excellent matplotlib tutorial for #python as a jupyter notebook: https://t.co/9lj47tWf5F https://t.co/lgskggpk92,710869689916919808
+eblogit,2016-03-10 12:58:27,#how to add space in Y axis matplotlib #Tech #HowTo https://t.co/MYVtL8rsl7,707913508726382592
+EvanBianco,2016-03-08 23:26:46,"@zzsylvester thanks! I like Matplotlib's slogan,  We make the easy things easy and the difficult things....possible . Design v. important",707346855760433156
+eblogit,2016-03-09 04:36:57,#matplotlib annotate basemap in data coordinates #Tech #HowTo https://t.co/kOkOFW5JL1,707424913053851649
+MTotolrahaman,2016-03-10 00:49:56,#Python: Leave Numpy NaN values from matplotlib heatmap and its legend #Tech #Internet #Programming https://t.co/yZM0GnHfoI,707730170686345216
+dancow,2016-03-19 22:21:35,"Created my first map w/ dots, in Python, thanks to @NPRougier's excellent matplotlib guide  https://t.co/1zMRs0j4Gg https://t.co/oD3Z2lDTRg",711316717817868289
+Marym_Ryan,2016-03-11 23:37:41,Pandas/matplotlib/Jupyter Notebook triple tag team just blew my mind at #NICAR16. Can't wait for the straight up pandas session tomorrow.,708436762746433537
+programmingncr,2016-03-12 23:29:25,"Can't get matplotlib to import into pycharm https://t.co/DZPDjDV5SE #LearnPython   In pycharm, If I do  from matplotlib import pyplot  I k…",708797072154206208
+AdamSmitht1,2016-03-08 15:58:05,#Matplotlib boxplot x axis #Tech #News #HowTo https://t.co/b9aU149sXL,707233940856250369
+neuroconscience,2016-03-18 11:28:26,Very nice #MatPlotLib tutorial https://t.co/inF0JNYDGe,710789958253092864
+AdamSmitht1,2016-03-11 18:25:44,#Group lines in matplotlib #Tech #News #HowTo https://t.co/nAMzYKymex,708358261305712641
+HartwigMicheal,2016-03-12 14:43:45,#How to fill between two rings with matplotlib #HowTo #Question #Tech https://t.co/rVkkJpDOLO,708664784506523648
+slerts,2016-03-13 12:52:58,Ok just figured out if I run `%pylab inline` before importing matplotlib the plot will show in the notebook. Now to solve the font issue...,708999293265285120
+HartwigMicheal,2016-03-13 10:29:35,#Left and right alignment of paragraph text (matplotlib) #HowTo #Question #Tech https://t.co/0fUBHAzE82,708963208812498944
+MTotolrahaman,2016-03-11 09:40:35,#How to change point to comma in matplotlib graphics? #Tech #Internet #Programming https://t.co/pI7YPu4HAD,708226102788014081
+startechwall,2016-03-13 20:08:51,#matplotlib onclick event repeating #Tech #Question #HowTo https://t.co/pduTUjzrgp,709108987699044352
+crizcraig,2016-03-18 00:59:25,"Still using matplotlib for charting? Checkout @plotlygraphs for zoom, drag, and resize, code https://t.co/lR1EANU8ax https://t.co/FOMsh4ZE4W",710631659738009600
+rasbt,2016-03-11 19:53:35,"@randal_olson @DataIsBeautiful just wondering whether the Python bar could be merged with matplotlib, seaborn etc. or are they mut. excl.?",708380369184096256
+jscarto,2016-03-18 13:58:55,"(2/2) Another overview of matplotlib w/ vector arrows, animation, and color maps in #python https://t.co/7dMrk5Whqe https://t.co/BGsKpRCjS8",710827828384833536
+CouponTrump,2016-03-10 04:25:13,#Data Visualization with #Python &amp; Matplotlib by @sr_elearning Was $99 Now just $9 https://t.co/LzgzYQL8vG,707784350306279424
+maskot1977,2016-03-11 14:41:15,とりあえず、 NumPy  SciPy  Pandas  Matplotlib  NetworkX  Scikit-learn  RDKit 他何かあるかな..(・ω・),708301766027190272
+MTotolrahaman,2016-03-10 00:04:03,#Turn off the Spanselector in matplotlib #Tech #Internet #Programming https://t.co/xH5ddJVKHW,707718624606298112
+mrechenthin,2016-03-20 14:19:20,@uptickr Nice job on the graphics - matplotlib?,711557742524239872
+MTotolrahaman,2016-03-08 13:16:10,#use a 2-axes colormap in matplotlib #Tech #Internet #Programming https://t.co/UqMkXhgODC,707193191674613761
+tacaswell,2016-03-18 17:53:29,Also checkout the `%matplotlib notebook` backend -&gt; interactive plots _in_ the notebook https://t.co/BxfWTTeoOH,710886859841388548
+VitalBeing,2016-03-09 19:58:45,Big Data = I just completed the chapter  Matplotlib . @datacamp https://t.co/nMohUyKfaq = ###,707656893661978624
+HartwigMicheal,2016-03-11 05:25:00,#python matplotlib figure into rgba array #HowTo #Question #Tech https://t.co/4mLVllpbjD,708161783916179457
+SankethMenda,2016-03-11 16:56:59,"I'm totally love matplotlib now, because they aren't as good looking as Mathematica, even failure isn't that depressing. #MyMethodDidntWork!",708335924594106368
+PandasOverflow,2016-03-11 17:32:07,Fill bar plot gaps in matplotlib with pandas resampled time series data https://t.co/EriPG49JbC,708344767982075904
+jscarto,2016-03-22 13:47:11,"One reason I prefer matplotlib over R/ggplot2: v easy to set custom style/brand. AI only needed to fine-tune size, fonts, and annotations",712274427648581633
+Jeremy_Gibbs,2016-03-11 02:24:52,"@ScienzaPiccola I would have used the jet colormap, but that’s just me. I wonder what the Matplotlib crowd thinks?",708116447961047040
+PandasOverflow,2016-03-10 18:50:07,How to graph a pandas series in matplotlib https://t.co/Vh2njI0n1W,708002009949954048
+chris_n_vinegar,2016-03-10 03:10:55,"Online course/s that go more into statistics and visualizations in Python (Pandas, Matplotlib, Bokeh, etc.)? via /… https://t.co/qmaxeuDtzq",707765649918070784
+omarsar0,2016-03-11 07:51:18,At 5000 size dataset. Need more data.  At least a 50000. Need to start inspecting for quality. #ai #matplotlib #ml,708198600807854080
+pmhobson,2016-03-08 22:20:35,I pip-installed matplotlib on windows today. We've come a such long way since 2008. The hard work of the scipy community can't be overlooked,707330198446804992
+RaulSalinasVal,2016-03-19 01:41:49,"Guide For Data Exploration In Python Using NumPy, Matplotlib, Pandas https://t.co/gxuk0hZqII",711004720891109377
+GovsInfo,2016-03-12 00:46:42,#Python3 fonts for matplotlib running on headless server: #HowTo https://t.co/TKkmvtxwsv,708454133754404864
+alexip,2016-03-08 15:05:04,I wish I had read that sooner. What is a Matplotlib backend? https://t.co/yd7VkGkY4h as easy as: plt.ion(),707220598175436805
+Francois_Parcy,2016-03-10 07:47:50,"@Gene_Regulation genome browsers, GEO for ressources, R packages, Matplotlib ? Will you share the lecture support?",707835339499507712
+Jr_McG1,2016-03-08 14:16:45,Slowly but surely... #matplotlib #improvements #RaspberryPi #decluttered https://t.co/qaWiGWxnoN,707208436824600577
+socket_x,2016-03-13 14:30:48,普通にmatplotlib.path使えば良かった,709023912286269441
+shazadanawaz,2016-03-10 02:18:13,#ipython tip - use '%matplotlib inline' to view/generate #plots within your notebook,707752388287926272
+masayuko,2016-03-09 16:00:46,matplotlibで描くグラフをTikZにするやつ見つけた。けっこう変態。https://t.co/svnvujpI6o,707597004143079425
+PythonDiario,2016-03-10 11:51:08,Tkinter and Matplotlib: relative position of canvas created by FigureCanvasTkAgg https://t.co/Gbstgg55ZT,707896566393114624
+programmingncr,2016-03-08 14:23:35,I'm trying to plot 2 y axises using matplotlib so with the eq_put_call on one and spy on the other https://t.co/399fI3HKmI #LearnPython   …,707210156342427648
+HartwigMicheal,2016-03-10 20:19:33,#What is np.random.random(4) used for in plotting figures using matplotlib? #HowTo #Question #Tech https://t.co/8fC6cY0SSa,708024514752475139
+PythonWeekly,2016-03-08 15:01:53,Survival Analysis in Cricket https://t.co/diCb87Dp7d #Python #IPython #Cricket #Pandas #Matplotlib,707219794882383872
+AdamSmitht1,2016-03-09 09:12:43,#Varying arrow length in 3D quiver in matplotlib #Tech #News #HowTo https://t.co/kwoyQpceA4,707494314205642752
+InfoAnimation,2016-03-02 01:36:37,Matplotlib: Animate/plot a varying length of disconnected lines https://t.co/7lknc85gwd #AnimatedQuestion,704842817571426304
+vthakr,2016-03-01 17:22:11,My first @OReillyMedia course “Matplotlib for Developers: Data Visualization and Analysis with Python” is coming soon! @oreillysacon @oscon,704718389403516928
+HartwigMicheal,2016-03-05 23:44:44,#matplotlib multiple line plots axis annotation #HowTo #Question #Tech https://t.co/NHIq1sYNnx,706264213237452800
+InfoAnimation,2016-03-07 23:25:26,Animation from matplotlib not working in spyder https://t.co/pyKG4m6oOQ #AnimatedQuestion,706984129057820672
+arnpry,2016-03-03 07:03:52,@tempestchasing You using matplotlib?,705287558104817664
+onlybooksorg,2016-03-05 05:57:39,Download Mastering Matplotlib - https://t.co/7N7pkzE27o https://t.co/xGBQZcCd7H,705995671086747648
+GovsInfo,2016-03-03 15:52:50,#Matplotlib: how to create stacked bar plot from pandas data frame?: #HowTo https://t.co/JKD8Nd79ER,705420678527369218
+startechwall,2016-03-03 03:47:04,#Plot special character as ① in matplotlib #Tech #Question #HowTo https://t.co/aXQ9HJO9DC,705238031557652482
+anathem,2016-03-07 13:02:28,TIL: matplotlib/pyplot hat nen xkcd-Modus :D https://t.co/MJp9e2D0Jo https://t.co/roaAWKrBzZ,706827354891489280
+HartwigMicheal,2016-03-04 23:42:00,#Suggestions for speeding up Matplotlib 3D? #HowTo #Question #Tech https://t.co/x6xBUwpA4T,705901136750968832
+onlybooksorg,2016-03-07 03:13:58,Download Interactive Applications Using Matplotlib - https://t.co/8DicHlBxXs https://t.co/xZvh3UU9CJ,706679255875330048
+eblogit,2016-03-03 09:57:14,#Matplotlib bar plot remove internal lines #Tech #HowTo https://t.co/mZlP3vicLV,705331190098694144
+MTotolrahaman,2016-03-03 12:43:46,#Cannot install matplotlib:  relocation R_X86_64_32S against '_Py_NotImplementedStruct' can not be used when makin… https://t.co/unMTEbNQeQ,705373098707705856
+NumFOCUS,2016-03-05 00:00:45,Plotting a 2D heatmap with Matplotlib https://t.co/4oVs0ym17y #python #dataviz,705905855020015617
+mallyrow,2016-03-03 14:40:54,I'm just wondering when I will learn 'b' in matplotlib is blue and not black,705402576188088321
+akucchan_world,2016-03-06 07:19:46,Posted an issue about #matplotlib #basemap on #GitHub. Please help me to draw the inter-state lines in Japan. https://t.co/0F3C1hN6CU,706378723226832896
+AdamSmitht1,2016-03-02 04:53:10,#Expanding  pixels  on matplotlib + numpy array #Tech #News #HowTo https://t.co/5oZqOoTE4k,704892281703276545
+IbroCEO,2016-03-02 11:20:11,"@OECD_Stat Hi, do you have energy production statistics from different sources for Non-OECD countries? Excel or matplotlib ready?",704989676264771584
+quasimondo,2016-03-03 14:26:32,"As much as I find matplotlib tricky to use, the fact that it uses Antigrain as the underlying rendering engine make me really appreciate it.",705398960005844992
+Jamie_Farrell,2016-03-07 01:03:40,GLITCH: But we have rhino -&gt; json -&gt; pandas -&gt; matplotlib for urban energy simulations. https://t.co/WIwg6K2uUl,706646464311795712
+MTotolrahaman,2016-03-05 23:45:15,#matplotlib multiple line plots axis annotation #Tech #Internet #Programming https://t.co/hHuyAisk1U,706264340601692160
+Wmaheshakya,2016-03-04 06:34:59,A quick guide to plotting with python and matplotlib - part 2 https://t.co/sCI9iByn8p via @Wmaheshakya,705642679124652033
+eblogit,2016-03-05 14:32:49,#Matplotlib make several graphics and use the arrow to change - Python #Tech #HowTo https://t.co/LRlvBGIteg,706125319409963008
+GovsInfo,2016-03-06 04:12:20,#Matplotlib: Coloring scatter plot by density relative to another data set: #HowTo https://t.co/CIsS3i7rVQ,706331553983553536
+emilydoesastro,2016-03-04 15:00:55,I'm going to try to write it all in LaTeX and graph everything with matplotlib for Python too. Which will either go very well or very wrong.,705770000431357953
+hlin117,2016-03-03 21:31:58,How to make beautiful data visualizations in Python with matplotlib https://t.co/wMHAA0QOuS  #fb,705506024392888322
+HartwigMicheal,2016-03-07 15:16:51,#Placing widgets in matplotlib: understanding how axes work #HowTo #Question #Tech https://t.co/Znb7gfYBxh,706861173631803392
+MTotolrahaman,2016-03-06 06:21:05,#Pyinstaller with Tkinter Matplotlib numpy scipy #Tech #Internet #Programming https://t.co/JNsbKBiW0t,706363955430694913
+GovsInfo,2016-03-07 06:56:41,#Matplotlib: Coloring scatter plot based on relative density: #HowTo https://t.co/LChPRd3T2f,706735302862368768
+robinro,2016-03-02 13:28:50,really looking forward to pypy+numpy/matplotlib https://t.co/bZ15wcNos0,705022049983586304
+InfoAnimation,2016-03-05 02:13:36,Animated plot using matplotlib with gtk https://t.co/UalVNAP9Ww #AnimatedQuestion,705939289465425920
+pmhobson,2016-03-01 20:23:48,Making a windrose with pandas/matplotlib: https://t.co/1IIsrRSU5C,704764094352494593
+javhur,2016-03-08 03:03:25,"Exploratory data analysis in #python using #pandas, #matplotlib and #numpy https://t.co/7LKdHbZ8LN #BigData #Analytics",707038987207229440
+gijnCh,2016-03-07 16:16:04,#dataviz 数据可视化好工具Matplotlib简易入门：https://t.co/aTUbMJZvxT via @haogate,706876078778916864
+MTotolrahaman,2016-03-04 11:37:31,#Matplotlib bar plot remove internal lines #Tech #Internet #Programming https://t.co/oEHbD42uAi,705718815900958720
+GovsInfo,2016-03-01 03:27:29,#Plotting terrain as background using matplotlib: #HowTo https://t.co/W9XqaLjyVa,704508330488811520
+MTotolrahaman,2016-03-03 20:02:08,#Matplotlib control which plot is on top #Tech #Internet #Programming https://t.co/uMv9tHhtkL,705483416205172737
+AdamSmitht1,2016-03-07 08:16:23,"#Matplotlib, controlling mark_inset() properties (kwargs) #Tech #News #HowTo https://t.co/uFy4dnpVMU",706755359155888132
+yancyvance,2016-03-08 07:30:30,"Installing Numpy, Pandas, Scipy, and Matplotlib on Ubuntu https://t.co/bB8UgbpWw4",707106199938818048
+fabienv,2016-03-07 14:05:39,Snippets pour 9 #dataviz avec #matplotlib et #seaborn en #python pour les #notebooks https://t.co/C3PxIf5y4N,706843256412377088
+ntk_as_dc,2016-03-04 05:31:55,@ya_do_n うーん、個人で使うときはどうせgnuplotとかmatplotlibあたりしか使わないので…。綺麗なのを作る場合はMayaが好きかなという感じですが超高いので外注向けすね。いつぞや専門家さんに1億粒子のデータを送りつけたらMayaで1億はやったことないと言われ…,705626806754238464
+__in__bestia,2016-03-04 07:28:27,@_pm71 matplotlib融通利かなさが凄くない？まあ使うんだけどさ,705656132207902721
+BanditCat1980,2016-03-02 03:46:07,%matplotlib inline import numpy as np import tensorflow as tf import matplotlib.pyplot as mpl  sess = tf.Interactiv… https://t.co/j0Rbk0iOeL,704875407464599552
+gh0st42,2016-03-01 17:16:42,got some simple matplotlib and d3 based route visualization for @ServalProject running https://t.co/fdaEyaEsDw,704717006948462592
+jlynnmuir,2016-03-01 16:35:52,@tomr_stargazer yay matplotlib revelations. This one was my big discovery last week: https://t.co/BYogfbHWMU,704706730693935106
+eblogit,2016-03-03 13:36:18,#Matplotlib: plt.xtick bug when used with sns.FacetGrid #Tech #HowTo https://t.co/UDJuumZok6,705386320756150272
+startechwall,2016-03-07 08:15:40,"#Matplotlib, controlling mark_inset() properties (kwargs) #Tech #Question #HowTo https://t.co/nQPrD6d0gl",706755182273630209
+jshoyer,2016-03-05 17:24:06,"@kwbroman I watched the matplotlib viridis talk a while ago and enjoyed it, but I cannot remember a strong reason to prefer over red-blue",706168420627156992
+MTotolrahaman,2016-03-04 18:32:39,#2D heat map using python and matplotlib #Tech #Internet #Programming https://t.co/KcfmwxPJsf,705823284730970112
+nugnux,2016-03-04 07:12:27,Cluster Growth Simulation.:  Using Python with Numpy and Matplotlib   Cluster   import numpy as np            ... https://t.co/XFUE2cfvJA,705652109195108354
+rickhenderson,2016-03-03 02:34:47,This guy recommends learning #Pandas and #Seaborn instead of #NumPy and #Matplotlib for #python #datascience. https://t.co/1FW7T5Rb2f,705219844640215040
+MTotolrahaman,2016-03-04 23:43:10,#Suggestions for speeding up Matplotlib 3D? #Tech #Internet #Programming https://t.co/KBCOvC1yzs,705901430822051841
+HartwigMicheal,2016-03-03 13:38:42,#Matplotlib: plt.xtick bug when used with sns.FacetGrid #HowTo #Question #Tech https://t.co/w5alIyyshV,705386924467462148
+AlbertHuang314,2016-03-03 11:24:42,#matplotlib #python https://t.co/GypxpvLfZZ(block=False) displays a figure without blocking interpreter at non-interactive session.,705353201046806528
+AdamSmitht1,2016-03-03 20:42:18,#Updating a matrix plot in matplotlib during for cycle #Tech #News #HowTo https://t.co/LnVCGu8o9a,705493525127892994
+BanditCat1980,2016-03-02 08:26:17,A simple interactive pickover stalk viewer that utilizes tensorflow:  %matplotlib tk import numpy as np import tens… https://t.co/R5ToCu3eZJ,704945913601658880
+girish946,2016-03-02 12:39:59,Using #matplotlib after a long time. #python.,705009759234166784
+GovsInfo,2016-03-04 06:36:03,"#Python &amp; Matplotlib: Resampling plot, how to specify the ax to plot with: #HowTo https://t.co/dK87G29mui",705642947199389696
+AdamSmitht1,2016-03-01 04:15:41,#matplotlib correct colors/colorbar for plot with multiple surfaces each of a different color #Tech #News #HowTo https://t.co/YKanJbMqHo,704520460298547200
+codl,2016-03-07 20:43:13,hmm i dont remember how to use matplotlib,706943306534670336
+PandasOverflow,2016-03-03 15:54:52,Matplotlib table plot in subplots https://t.co/eQtsKZb8Ee,705421190421041152
+arnicas,2016-03-05 03:20:11,f you matplotlib moving to d3.,705956041939357696
+HartwigMicheal,2016-03-01 20:57:53,#Matplotlib scatter plot with unknown error #HowTo #Question #Tech https://t.co/w8urnnvKgE,704772672165695488
+tetsuroito,2016-03-07 08:08:51,matplotlibのせいかわからんが、描画が遅いのがネックでござる。,706753464211099648
+iray_tno,2016-03-03 12:33:40,matplotlibのアップデートにしっぱいしてnumpyとmatplotlibをアンインストールしたら、pipが動かなくなって、easy_installからpipを再インストールしようとしたらeasy_installも動かなくなってて、エラーメッセージでググったらopen文字数,705370555776573440
+AdamSmitht1,2016-03-04 23:51:15,#Is there any way to share Y axis among only part of subplots in matplotlib? #Tech #News #HowTo https://t.co/hGmi1HSffP,705903464635830274
+robroc,2016-03-03 00:44:42,@khibma I'm focusing all my learning time to pandas now. It's so powerful. Paired with jupyter and matplotlib it's perfect.,705192137567117312
+TFConsult,2016-03-03 18:54:48,#DeepLearning powered by #Python: #iPython @ProjectJupyter #matplotlib #MLP #DataScience #Cologne @startplatz https://t.co/7Yjtrog4No,705466470097149952
+e_astronomer,2016-03-07 09:30:58,"Puzzled by results until I realised matplotlib imshow has 0,0 TOP LEFT. Further proof s/w folk don't think like scientists. Gaggh.",706774130415296512
+Jamie_Farrell,2016-03-03 03:18:47,Love letter to Matplotlib.,705230917158215680
+programmingncr,2016-03-04 18:14:36,"Stretch a matplotlib.pyplot barchart? https://t.co/qaJHvvCKsn #LearnPython   Hello /r/learnpython,  I'm playing with matplotlib.pyplot, tr…",705818743344070657
+miishke,2016-03-05 03:32:48,"@arnicas Just finished  enjoying  Friday night TV and I'm not blaming you for turning to matplotlib, D3 is outta my realm.",705959220227788802
+AlexBWeech,2016-03-01 07:07:20,I've just been having too much fun playing with Matplotlib. Today I discovered Basemap and dug way too deep into projections.,704563654742536192
+kamromero,2016-03-06 11:25:02,"#Python, Matplotlib and Pandas cheat sheets https://t.co/GVrbRyDQQv https://t.co/rXRrZKicSg",706440449674911744
+GovsInfo,2016-03-03 18:27:47,#Labelling a matplotlib histogram bin with an arrow: #HowTo https://t.co/q68duaYHzd,705459672816427008
+GovsInfo,2016-03-01 17:14:01,#matplotlib colorbar tick label formatting: #HowTo https://t.co/Tceru5RHFy,704716334131781632
+argparse,2016-03-01 15:15:31,@mgiuca I saw that you managed to get matplotlib working on GAE here https://t.co/5YuavqQpfi is it still working for latest version for you?,704686510474403840
+PandasOverflow,2016-03-03 18:08:09,Matplotlib table plotting layout control https://t.co/l6eDcQ2Wdj,705454731611648000
+thalesians,2016-03-04 13:39:50,need to start using VisPy https://t.co/3nRTmyxOAO - much quicker to plot high frequency data quickly (vs matplotlib),705749593787637760
+janschulz,2016-03-02 11:46:04,How I picture the pep8 travis run when it (again) finds some something in my matplotlib PR  https://t.co/OeGe255mFA,704996189159059456
+badnetworker,2016-03-08 04:58:40,Research contributions: figuring out how to hack R-style coefficient plots with matplotlib.,707067990764748801
+AdamSmitht1,2016-03-03 17:40:59,#Matplotlib subplots inside a for loop #Tech #News #HowTo https://t.co/po4tjbf4uI,705447896544616449
+lyuich,2016-03-01 10:33:37,“#750630 - python-matplotlib: Default backend 'tkagg' broken - Debian Bug report logs” (1 user) https://t.co/iLOHEuMJtb,704615567798325249
+margrietpalm,2016-03-04 08:45:49,Why does the #seaborn context 'paper' create plots with super small fonts? #matplotlib #python,705675604180475905
+programmingncr,2016-03-05 16:51:30,Over/Under contourf color to continue as usual? (Matplotlib) https://t.co/0sKijFDky2 #LearnPython   I have a contour plot that I fill with…,706160217428508672
+MiyakoDev,2016-03-07 12:37:47,"最近のPythonでグラフ作成って何が主流なんでしょう？画像作るだけならmatplotlibでいいんでしょうけど、きれいに出力しようとしたらBokeh, Seaborn, plotlyあたりでしょうか",706821145945722880
+merrdiff,2016-03-03 19:21:25,Plot update! I made a 3D click-and-draggable plot w/matplotlib but can't figure out how to share interactivity. https://t.co/2UBgC77XZp,705473168178196480
+InfoAnimation,2016-03-05 04:10:50,Matplotlib: updating multiple scatter plots in a loop https://t.co/8cTxxG2i8W #AnimatedQuestion,705968790677250048
+wasnot_aa,2016-03-04 09:32:17,45x275の表を扱うのにもGoogle spreadsheetは重い。。いや、グラフかこうとしてるとかんだよね。excelでも重いし。 matplotlibだとださい、というか面倒。guiじゃなくてもできるようになりたい。。,705687297438539776
+jnuneziglesias,2016-03-08 06:00:42,TIL you can pass the keyword argument `tight_layout=True` to both `plt.figure` and `plt.subplots` in #Python's #matplotlib — via @tacaswell,707083604250071040
+AdamSmitht1,2016-03-02 00:08:16,#How to keep aspect ratio on matplotlib graphs while adding more objects to the figure? #Tech #News #HowTo https://t.co/MrfiW86g3u,704820583633133568
+rgaiacs,2016-03-07 22:36:55,".@swcarpentry isn't the only organization under @NumFOCUS umbrella for #GSoC2016. Looking for applications for #JuliaOpt, #matplotlib, ...",706971922886692866
+fresskoma,2016-03-07 17:25:57,Creating a stacked bar chart in matplotlib requires 70+ lines of code https://t.co/5XoOWRzdRt https://t.co/oa48W6gVK4,706893663633281024
+brokencodebot,2016-03-02 02:25:28,%matplotlib notebook broken with current matplotlib master,704855110942400512
+wasnot_aa,2016-03-04 08:05:27,matplotlibを叩いてみたら、サンプルなのに反応なくなって辛い。。,705665445878075392
+PandasOverflow,2016-03-06 21:22:06,Detect matplotlib table needs adjustment https://t.co/hsvlhfOVd2,706590703070019586
+schemelisp,2016-03-06 10:03:40,Pythonがおすすめっつってるんだけど、私は初心者以下なのかMatplotlibが未だに使えてないです…（,706419971199365120
+Astronomer,2016-03-07 10:18:13,@ProfMike_M @e_astronomer I literally just swaped the x-axis direction in a matplotlib graph to  make it look right ...too true,706786021724332032
+MTotolrahaman,2016-03-07 23:41:34,#Animation from matplotlib not working in spyder #Tech #Internet #Programming https://t.co/Q6f9VanAX8,706988190016655365
+soiqbot,2016-03-01 03:00:03,Python Matplotlib Box plot https://t.co/TLIBX1nGEP #python #matplotlib #boxplot,704501424399499265
+jshreyas,2016-02-28 20:38:09,The day i learned #matplotlib does #xkcd. #python https://t.co/o68USWS3Ll,704042930202386432
+mattkenworthy,2016-02-28 19:59:43,"@Cosmic_Horizons @matplotlib @StackOverflow has been my friend these long months... oh, PGPLOT!",704033257143324672
+PandasOverflow,2016-02-28 02:48:38,Matplotlib errorbar fails to read a pandas data frame https://t.co/yvGCL1spBn,703773777344094208
+timothyrenner,2016-02-24 23:46:22,PyCall for #julialang means I get to use TextBlob and make plots with Gadfly. Guaranteed to be less frustrating than matplotlib.,702640745203654657
+AdamSmitht1,2016-02-29 12:23:45,"#Download numpy, scipy and matplotlib for pycharm using python 2.7 on windows #Tech #News #HowTo https://t.co/2rv99o0Yf7",704280898406125568
+Tatejimaru137,2016-02-27 14:00:39,Jupyter上でmatplotlibのアニメーションを再生する on @Qiita https://t.co/NsQjQW5JhU,703580505568997378
+PhysicsTrek,2016-02-28 20:15:05,I liked a @YouTube video https://t.co/EGPk7zDovj 5. Plotting Charts with Matplotlib - IPython Notebook Tutorial,704037124576813057
+MTotolrahaman,2016-02-26 08:43:53,#Partial coloring of text in 3D plot Matplotlib #Tech #Internet #Programming https://t.co/F0QWoxm5Gr,703138403072618496
+qiita_python,2016-02-28 10:20:50,快適なC++生活のためにスクリプト言語を使おう3 ーグラフ作成はmatplotlibにまかせようー - https://t.co/L3hQkNa7zf,703887575006605312
+tomr_stargazer,2016-03-01 01:33:28,"tech tip that saved me today: to insert a little whitespace into a LaTeX string in #matplotlib, use  \/  not  ~ ",704479636277755904
+PythonHub,2016-02-28 17:11:15,Animate your 3D plots with Python's Matplotlib https://t.co/eOPcqxBq6I,703990861776949248
+MTotolrahaman,2016-02-29 17:02:36,#Python matplotlib: is it possible to set individual rectangle cell size in pcolormesh? #Tech #Internet #Programmi… https://t.co/gxRz4C4XeV,704351073574785024
+therriaultphd,2016-02-25 18:11:33,".@AABoyles using the xkcd style in matplotlib, however... https://t.co/hm3jdBMEBN",702918872962342913
+MTotolrahaman,2016-02-29 06:01:53,#plot several image files in matplotlib subplots #Tech #Internet #Programming https://t.co/ybvDHmUkyz,704184799381086208
+twitmyreview,2016-02-24 18:39:15,"Text Classification in Python – using Pandas, scikit-learn, IPython Notebook and matplotlib https://t.co/ukwbhla4y9",702563455560249344
+GovsInfo,2016-02-28 23:48:36,#Date into matplotlib graph: #HowTo https://t.co/wlFc2LyigQ,704090856379301888
+salvatoremonaco,2016-02-27 14:25:43,#Pandas #NumPy #SciPy #scikit-learn #matplotlib is #python essential library to dive into machine learning technique.,703586816151187456
+astrotweeps,2016-02-26 13:05:16,I wrote the animation in #python and #matplotlib . For a week or so I was the world's expert at Artist instances :) https://t.co/YnWTQ1YsjN,703204182191427584
+GrumpyKelson,2016-02-28 22:44:24,@SCTrager @mattkenworthy @Cosmic_Horizons So... matplotlib still sucks? So glad I was forced to roll my own when I started Python in '98.,704074701736284160
+eblogit,2016-02-28 03:26:35,#How to remove/omit smaller contour lines using matplotlib #Tech #HowTo https://t.co/5qgDJGeVK0,703783325090062336
+Ciger47,2016-03-01 01:06:00,すごい。昔の音源復活させたい。そしてグラフはpythonのmatplotlibで作ってるぽい | 音割れ音源、機械学習で復元したくない？その1 〜短時間フーリエ変換と近接勾配法〜 - cocuh's note https://t.co/CE8Ntwu76J,704472725146853377
+plotlygraphs,2016-02-24 19:42:43,FANTASTIC new cmocean matplotlib colorscales from @thyngkm 😍 https://t.co/XMz4W1HVaa Plot via @mathinpython https://t.co/FRbZJ4SwID,702579425573998594
+PandasOverflow,2016-02-27 03:46:05,Matplotlib how to add line to stock price chart https://t.co/Ok7xfX0tjz,703425845679906818
+OrsiniJasiah,2016-02-29 12:59:22,"#How set xlim and ylim in Matplotlib graph (scatter, fill_between and line plots) #superuser #HowTo #Tech https://t.co/QRcWTOHjdE",704289858970361856
+AdamSmitht1,2016-02-25 11:49:31,#What am I doing wrong with my matplotlib ArtistAnimation? #Tech #News #HowTo https://t.co/IBWLTWQy00,702822732686336000
+GovsInfo,2016-02-26 05:02:46,#How to remove/omit smaller contour lines using matplotlib: #HowTo https://t.co/zLhw28TZqg,703082758189535232
+MTotolrahaman,2016-02-29 15:16:49,"#Download numpy, scipy and matplotlib for pycharm using python 2.7 on windows #Tech #Internet #Programming https://t.co/qCByAbSVF4",704324450494373888
+jazzydag,2016-02-29 08:45:24,Data Visualization with #python #pandas #matplotlib and #seaborn https://t.co/JgcmuO0CtE,704225949655629824
+lcastro,2016-03-01 01:52:26,"Bora lá começar a aprender o trio: numpy, scipy e matplotlib",704484409253208064
+SCTrager,2016-02-28 21:15:44,@mattkenworthy @Cosmic_Horizons I use a Python wrapper of pgplot written by @GrumpyKelson so I don't have to touch matplotlib.,704052389058322432
+GovsInfo,2016-02-28 01:03:27,#Matplotlib table and chart overwrites next chart: #HowTo https://t.co/LlNAhUlaIr,703747307607629824
+AdamSmitht1,2016-02-28 05:36:37,#Python Tkinter matplotlib #Tech #News #HowTo https://t.co/zlo59MCroQ,703816050878631936
+Tatejimaru137,2016-02-27 11:05:01,matplotlibで1枚の画像中に複数のグラフを表示する2通りのやり方 [Python] on @Qiita https://t.co/b4KCoeEd8P,703536306660335616
+arthurian522,2016-02-29 14:54:20,matplotlibで20色を用意するベストプラクティスを知りたい,704318792122249221
+programmingncr,2016-02-29 23:00:23,"Heat map in python (scipy, numpy, matplotlib) https://t.co/iOyqBVnkwT #LearnPython   I want to build a heat map that shows chi-squared lik…",704441110828077056
+PandasOverflow,2016-02-29 14:48:07,Line plot using matplotlib for a dataframe of 200 columns https://t.co/pSUvgNwhaB,704317227642716160
+GlukAlex,2016-02-26 18:12:13,"#Python #Data #Visualizations #tutorial by #BenHamner in Iris pandas, #matplotlib, &amp; seaborn libraries https://t.co/19v583ccZ8",703281429220823040
+gjreda,2016-02-25 16:38:30,Much easier way to make density plots in matplotlib -- StackOverflow: plotting histograms whose bar heights sum to 1 https://t.co/gKv9TJPlla,702895455751917568
+PythonHub,2016-02-25 15:37:17,Save Matplotlib plot image into Django model https://t.co/onSx6W1wIZ,702880051537289216
+fijixrepublic,2016-02-27 16:08:29,matplotlibのドキュメントがつらすぎて、うまいこと図が作れていない。,703612676568559616
+IneffectiveMath,2016-02-29 17:24:15,"@LarkinMVP Matplotlib, a python library.",704356521661038592
+MTotolrahaman,2016-02-28 02:29:38,#Blocking and continuing in matplotlib #Tech #Internet #Programming https://t.co/JLNAZQD2Sf,703768993493032961
+EvanBianco,2016-02-26 12:57:30,Getting weird looks in public when discussing whether a twin is the same thing as a parasite. (RE: Matplotlib figure axes (#Python)),703202226764906496
+MTotolrahaman,2016-02-29 11:16:49,#I'm having trouble installing matplotlib #Tech #Internet #Programming https://t.co/tHsE0BuGSE,704264054735560705
+samphippen,2016-02-28 14:02:04,"Matplotlib, I love you, but i’d appreciate it if I didn’t have to download ALL OF LATEX every time I wanted to install you.",703943251535990784
+shivendra05_90,2016-02-25 19:18:52,I just completed the chapter  Matplotlib . @datacamp https://t.co/GELh1Cqyye,702935814502633472
+MTotolrahaman,2016-02-25 14:28:32,#Accidental overlay of graphs in matplotlib #Tech #Internet #Programming https://t.co/qih2IeewJY,702862746694635521
+Themes_Net,2016-02-26 10:46:23,Pickle figures from matplotlib: I am trying to recreate the simple pickle figure example from the question: sa... https://t.co/7YBwYQA3QR,703169231081201664
+fastml_extra,2016-02-25 17:03:22,"But first, try this to improve plot looks:  import matplotlib https://t.co/QY6dnDtTSB.use( 'ggplot' ) https://t.co/jyrZhtV7yX",702901713540423681
+AdamSmitht1,2016-02-29 17:38:25,#How to delete axis label for just one tick in matplotlib #Tech #News #HowTo https://t.co/HWoYme52OB,704360086903324676
+CANEY0515,2016-02-26 07:53:29,あぁ＾～matplotlibいいんじゃ＾～,703125716913643520
+RedditPython,2016-02-28 22:00:03,Animate your 3D plots with Python's Matplotlib https://t.co/g0b3EYWM07 https://t.co/AqtdmaPE0z,704063538151743488
+jonathansick,2016-02-27 19:27:08,I’m so grateful for matplotlib ❤️ but after a decade with it I still get lost in the abyss of the object-oriented API. 😢,703662668524056577
+rasbt,2016-02-24 19:37:38,@tacaswell @amuellerml @randal_olson @michaelwaskom That's why I am pro  leaving matplotlib as 'low level' as it is ,702578149708554240
+tobybellwood,2016-02-26 20:46:06,"Python Basics with pandas, matplotlib, seaborn - via @benhamner &amp; @kaggle https://t.co/6HGR0nCEVT",703320155535708161
+programmingncr,2016-02-25 16:28:58,matplotlib can't import pyplot https://t.co/8Z8RUt4cRi #LearnPython   I need some help. I'm trying to learn matplotlib but for some reason…,702893054668226560
+bait_of,2016-02-26 13:04:57,dockerの仮想OS X上でpythonとmatplotlib使ってグラフ描画したいのにshow()してもなんにもならない！ backendがaggになってたからtkaggにしたけどpython-tkがない…インスコしようとしたけどできないなんで,703204100159057920
+HartwigMicheal,2016-02-28 20:43:43,#Matplotlib errorbar fails to read a pandas data frame #HowTo #Question #Tech https://t.co/KEuy7HMiRF,704044330625933316
+peterxing,2016-02-29 09:16:43,"Interactive Data Exploration: iPython, Jupyter and Matplotlib PART 1 https://t.co/o4sIwBbsii",704233829553147904
+MTotolrahaman,2016-02-25 19:21:36,#Matplotlib table and chart overwrites next chart #Tech #Internet #Programming https://t.co/nApKj58Ur2,702936502620315648
+MTotolrahaman,2016-02-27 03:44:43,#Matplotlib how to add line to stock price chart #Tech #Internet #Programming https://t.co/feW4XDxh1e,703425503781363712
+thefactmachine1,2016-02-26 23:26:37,Seaborne looks like a cool new datavis library based on Python’s Matplotlib   #dataviz #python https://t.co/Fzf6zwd0nn,703360551263477768
+AdamSmitht1,2016-02-26 23:52:40,#How to delete axis label for just one tick in matplotlib #Tech #News #HowTo https://t.co/HWoYme52OB,703367104507072513
+GovsInfo,2016-02-28 18:48:32,"#Download numpy, scipy and matplotlib for pycharm using python 2.7 on windows: #HowTo https://t.co/0Xe6dKw0kr",704015345376432128
+AdamSmitht1,2016-02-28 17:36:37,"#Understanding matplotlib: plt, figure, ax(arr)? #Tech #News #HowTo https://t.co/1G7AL1HRky",703997247042818053
+2_71828,2016-02-24 22:30:32,"And an SSI fellow demonstrates that there is life after matplotlib, plus the southern hemisphere gets ignored... https://t.co/IlTQRP7IgU",702621659308691456
+HartwigMicheal,2016-03-01 00:15:54,#How to remove/omit smaller contour lines using matplotlib #HowTo #Question #Tech https://t.co/qhxgXwP0We,704460114221260800
+ZKition,2016-02-27 22:01:47,"Data Viz Tutorial: Python Basics with pandas, matplotlib, seaborn 🐼 https://t.co/TYJWJplcMG",703701588553166849
+GovsInfo,2016-02-28 02:03:29,"#Understanding matplotlib: plt, figure, ax(arr)?: #HowTo https://t.co/yqmQFmXmcY",703762413338886146
+Cosmic_Horizons,2016-02-28 19:51:52,@mattkenworthy @matplotlib been using some choice welsh ones trying to get two logarithmic x-axes in matplotlib. Oh for fortran &amp; pgplot,704031280455819264
+HartwigMicheal,2016-02-24 16:33:18,#avoid overlap of ylabel on a graph in a matplotlib multiaxis figure #HowTo #Question #Tech https://t.co/HH35H2hcIc,702531760362491904
+emallson,2016-02-24 23:53:54,"easiest option is to just set the color in matplotlib, sigh",702642640605548544
+CSciBio,2016-02-26 16:00:27,Schrodinger's plot: the state between your #matplotlib plot finishing and opening the PNG to realize you forgot to include axis labels again,703248269917290496
+AdamSmitht1,2016-03-01 00:47:51,#Python Matplotlib Box plot #Tech #News #HowTo https://t.co/qP3ErhNKsn,704468157436715008
+programmingncr,2016-02-26 01:27:14,Experiencing a GtK bug? https://t.co/7jFeRc4qCS #LearnPython   I seem to be experiencing a bug when using GtK and matplotlib and I'm not s…,703028517601189889
+rieder,2016-02-29 00:58:54,"I think pgplot was taught when I was a student. Never used it though. Used gnuplot then, mostly matplotlib now. Survived the learning curve.",704108549060702208
+GovsInfo,2016-02-26 18:21:02,#Matplotlib and Python: How to format datetime from given string?: #HowTo https://t.co/WSUPNea4EU,703283648125124609
+InfoAnimation,2016-02-27 18:55:28,Matplotlib - updating quiver in animation https://t.co/WnUQQDvcwL #AnimatedQuestion,703654702345379840
+Themes_Net,2016-02-26 10:46:23,"no return from matplotlib when called via a Tkinter checkbutton: in my python program, with Tkinter, I plot a ... https://t.co/CJ42ZT8KtL",703169229281820672
+MTotolrahaman,2016-02-28 03:29:33,#How to remove/omit smaller contour lines using matplotlib #Tech #Internet #Programming https://t.co/384vZYSdLh,703784075375550469
+nick_attree,2016-02-25 12:08:00,fiiiinaly got dates formatting correctly to matplotlib. Slowly getting the hang of this Python malarky,702827381770289153
+akucchan_world,2016-02-29 22:27:42,"Cool colormaps by @stefanvdwalt &amp; Nathaniel Smith, don't miss it!  A Better Default Colormap for Matplotlib  https://t.co/GhJO4H62i9 #python",704432884300394496
+MTotolrahaman,2016-02-28 20:44:44,#Matplotlib errorbar fails to read a pandas data frame #Tech #Internet #Programming https://t.co/xudMwrlYfh,704044585471893504
+CoryMSimon,2016-02-27 22:15:06,See example figure. plt.tight_layout() should be default! https://t.co/QV14vsjrao #matplotlib #python,703704939843813376
+PandasOverflow,2016-02-27 00:00:04,how to plot time on y-axis in '%H:%M' format in matplotlib? https://t.co/NugFteT6kz,703368965569916929
+arambaut,2016-02-25 08:46:16,An updated animation of #EBOV in West Africa by @evogytis. Now includes tree. Rendered using Python and #Matplotlib. https://t.co/U42hesgVYM,702776615181393920
+giodegas,2016-02-26 20:28:40,#Python data visualizations with Pandas Matplotlib and Seaborn libraries. https://t.co/bewO8MsB8m,703315766721044480
+aelenwe,2016-02-29 01:53:53,Is it wrong that I am really excited to find this chart of the colors available in #matplotlib? https://t.co/wizJsHG6qO,704122386845556736
+Gascar_ShunT,2016-02-29 15:11:48,Matplotlibわからんすぎだし、Jupyter notebook使うし、ありかも,704323187924869121
+programmingncr,2016-02-28 06:43:15,Help understanding boxplots in matplotlib https://t.co/TV1BKIj7Ch #LearnPython   Can someone with a greater understanding of stats and mat…,703832819680747520
+programmingncr,2016-02-28 22:32:07,Date into matplotlib graph https://t.co/Rqf0nm2dAF #LearnPython   How can I use a date from a Sqlite database on the x-axis to make a bar …,704071611998142464
+pypyproject,2016-02-26 17:07:19,Matplotlib runs with hacks on PyPy (will do it properly eventually): https://t.co/2GNgcVXCtT,703265096303251456
+CANEY0515,2016-02-26 12:12:13,gnuplot + シェルスクリプトよりpythonでmatplotlibするのが良いな。こんなにサックリできるんなら、もっと早くやっておけばよかった。,703190833185427458
+PandasOverflow,2016-02-28 00:43:05,frequency over time graph using python matplotlib and pandas https://t.co/fF8VkM9NHf,703742181257797632
+michaelwaskom,2016-02-26 21:17:58,@TomAugspurger There would be so much less matplotlib boilerplate out there in the world if people used ax.set() more often,703328172339630080
+shima__shima,2016-02-25 16:50:07,https://t.co/QVZKSjqzk9 ← matplotlib のデフォルトの色が気に入らない人がいっぱいいて，スタイルが https://t.co/PVtqhpD7yH できたけど，まだ別にいろいろ出てくるんだな,702898380796657664
+duguyue100,2016-02-25 09:43:39,"So turns out without changing a backend, my matplotlib is still working at my Mac under atom.",702791056207847424
+GovsInfo,2016-02-26 22:04:31,#How to remove/omit smaller contour lines using matplotlib: #HowTo https://t.co/zLhw28TZqg,703339887068585984
+emallson,2016-02-24 23:42:07,Argh matplotlib renders images with a transparent background and org inlines them without adding one so I can't read the text &gt;.&gt;,702639674762903553
+tethys_seesaa,2016-02-24 20:41:53,Pythonでプロット（matplotlib | NumPy） - できないことはやりたくない https://t.co/qlvqC4Oxgw,702594317332840448
+CWal37,2016-02-22 03:31:01,wrote python to graph #zillow #data based on zipcode or w/e you want #python #matplotlib #pandas #realty #knoxville https://t.co/aFDsMcrvve,701610113531060225
+programmingncr,2016-02-23 17:48:28,"Line Alpha Not Saving Properly in Matplotlib https://t.co/NHaCUrjk1A #LearnPython   I posted this question on StackOverflow with no luck, …",702188287990099968
+CillianMacAodh,2016-02-21 22:31:46,some nice tips here #dataviz #datavisualization : Noel O'Blog: Matplotlib tips https://t.co/DvlhjIahJv,701534806983761920
+johnmlhll,2016-02-22 19:08:45,Hooray for #Python #PySpark #Pandas and #Matplotlib. My 1st viz script on #DSS. #BigData https://t.co/N6gN9yazsp https://t.co/LMZ4quwJ2v,701846104464355328
+AdamSmitht1,2016-02-22 19:52:42,#Move existing legend in Matplotlib 1.5.1 #Tech #News #HowTo https://t.co/J1S8DPA4nt,701857163493433344
+stsievert,2016-02-18 16:52:05,Latexifing matplotlib plots for publication: https://t.co/Vs5zrpJL5P via @nipun_batra,700362159469916160
+PythonWeekly,2016-02-23 15:00:30,Signal Processing with GW150914 Open Data https://t.co/e56CHJ8of2 #python #ipython #scipy #matplotlib,702146017190420484
+programmingncr,2016-02-20 04:50:28,"Python Suggestions https://t.co/o9Ob5gz6pC #LearnPython   I use python for numpy, matplotlib, and pandas to do scientific computing and gr…",700905333829607424
+bitbootcamp,2016-02-18 16:32:08,Learn how to add jitter to a plot using Python's matplotlib and seaborn! https://t.co/d1XjJwHfTR #bitbootcamp #datascience #machinelearning,700357140662374401
+alcideschaux,2016-02-18 19:33:24,I just completed the chapter  Matplotlib . @datacamp https://t.co/mZghXter9H,700402755995828224
+plagiaires,2016-02-20 13:12:03,The Code Way: #DataAnalysis using #Twitter #API and #Python https://t.co/WamgagKbCr #tweepy #matplotlib #pandas,701031560770928641
+AdamSmitht1,2016-02-20 07:42:45,#matplotlib import error in Mac #Tech #News #HowTo https://t.co/u1eCPKybg8,700948690563948544
+brianwolven,2016-02-20 05:20:16,Are there any Python graphics libraries that handle hidden line removal &amp; depth cueing automagically? Surface removal works in matplotlib…,700912833857343488
+Wietze,2016-02-18 13:16:59,Time spent working on my dissertation after finding out matplotlib supports XKCD style graphs... https://t.co/uqH3kIXhYL,700308027988172801
+GovsInfo,2016-02-21 18:57:23,#How to  translate  the Midpoint Circle Algorithm into matplotlib?: #HowTo https://t.co/pLNH7WCG5i,701480855412281344
+wcmckeedotcom,2016-02-21 08:59:54,[b0t]TIL that matplotlib can do xkcd style charts https://t.co/j0Elwwtzlm #python,701330495703912448
+PandasOverflow,2016-02-22 20:27:40,"Plotting error bars matplotlib, using pandas data frame https://t.co/JSD3khwS5y",701865965038882816
+tuxedocat_tw,2016-02-24 09:27:24,毎年この時期になると、修論.md を Pandocで 修論.ltx -&gt; 修論.pdf にしたり、matplotlibの図を更新したりする wafスクリプトのことを思い出す。（当時の動機は思い出せない）,702424579575259137
+PandasOverflow,2016-02-24 02:17:10,how to avoid matplotlib MatplotlibDeprecationWarning? https://t.co/0ArzdbvYVh,702316306675027969
+SamanthaZeitlin,2016-02-18 16:49:37,@MrP_helps @muraii @BecomingDataSci @statwonk @raphifix @YhatHQ seaborn is also smarter about stats than matplotlib. @michaelwaskom,700361538473848833
+abhi9u,2016-02-24 14:32:10,"@amuellerml when I started learning sklearn from various tutorials, I was finding the matplotlib code more daunting than sklearn code.",702501275535970304
+futurile,2016-02-24 02:50:25,"@bkanuka Thanks for your blog post on Native Looking matplotlib Plots in LaTeX. Finally, nice looking figures: https://t.co/y9MJuK4SHY",702324675880230914
+nekoallergie,2016-02-20 09:29:35,matplotlib の twinx() の使い方 (*ﾟーﾟ) https://t.co/vWRuJ6b3Pq,700975574714437634
+AdamSmitht1,2016-02-23 05:53:26,"#Matplotlib create 4d surface plot (x,y,z,color) given csv data #Tech #News #HowTo https://t.co/DOMyv93Oy8",702008342298890240
+troy_scott,2016-02-20 08:01:52,Working with Matplotlib in Virtual environments — Matplotlib 1.5.1 documentation #matplotlib #mac #python https://t.co/9Muf1G5xFs,700953502202228737
+TomLouden_b,2016-02-22 15:47:34,That feeling when it takes 10 times longer to get matplotlib to plot the way I want than it did to reduce and analyse the data.,701795475524083712
+GovsInfo,2016-02-19 10:53:13,#Removing points stored in a dictionary in a matplotlib basemap animation: #HowTo https://t.co/1WdfKdNObN,700634236420685825
+amuellerml,2016-02-23 16:50:15,@reshamas as long as I don't have to do it in matplotlib ;),702173639047827458
+PS4GotzProblems,2016-02-23 17:58:03,Line Alpha Not Saving Properly in Matplotlib via /r/learnpython https://t.co/LOzWmOZpC6,702190699760975872
+michaelaye,2016-02-21 22:27:18,Good Matplotlib styling tutorial! RT @tacaswell: https://t.co/XDOGaBVLFp nice example of styling mpl plots.,701533683849637889
+brrrianchu,2016-02-19 06:11:19,"Matplotlib is a really powerful, extremely well-thought-out way to waste my time.",700563293593710592
+B1GSeanHolmes,2016-02-19 04:59:21,@tangotiger matplotlib (especially matplotlib.pyplot) is perfect for almost everything,700545179753783297
+art_control,2016-02-19 01:33:10,[b0t] [matplotlib] Good way to visualize large matrix sparsity pattern? (x-post /r/LaTeX) https://t.co/NpdciPXdTu #python,700493295777148928
+GovsInfo,2016-02-23 02:36:24,#Matplotlib: two plots on the same axes with different left right scales: #HowTo https://t.co/qyt4cQ5LKj,701958757354446849
+HartwigMicheal,2016-02-23 16:59:26,#Python ValueError - Extracting a float from a matplotlib axis #HowTo #Question #Tech https://t.co/HgF9YFVQol,702175947303288832
+cocoacoda,2016-02-23 11:40:54,TIL that #Matplotlib can do xkcd style charts #Python https://t.co/JbCcwL6Poh,702095788655169536
+volcan01010,2016-02-23 12:34:06,Add on packages give #python power. numpy+matplotlib turn it into Matlab. pandas turns it into R. basemap turns it into GMT.,702109176265199616
+GovsInfo,2016-02-22 15:49:27,#Year over year matplotlib with legend: #HowTo https://t.co/WH1JRB1L4u,701795948649979904
+mznuv,2016-02-22 23:33:56,why is matplotlib still impossible to install after all these years,701912840530227200
+enter_haken,2016-02-19 13:54:52,#matplotlib visualize time based #json data https://t.co/4SkIHCIchE,700679947472367616
+vasudevram,2016-02-21 21:09:03,"... now jupyter — (with both matplotlib and clusters management integrations), non-C accelerators (numba, cython), anaconda  #Python",701513991516848128
+art_control,2016-02-19 06:38:49,[b0t] Poor man's logic analyzer using matplotlib https://t.co/3XfaEjCGzw #python,700570211829817345
+AdamSmitht1,2016-02-23 05:53:31,#matplotlib plot multiple surfaces each of a different color #Tech #News #HowTo https://t.co/49gpc4QQZN,702008363664728064
+muraii,2016-02-18 14:08:17,"@BecomingDataSci @MrP_helps @statwonk @raphifix @YhatHQ Seaborn and ggplot are basically just style managers for matplotlib, right?",700320939012157440
+MTotolrahaman,2016-02-23 22:17:14,#Matplotlib plots legend on one machine but not the other #Tech #Internet #Programming https://t.co/XcR25Vt6QS,702255927211245568
+GovsInfo,2016-02-20 02:26:10,#Matplotlib not installing inside virtualenv mac: #HowTo https://t.co/pXEINUos6y,700869021437194241
+artwisanggeni,2016-02-19 23:31:02,#python descartes 1.0.2: Use geometric objects as matplotlib paths and patches https://t.co/ZWW3w4Cm2t,700824947434741761
+polarwander,2016-02-23 03:49:05,@choldgraf i learned today that you can now get seaborn styling using:   from matplotlib import style  style.use('seaborn-darkgrid'),701977049104158720
+startechwall,2016-02-21 15:28:38,#matplotlib legend: How to specify font weight? #Tech #Question #HowTo https://t.co/bbBJFKm67Y,701428321511456768
+thomastweets,2016-02-23 12:52:33,Running into trouble using #matplotlib and #iPython on OSX with #anaconda? For me ‘ipython2’ (instead of ‘ipython’) solved it…,702113817216602113
+TonyMcAwesome,2016-02-19 15:08:13,"Numpy and Matplotlib and Pandas, oh my! #DataScience #python @DataCamp",700698408823042048
+polarwander,2016-02-23 03:50:44,@choldgraf other defaults include (as of matplotlib 1.5): style.use('seaborn-colorblind') style.use('ggplot') style.use('fivethirtyeight'),701977464541544449
+yojiro,2016-02-19 05:09:57,"Python v.s. Ruby。numpy, scipy, pandas, matplotlibに対応したRuby界のなにか。NAArray, sciruby/NMatrix,  daru, nyaplot 「表にするとRubyでも揃っている（ように見える」と。",700547849977618433
+NumFOCUS,2016-02-20 00:15:12,plotting the eigenvector of covariance matrix using matplotlib and np.linalg https://t.co/wH7lmG4QI2,700836061182894081
+zpacefromspace,2016-02-23 16:58:47,"matplotlib has about 17 different ways of making colorbars, so you gotta find the one that (a) works; and (b) doesn't look like monkey butt",702175782601293824
+hjrrockies,2016-02-19 04:56:42,@tangotiger Matplotlib is the gold-standard,700544513501061121
+cbonnett,2016-02-19 09:43:18,"@Harcel of course ! Was an early adopter of that one, standard matplotlib visuals have improved a lot since.",700616638333378560
+researcherjess,2016-02-20 22:54:04,Just discovered I can produce figures in xkcd style in matplotlib! I may never get a paper accepted again.,701178031415676928
+InfoAnimation,2016-02-23 17:35:08,Matplotlib animation debugging https://t.co/xdT8awvgjP #AnimatedQuestion,702184933108781057
+nebutalab,2016-02-18 15:09:35,現状、データ処理＋プロットを僕自身がやる場合、Python一択みたいな感じになってしまっているが。ただ、matplotlibはあまりいいと思わない。見た目があまりきれいでない。カスタマイズがしづらい。動作があまり直感的でない。なので、別の言語で気の利いたものがあれば移行したい。,700336365355937793
+ainvvy,2016-02-24 13:11:21,My initial program was in python but ran on Nodebox  for mac. I made some change to run on python+matplotlib.,702480935338397697
+NBackas,2016-02-19 04:59:32,"@tangotiger seaborn is worth checking out, but start with matplotlib",700545227845570564
+HartwigMicheal,2016-02-18 17:46:55,"#How can data be plotted in front of axes with mWith matplotlib, how can datasets be plotted on top of axes lines?… https://t.co/epVkCrxv7A",700375957098602496
+HartwigMicheal,2016-02-24 08:17:51,#spyder (Python 2.7.11) cannot recognize %matplotlib on windows 10 #HowTo #Question #Tech https://t.co/eIHZ58Hm0x,702407074928578560
+PCacioppi,2016-02-23 20:24:48,@alvarograves @MaxCRoser ok. i recommend python for doing that sort of work. post a notebook on github. use matplotlib,702227631060578304
+brobeur,2016-02-21 23:54:11,[b0t]Poor man's logic analyzer using matplotlib https://t.co/KGGW8NlhRp #python,701555545958957056
+introspection,2016-02-24 10:05:56,Now a project for manipulating brain surfaces in #Python with @Matplotlib #BrainhackParis https://t.co/7x3ESR79G3,702434275396861953
+PyData,2016-02-18 21:05:07,THREE @NumFOCUS sponsored projects used in #LIGO #gravitationalwave discovery! @ProjectJupyter @matplotlib #numpy https://t.co/LspY1uqSz8,700425838114828288
+AdamSmitht1,2016-02-24 04:25:34,#Does matplotlib count saved figures as open? #Tech #News #HowTo https://t.co/O9GPCgPz3h,702348617588346880
+haconeco,2016-02-21 15:59:50,matplotlibとipythonが面倒くさいことになっていてさすがに全部手作業で環境構築するの時間の無駄感が出てきた,701436173437153285
+vasudevram,2016-02-21 21:08:16,"De HN comment lists these #Python tools:  numpy, scipy, scikit-learn, matplotlib, pandas, biopython, sage, ipython and ipython notebook ...",701513791733825536
+arjunattam,2016-02-24 12:50:23,I recommend Seaborn for better visualisations in python. Everything that matplotlib should be. https://t.co/9SKv7BxOto,702475662263582722
+MTotolrahaman,2016-02-24 14:04:00,#Matplotlib plotting range of values as a bar #Tech #Internet #Programming https://t.co/iHLOOi7Ard,702494187942518785
+iayork,2016-02-19 11:44:29,@tangotiger matplotlib for function. Add seaborn to mpl to enhance aesthetics and add functions. Bokeh worth checking out after those,700647138187878400
+chemacortes,2016-02-22 20:26:47,A library helper to make simpler matplotlib with #python: https://t.co/YqkL1DeZ0g,701865741205823490
+yukino,2016-02-23 11:53:15,そういえば当研究室の学生は、みんな普通にJupyterとかpandasとかmatplotlibとか使ってるけど、どこで教わったのかちょっとフシギ,702098896416182272
+mikkoharhanen,2016-02-23 17:25:18,"@Mark_Graph  I just found out about your Matplotlib cheat sheet. It's awesome, thanks.",702182458352132098
+HartwigMicheal,2016-02-23 16:59:22,#Python manually define matplotlib xlim() #HowTo #Question #Tech https://t.co/GoBqf2SvDk,702175930278670336
+SankethMenda,2016-02-19 16:21:36,"I really miss Mathematica, matplotlib graphs aren't as visually appealing and numpy and scipy are relatively boring. #WhyDidIShiftToPython",700716877513756672
+NPRougier,2016-02-18 19:08:19,Got your badge ? #pyton #numpy #scipy #matplotlib #pandas #skikit #github https://t.co/Fa8gQ7AlYS https://t.co/KvypWlP0Tt,700396442993737728
+AdamSmitht1,2016-02-23 18:58:56,#matplotlib correct colors/colorbar for plot with multiple surfaces each of a different color #Tech #News #HowTo https://t.co/YKanJbMqHo,702206020643332098
+talyarkoni,2016-02-20 01:04:14,"I use matplotlib for everything, but I like to change the default fonts and styles just to keep people on their toes https://t.co/32rQpvxcpz",700848401060012032
+randal_olson,2016-02-24 13:59:03,@amuellerml @tacaswell Are you using plotting functions like in your sklearn tutorial? No need to teach matplotlib too.,702492939830874112
+BenDilday,2016-02-19 05:02:42,@tangotiger afaik everything is built off matplotlib. seaborn is a great extension. pandas does plots and is the best for data wrangling,700546026260725760
+lmarburger,2016-02-19 15:10:13,Me right now looking at matplotlib examples and dreaming of all the graphs I could build. https://t.co/Bfxu7PFEdc,700698912559124480
+hjrrockies,2016-02-19 05:00:12,@tangotiger Side note: the graphs &amp; visualizations from the gravitational wave discovery papers are all from matplotlib.,700545397496786944
+twhyntie,2016-02-22 14:37:02,Hot stuff! Fun with heat maps for #Panoptes classifications with @the_zooniverse: https://t.co/Kig3ipVelv #Python #matplotlib,701777723505692673
+wcmckeedotcom,2016-02-21 12:03:12,[b0t][matplotlib] Good way to visualize large matrix sparsity pattern? (x-post /r/LaTeX) https://t.co/nKYlB1ALNo #python,701376622771961857
+junggun_lim,2016-02-24 07:18:18,matplotlib 이게 뭐야 ㅋㅋㅋ  https://t.co/Qk69IXAVA4,702392089393422338
+talyarkoni,2016-02-20 01:17:40,".@rogierK @CookieSci @bradleyvoytek but seriously, does anyone know if there’s an SPSS style for matplotlib? cause if not… *nods at Github*",700851780532318208
+onnowpurbo,2016-02-23 01:05:58,bisa utk realtime data? RT @AndriJohandri: gimana kalo pake matplotlib pak @onnowpurbo hehehe (sok tahu ya...  ) https://t.co/mgEXPVyQK4,701936000470220801
+maxxkrakoa,2016-02-18 20:52:48,Matplotlib has an xkcd style... I don't know what I'll plotting but I have to plot something. https://t.co/N8DmhmDRgH,700422738276651008
+WAHa_06x36,2016-02-24 09:55:28,Update for https://t.co/R1pRqyTDH2: Stole a nicer palette from matplotlib.,702431642091175937
+amuellerml,2016-02-23 16:49:36,I think my #sklearn book will have more lines involving #matplotlib than #sklearn. What's the takeaway there? (cc @tacaswell ;),702173471778979840
+SecNewsBot,2016-02-23 15:26:27,Hacker News - Cartopy – a cartographic python library with matplotlib support https://t.co/NLsP2PlbRo,702152548782886912
+cr1901,2016-02-20 19:35:22,"@Enceladosaurus Not sure how much it'll help now, but... interested in a matplotlib function I use to plot freq responses?",701128026520682497
+biphenyl,2016-02-18 21:45:15,Lazyweb: looking for a matplotlib line color cycle that a) isn’t gross full-saturation colors b) works well in B&amp;W and for the colorblind,700435936467746816
+startechwall,2016-02-23 05:54:39,"#Matplotlib create 4d surface plot (x,y,z,color) given csv data #Tech #Question #HowTo https://t.co/kuqBUT2qbm",702008650416652288
+HartwigMicheal,2016-02-21 22:40:41,#Plotting multiple 2d curves with matplotlib in 3d #HowTo #Question #Tech https://t.co/9VKyHEulsm,701537049820667904
+legazier,2016-02-19 14:22:11,Discovered the new #matplotlib colormaps... nice evolution from the old default! Check https://t.co/KOwwoFzDe4 https://t.co/yjlL9icuA2,700686825464078337
+SecNewsBot,2016-02-16 13:40:40,"Hacker News - Install Python 3.5 with NumPy, SciPy and Matplotlib on Windows https://t.co/ZYJBPQR0Bn",699589212715229184
+NumFOCUS,2016-02-12 20:50:20,RT @jakevdp: It looks like LIGO is using matplotlib &amp;amp; its new viridis colormap! #Python https://t.co/L73xYqjCCi https://t.co/IfkUhXuK7l,698247790506463232
+minrk,2016-02-16 10:48:11,"@Pybonacci @fperez_org @matplotlib viridis is in current matplotlib (1.5), so set `cmap = 'viridis’`. 2.0 makes it the default.",699545805703798784
+MTotolrahaman,2016-02-17 02:11:27,#Setting tick labels in matplotlib #Tech #Internet #Programming https://t.co/zFAIxc7GPv,699778151849857024
+pypi_updates,2016-02-13 09:38:01,matplotlib-venn 0.11.2: Functions for plotting area-proportional two- and three-way Venn diagrams in matp... https://t.co/j5wTwzODXE,698440982954700801
+fperez_org,2016-02-18 01:41:42,"Beautiful physics, stunning scientific tenacity by @LIGO team, fig. made with open src python, matplotlib &amp; friends. https://t.co/q1g63kxbAK",700133052731686912
+GovsInfo,2016-02-15 18:53:58,#Adding + sign to exponent in matplotlib axes: #HowTo https://t.co/ekXPxgeoll,699305670559014912
+soiqbot,2016-02-14 23:00:02,Matplotlib Stem Plot https://t.co/bmUQsSE4BB #matplotlib #stem,699005205917130752
+higheducation1,2016-02-13 22:22:09,#EducationAdvices Matplotlib: I can't zoom into a real time plot: I made a real time plot with a time axis and… https://t.co/3xyINyisDb,698633283123286016
+startechwall,2016-02-13 14:15:44,#Selecting a single color from a matplotlib colormap in Juila #Tech #Question #HowTo https://t.co/V7GxQBC4OU,698510875087499264
+Carrie_Garcia_,2016-02-16 17:28:35,#MarchMadness prep -&gt; boxplots for total pts per tourney game to help with over/under @kaggle @matplotlib @ThePSF https://t.co/K4Yqlqq5ie,699646570061430784
+MTotolrahaman,2016-02-13 23:52:44,#Graphing a function with parameters (matplotlib) #Tech #Internet #Programming https://t.co/vX7HOWUlgP,698656078540730369
+HartwigMicheal,2016-02-18 00:15:23,#How do I get interactive plots with TkAgg in matplotlib 1.5.x? #HowTo #Question #Tech https://t.co/vBOUBoBm9E,700111332734058498
+jasoncpatton,2016-02-17 01:33:02,"I'm really liking the ggplot style added to matplotlib, so I just might, just had too much to do tonight https://t.co/xI2of9yIYS",699768483907698688
+sandreacatalan,2016-02-16 16:23:29,@pyladiesmanila Wish i could win this &amp; have a lightning talk bout Interfacing Arduino Weather Board w/ Python &amp; Matplotlib. #letsgopyladies,699630186115891200
+MateusCaruccio,2016-02-13 00:29:44,@betatim @matplotlib @scipytip I knew it! https://t.co/5r6GFLa4FG,698303003120529408
+AstroRibas,2016-02-13 02:00:28,@betatim @nudomarinero @matplotlib And Viridis colormap!,698325839209963521
+Fortis3M,2016-02-15 08:57:07,ubuntu環境でmatplotlibにImageMagickの連携ってどうやるんだ,699155465796657154
+cdch10,2016-02-13 00:47:14,And the new matplotlib colormap! https://t.co/YRGtboSq2h,698307409224142848
+Mork_66,2016-02-15 07:29:25,A software oscilloscope for #Arduino made with #Python and #matplotlib https://t.co/T2wHw7uFHc,699133395239116800
+NumFOCUS,2016-02-12 17:45:12,".@NumFOCUS sponsored projects Matplotlib, IPython, @ProjectJupyter included as tools in #LIGO discovery! So neat. https://t.co/BQM4gDwv2P",698201200559321090
+tyrannorobotrex,2016-02-17 20:55:03,"Interesting post on the use of python, IPython notebook, and matplotlib for the LIGO project. https://t.co/MiR9esFOSV",700060915757142016
+pypi_updates,2016-02-17 03:45:01,publib 0.1.8: Produce publication-level quality images on top of Matplotlib https://t.co/harvQD0voF,699801698160738304
+irusman,2016-02-16 10:21:23,A Better Default Colormap for Matplotlib | SciPy 2015 | Nathaniel Smith ... https://t.co/HN2JLsFJol via @YouTube,699539061464125440
+IneffectiveMath,2016-02-13 15:31:23,@MJCampion34 python with matplotlib,698529911510663168
+JoshuaLongUK,2016-02-15 06:20:31, Poor man's logic analyzer using matplotlib  via #Python https://t.co/cSDAsYlaki,699116055139106816
+nnobuya,2016-02-15 01:35:40,This remedy may avoid matplotlib's errors happen when making plot via ssh  ?? https://t.co/19xUrC1DIE,699044371585486849
+ismage,2016-02-15 21:26:43,ポケットへ入れた 時系列プロット / Matplotlib https://t.co/GTbx6guLml,699344109488758785
+vallens,2016-02-12 19:09:08,@nomad421 @hjpimentel @jtleek I make all my publication plots with matplotlib. It does take me hours to make a plot nice though.,698222321962713089
+kajord,2016-02-17 18:53:08,@rsimmon In matplotlib that was replaced withimages of Grace Hopper and Ada Lovelace in examples: https://t.co/zdKiHUcDpc,700030234788106240
+emilychaosays,2016-02-13 19:39:55,"The hardest part of data analysis is learning how to use matplotlib. Sorry Python, just not a fan...it's kinda hard, not going to lie.",698592455227125760
+john_thrower,2016-02-13 20:38:19,A Better Default Colormap for Matplotlib | SciPy 2015 | Nathaniel Smith ... https://t.co/dx9eD3f5bX via @YouTube The (tech) creative process,698607151997198338
+qiita_python,2016-02-12 15:51:41,matplotlibでグラフの目盛りの小数点以下を省略する - https://t.co/dluhfFbmzN,698172631313305602
+GovsInfo,2016-02-15 21:56:22,#How to calculate the dimensions of a text object in python's matplotlib: #HowTo https://t.co/5aH8yro48s,699351570539028481
+wcmckeedotcom,2016-02-13 15:15:20,[b0t]TIL that matplotlib can do xkcd style charts https://t.co/j0ElwwLaJW #python,698525871062261760
+AdamSmitht1,2016-02-17 19:05:09,#Using datetime as ticks in Matplotlib #Tech #News #HowTo https://t.co/69212ygxxq,700033258017439745
+ArchUpdates,2016-02-15 06:14:10,python-matplotlib 1.5.1-2 x86_64 https://t.co/RzI31IbpWI #Archlinux,699114456568061952
+MTotolrahaman,2016-02-15 08:20:58,#Matplotlib: how to show plot again? #Tech #Internet #Programming https://t.co/j37f32YS5f,699146370138140672
+nateoostendorp,2016-02-13 05:39:37,Awesome tutorial on using the LIGO dataset with ipython/matplotlib to show the detected gravitational waves https://t.co/xuxDox9RcY,698380989727436800
+wstein389,2016-02-12 16:06:41,@betatim @cplberry @ellisonbg @darribas @matplotlib @minrk seems to have found it since it is in here: https://t.co/NDXsSvL6ea,698176406597939201
+PandasOverflow,2016-02-17 14:20:13,Plotting a pandas dataframe as stacked barchart with matplotlib. How to get rid of the overlapping? https://t.co/qtdggWz3lt,699961551344644096
+MTotolrahaman,2016-02-14 17:21:05,#Is there a matplotlib equivalent to using the 'with'-keyword in pandas and seaborn for temporarily changing setti… https://t.co/VEhMPdzgW2,698919903873597440
+johnmlhll,2016-02-16 16:22:15,@gjreda Great tutorial on #Python #Pandas and #Matplotlib https://t.co/t8J9UyMYYH Thanks for sharing dude.. https://t.co/VscdATmTlK,699629875829805056
+EricvdHelm,2016-02-17 13:51:36,#Python package of the day: matplotlib-Venn https://t.co/rAUeyWAQdr https://t.co/FmajpiZRm3 https://t.co/ZKk7XlMFri,699954350932807680
+baritatsu,2016-02-16 13:10:07,描くのに時間がかかるので，3Dは #matplotlib でなく #Mayavi の導入を検討．,699581523993849856
+ZoomerAnalytics,2016-02-15 20:11:36,More than 10 different Matplotlib samples used in Excel via xlwings! Nice! https://t.co/lle3HSeqo2,699325205198585856
+nugnux,2016-02-18 05:43:09,"1D Waves Simulation using Matplotlib Module on Python: Hasil dari ini, :) code   Gelombang   import numpy as n... https://t.co/Mk47ZkxKjg",700193816540614661
+AdamSmitht1,2016-02-13 01:54:35,#matplotlib - save plot lines without background and borders and transparency 8 bits alpha channel issue #Tech #Ne… https://t.co/8l87auUueL,698324355579772928
+SecNewsBot,2016-02-12 21:15:15,Hacker News - A Better Default Colormap for Matplotlib https://t.co/YpIq6wiShx,698254061204799488
+ruimvieira,2016-02-12 16:49:47,#LIGO used #matplotlib? strings LIGO-P150914_Detection_of_GW150914.pdf | grep matplotlib &lt;pdf:Producer&gt;matplotlib pdf backend&lt;/pdf:Producer&gt;,698187252309032961
+vaibhavsingh544,2016-02-14 08:32:34,FS#48175: [python-matplotlib] (Re)Move tests https://t.co/et7tk2faUT,698786900006408192
+ajweinstein,2016-02-12 18:15:13,@jiffyclub The figures of the data processing of LIGO experiments were made with Matplotlib,698208751988375556
+karenjyang,2016-02-15 02:37:43,Found this python visualization package matplotlib. Pretty cool. https://t.co/oSslfAxxl5,699059988195479552
+eblogit,2016-02-15 21:46:06,#Conditional function plotting in matplotlib #Tech #HowTo https://t.co/I15hrGh3Ez,699348987976028161
+MTotolrahaman,2016-02-16 07:04:26,#Ipython Notebook &amp; Matplotlib: How to wrap a plot within a html div? #Tech #Internet #Programming https://t.co/ZstPTAMlmX,699489498510594049
+wstein389,2016-02-12 15:52:10,@cplberry @ellisonbg @betatim @darribas @matplotlib GW150914_4_NR_waveform.txt is missing... :-( https://t.co/EU4LBb0Ov2,698172753640161285
+artwisanggeni,2016-02-18 00:09:12,"#python colormap 0.9.8: Utilities to ease manipulation of matplotlib colormaps and color codecs (e.g., hex2rgb) https://t.co/MohakoUKyk",700109773216198656
+yaozhifeng,2016-02-14 02:20:44,Matplotlib在Mac的virtualenv下面就是没法正常工作，官方给出的解决方法一点都不好，折腾半天，还是决定用Linux虚拟机解决。,698693324329213952
+PythonHub,2016-02-17 07:29:15,[matplotlib] Good way to visualize large matrix sparsity pattern? (x-post /r/LaTeX) https://t.co/2xtJrQHZWw,699858130616905728
+stefsy,2016-02-17 08:03:13,"@statwonk @BecomingDataSci @raphifix @talyarkoni ggplot2 &gt; matplotlib! bokeh has potential, though still raw. wish hadley would switch over!",699866679350722560
+HartwigMicheal,2016-02-13 12:21:06,#How to change colour of certain elements of a matrix in matplotlib matshow? #HowTo #Question #Tech https://t.co/R8zIa0P4hx,698482023489523712
+Cmrn_DP,2016-02-15 03:15:34,TIL I learned about https://t.co/lKndgtDfrg - testing for images created by matplotlib #python,699069511908073472
+andrewkabala,2016-02-13 20:00:44,"@ngamita downloaded 2500 tweets as json object using Python tweepy library, converted it into a dataframe and tabulated using matplotlib.",698597696467238914
+KempPlays,2016-02-18 07:31:09,"@emilydoesastro matplotlib is super handy, especially when combined with wx to create a GUI.",700220994317897728
+MTotolrahaman,2016-02-15 02:51:12,#Selecting a single color from a matplotlib colormap in Juila #Tech #Internet #Programming https://t.co/9u48xIGPsq,699063380280266753
+plotlygraphs,2016-02-17 00:38:58,"A refresher of the Axes API in matplotlib https://t.co/rcwipvNJEO Coded in #Python, automagically drawn in #d3js ✨ https://t.co/pP957npaCS",699754879099760640
+mura_cin,2016-02-14 07:19:43,Display image as grayscale using matplotlib https://t.co/JEqpN8roQ5,698768566372282369
+azukiice,2016-02-18 09:28:50,waiting for the installation of matplotlib / scipy... I feel like I've been here before #programming,700250612202516481
+PandasOverflow,2016-02-14 17:29:33,Is there a context manager for temporarily changing matplotlib settings? https://t.co/xy2UFEZTRX,698922038191206400
+brianwolven,2016-02-13 07:55:09,It's oddly pleasing to me that the dark-&gt;light grayscale colormap in python/matplotlib is gist_gray &amp; the light-&gt;dark version is gist_yarg.,698415095639121920
+cetoli,2016-02-15 11:42:10,"https://t.co/KxxEkHU8bW:  visualize real data with matplotlib's, new data structures such as the dictionary and the Pandas DataFrame.",699197004354887680
+qiita_python,2016-02-12 19:05:56,matplotlibでグラフの目盛りの小数点以下を省略する - https://t.co/dluhfFsXYn,698221518455762944
+camlorn38,2016-02-17 19:56:41,@stommepoes Matplotlib+numpy+scipy and a few other things is a pretty capable science stack.,700046229477183488
+HartwigMicheal,2016-02-16 10:33:09,#How to completely remove the white space around a scatterplot? (matplotlib) #HowTo #Question #Tech https://t.co/bTsJDhGrTV,699542019933413376
+BDataScientist,2016-02-14 23:40:13,Use Matplotlib from Excel with xlwings https://t.co/7uYCXr9Vhu via #DataScience #dataviz,699015317637373953
+HalloConnie,2016-02-16 22:25:56,Looking fwd to using #matplotlib + @ProjectJupyter more  based on tonight's @bigdatau #python workshop.  https://t.co/fiJglEZemp,699721399380783104
+aalto_juha,2016-02-12 16:02:58,Created this long-term chart of #Helsinki Stock Market General Index and log momentum with Python/Matplotlib. #OMXH https://t.co/HduTa1do98,698175470672748544
+emilydoesastro,2016-02-18 00:15:19,Uses Python with the graph produced by matplotlib. Am very pleased with it considering I had no prior experience with the library :),700111315466088448
+minrk,2016-02-12 20:33:08,"In honor of @matplotlib’s viridis being used in the LIGO results, check out this great talk about it! https://t.co/SzaBC3hDDc",698243461275844608
+BSDHackerCommit,2016-02-13 17:25:35,[freebsd-ports] https://t.co/yGqVRi5H8D rm - math/py-matplotlib: update to 1.5.0  Release notes: https://t.co/E7aTFYI5kC...,698558651951411200
+PyData,2016-02-12 18:05:10,"Vivian Zhang at PyData Dallas 2015: Python Data Analytics Workshop - NumPy, pandas, matplotlib, and SciPy https://t.co/DZyFXwupZj",698206225499086850
+InfoSysReddit,2016-02-15 06:57:28,Poor man's logic analyzer using matplotlib: submitted by    /u/Ritalin50  [link]   [comments] https://t.co/BQYDt46gaK,699125356423311360
+DebianUpload,2016-02-13 17:40:04,New upload: Accepted python-matplotlib-venn 0.11.2-1 (source all) into unstable by Andreas Tille... https://t.co/rpPzdfU5Tb,698562295580983297
+MTotolrahaman,2016-02-13 12:07:04,#How to change colour of certain elements of a matrix in matplotlib matshow? #Tech #Internet #Programming https://t.co/BnVeVNTRNe,698478493622001664
+hak_ase,2016-02-13 06:59:27,pylab_examples example code: centered_ticklabels.py — Matplotlib 1.5.1 documentation https://t.co/jQUin2fIFg,698401077163479040
+art_control,2016-02-16 22:32:51,[b0t] TIL that matplotlib can do xkcd style charts https://t.co/NyBPN1dWXu #python,699723141623455744
+MrP_helps,2016-02-18 11:59:01,@BecomingDataSci @muraii @statwonk @raphifix @YhatHQ you can stack matplotlib commands on seaborn to control details.,700288408149630978
+minecra705,2016-02-14 13:54:08,https://t.co/1VHwZjYH16 Learn Python for Science - NumPy SciPy and Matplotlib https://t.co/JmCQ5UrQaC,698867825180590080
+hannorein,2016-02-12 18:44:42,@betatim @matplotlib @rgbkrk I'm just disappointed that they didn't cite any software they used in the discovery paper :-(,698216174476251136
+eblogit,2016-02-17 11:12:19,#Example of animated 3D bar-chart using matplotlib.animation in Python #Tech #HowTo https://t.co/K4QgWw4kFI,699914266988703745
+AdamSmitht1,2016-02-14 18:12:39,#Python Matplotlib - Multiple series in same data file #Tech #News #HowTo https://t.co/0kLVjBVwSa,698932881171877888
+Animismus,2016-02-17 14:42:32,"#matplotlib #python @matplotlib markersize in pyplot.plot and s in scatter for, I guess, the exact same thing?",699967167333339136
+startechwall,2016-02-17 19:06:10,#Using datetime as ticks in Matplotlib #Tech #Question #HowTo https://t.co/JfXZWBvtWM,700033516537561089
+hjpimentel,2016-02-12 18:15:21,Base plot isn't that bad - orig. drew me to R. We shouldn't be ganging up on @jtleek. The real enemy is matplotlib. Those plots are hideous,698208787748917248
+MTotolrahaman,2016-02-15 21:50:31,#Conditional function plotting in matplotlib #Tech #Internet #Programming https://t.co/rhoK9DvNcS,699350099693064194
+SBojarovski,2016-02-15 13:53:05,"defaults matter, choice architecture (A Better Default Colormap for Matplotlib) https://t.co/4KsYRpFO4w",699229947987128320
+FortuneBitXBit,2016-02-17 23:26:36,"Matthew Green : @matthew_d_green: My students found XKCD mode in matplotlib, and… https://t.co/wsCjGhqyob #BitCoin https://t.co/vPS1gDbkFj",700099054160580609
+GovsInfo,2016-02-16 19:06:05,#how to get vertices of hexagons from the polycollection output of hexbin() matplotlib method?: #HowTo https://t.co/ltbCm5HfsW,699671106660265985
+GovsInfo,2016-02-17 23:39:49,#matplotlib rearranging columns when plotting from dictionary: #HowTo https://t.co/RyFXuuWE5e,700102380814233601
+MTotolrahaman,2016-02-14 02:36:19,#matplotlib not working on Raspberry pi #Tech #Internet #Programming https://t.co/2HeVMdsU6R,698697247786188800
+qiita_python,2016-02-09 00:15:50,matplotlibとNetworkXの日本語文字化け解消 - https://t.co/25ShXYiydW,696849951872028672
+wernerdrew,2016-02-11 15:41:08,Looks like at least someone in the LIGO collaboration uses matplotlib: https://t.co/gKidHCJw9a,697807589891899392
+darribas,2016-02-12 08:40:00,@cplberry @betatim @matplotlib Wow no! that's so great!!!,698063995626987520
+chapagain,2016-02-08 16:07:05,Python: Graph plotting with Matplotlib (Bar Chart) https://t.co/C9jqETv43T,696726956788715521
+artwisanggeni,2016-02-11 18:14:18,#python mpl_utils 0.1.1.0: plotting utilites build around matplotlib https://t.co/fAXc5728PB,697846134287413248
+WonderMicky,2016-02-11 23:19:08,"#LIGO believes in #openscience! Check out their public #Jupyter #notebooks, with #opendata https://t.co/IBGuZgR1VY #matplotlib #hdf5 #python",697922849923862528
+ManningSinger,2016-02-09 09:42:43,"RT habrahabr: Python, Pandas и Matplotlib: https://t.co/nXt5kE7iI1. Сравниваем цены на",696992614588010497
+_YSaif,2016-02-12 12:15:48,مكتبة بايثون matplotlib أستخدمت في إثبات موجات الجاذبيّة. بايثون هي ربما اللغة الأولى في المجال الأكاديمي:  #برمجة https://t.co/JR7OCEd0Ut,698118302514737154
+DebianBug,2016-02-07 17:00:25,New bug: 814024 - #python3-matplotlib - Reduce dependencies (on tcl/tk?)... https://t.co/x15IQGzNam,696377990926745607
+ngkabra,2016-02-12 05:35:06,So the plots in the Gravitational Waves paper were probably done with Python:matplotlib https://t.co/YH8U4AOfUr https://t.co/T5u8fpkSu9,698017465574404097
+taslanous,2016-02-11 16:31:16,Gravitational wave data was plotted using Python and Matplotlib! https://t.co/SmLtW2tGtj,697820205804843009
+nygeog,2016-02-07 16:37:10,Anyone ever do #ErrorBars in @YhatHQ’s #ggplot for #python? Or should I use #matplotlib https://t.co/vQXjGfib9f.use('ggplot’)?,696372138157199360
+halcy,2016-02-11 19:44:37,https://t.co/D4yOpUO50E haha nice the paper uses the new matplotlib palettes,697868862273036288
+tacaswell,2016-02-07 20:04:28,"@nibalizer Tried to run this on matplotlib, ran out of my 5k request tokens, have a 11MB cache file.",696424306159575042
+richardschrade,2016-02-09 15:50:39,@ContinuumIO @BokehPlots @matplotlib https://t.co/e1Uq6Nlpoj,697085206445031424
+DanielOCnr,2016-02-10 08:40:27,"FFS I just want a graph out of iozone, but it looks like I'm going to have to write my own script with python, and matplotlib",697339331929726978
+habrahabr,2016-02-09 09:25:07,"Python, Pandas и Matplotlib: https://t.co/WKd8Vvldcy. Сравниваем цены на бумажные книги в Интернет-магазинах. https://t.co/t25OQPIzeE",696988186065522691
+ayanguasgil,2016-02-08 00:30:38,"Crustal abundance of the elements drawn with @matplotlib Blue=scarce, Red=common #NationalPeriodicTableDay https://t.co/9MH86E6A6g",696491289135730688
+CaktusGroup,2016-02-11 19:12:31,how to add #jitter to a plot using #Python seaborn and #matplotlib #dataviz libraries https://t.co/x2oBZc2mHs,697860785331163137
+betatim,2016-02-11 22:31:13,Biggest recent science discovery and you know what they use to make those plots? @matplotlib! #science #python https://t.co/i8mu29W4Ja,697910788154118146
+prakharsriv9,2016-02-11 03:20:41,TIL that you can make XKCD style graphs in Matplotlib! Lolwut! https://t.co/sRuu655jWo https://t.co/ntnmHsHHno,697621249325993984
+Jeremy_Gibbs,2016-02-11 19:00:29,"Dearest fellow python pals,  Has anyone used matplotlib to create a Gantt chart? I need to make one for a proposal.",697857755319635968
+astrofrog,2016-02-07 09:23:38,@enceladosaurus there are two ways to use matplotlib: plt.* commands and the object-oriented interface (I use the latter in my script),696263035892142081
+shora_kujira16,2016-02-07 15:15:38,@tokky_cpp Debian系をお使いですか？もしそうなら apt-get install python-matplotlib で入ります (少しバージョンは古いですが),696351619865145344
+nida_001,2016-02-08 16:09:11,そういやmatplotlibも謎オプション多めで辛かったな…,696727483916222464
+SorishaPragyan,2016-02-08 01:57:16,Thumbnail gallery — Matplotlib 1.5.1 documentation https://t.co/29I1Bdukzh,696513092801466368
+cplberry,2016-02-12 08:54:31,@darribas @betatim @matplotlib We're big Python fans.,698067648085696512
+wickedchicken,2016-02-10 15:40:45,your february reminder that matplotlib sucks,697445103770714113
+art_control,2016-02-08 14:29:50,[b0t] Automatically fit labels with matplotlib https://t.co/Td4EK8yOrh #python,696702480202260480
+miishke,2016-02-11 16:19:38,Check out this figure from the gravitational waves paper. Looks like matplotlib and viridis color map. https://t.co/B0ostigC4Q,697817277182439424
+nygeog,2016-02-11 19:46:00,Got #matplotlib 1.5.1 up and running with #ggplot stylez: https://t.co/E9savlMDHA https://t.co/MWNfJkWC0Y,697869211398332416
+PythonHub,2016-02-11 11:13:16,TIL that matplotlib can do xkcd style charts https://t.co/kWDRoWvi51,697740179012984832
+artwisanggeni,2016-02-08 00:32:09,#python mplotlab 0.2: Interactive Matplotlib Application using wxPython https://t.co/dXCbtlFt4D,696491673287684097
+rochacbruno,2016-02-12 14:14:03,A prova que foi com #python: strings ..150914.pdf | grep matplotlib &lt;pdf:Producer&gt;matplotlib pdf backend&lt;/pdf:Producer&gt; ....,698148059767771136
+ShowHNDaily,2016-02-11 10:00:04,How to add jitter to a plot using Python's matplotlib and seaborn. https://t.co/pbpx5PBlTV,697721756233048064
+0x2ba22e11,2016-02-11 18:41:37,matplotlib. ♥ https://t.co/lmIPiwFfyL,697853008021950464
+HartwigMicheal,2016-02-10 00:48:01,#How to generate data for matplotlib filled contour plots given the real coordinates? #HowTo #Question #Tech https://t.co/97Q3ZdwjZ1,697220440775925760
+pypi_updates,2016-02-08 00:11:00,mplotlab 0.2: Interactive Matplotlib Application using wxPython https://t.co/0WZH068KYa,696486351332577282
+rowanrv,2016-02-11 10:51:36,Add jitter to graph categorical vs. continuous vars w/ #python's matplotlib/seaborn #dataviz https://t.co/LDxyYivAOs https://t.co/NDBSfdqWoP,697734723771240449
+abizycom,2016-02-09 04:55:44,#Unintended extra bar and stacking in Matplotlib Bar Graph #Tech https://t.co/j13VioylxT,696920393031016449
+mojin,2016-02-11 17:27:00,重力波検出論文の図1で使われているカラーマップはあたらしく matplotlib に追加された viridis かな https://t.co/2kNcam6uuJ https://t.co/gpoYptf5qY,697834231553265664
+InfoSysReddit,2016-02-11 10:59:42,TIL that matplotlib can do xkcd style charts: submitted by    /u/danwin  [link]   [comments] https://t.co/pPBpshgmnU,697736765122056192
+CWal37,2016-02-07 17:04:35,"52 Graphs #5:When Data isn’t Data, then Silica Precipitation and Lithium Sorption. https://t.co/mgf6fTmDOw #matplotlib #data #python #madeit",696379039724908544
+cplberry,2016-02-12 08:31:54,@betatim @darribas @matplotlib Have you seen the iPython notebook as part of the #LIGO data release? https://t.co/ImH6vop6b3,698061955836162049
+evogytis,2016-02-12 08:39:28,The #LIGO gravitational wave paper used #viridis as the colour map. Also I'm pretty sure that plot is #matplotlib. https://t.co/3RlkdX2dmu,698063862965342208
+wigging,2016-02-11 04:40:30,@ThisMedievalLyf I wrote a similar article on removing #matplotlib spines in #python on Tinkker https://t.co/Hyw8Ke3fY2 #tinkker,697641334090272768
+JuliaOverflow,2016-02-08 18:30:07,How to eliminate smoothing in matplotlib (pyplot)? https://t.co/fAEquZyLF9,696762950351097856
+ajsteven130,2016-02-08 18:08:34,"@DevilleSy @fxcoudert haven't seen anything like that, and I just updated. Getting an annoying matplotlib warning, but nothing like that",696757529301413888
+abizycom,2016-02-11 10:07:45,#Unintended extra bar and stacking in Matplotlib Bar Graph #Tech https://t.co/j13VioylxT,697723691300429824
+jakevdp,2016-02-11 18:12:33,It looks like LIGO is using matplotlib &amp; its new viridis colormap! #Python https://t.co/RIumAQFAgi https://t.co/KwBOPn5iBr,697845693868716032
+mattpriestley92,2016-02-11 14:43:12,Matplotlib has new colorbars. I must now try every single one,697793010944315392
+kivantium,2016-02-11 08:38:13,C++用のmatplotlibが欲しい,697701157817331716
+ericmjl,2016-02-11 22:39:45,@andrewflowers @jtleek neither do I! But that's because I'm invested in #matplotlib and @BokehPlots.,697912936694685697
+aliskhakov,2016-02-09 16:14:33,Сравнение цен в книжных интернет магазинах #python #pandas #matplotlib https://t.co/6Nae1N1rQg,697091224168169472
+jakevdp,2016-02-11 04:20:21,@tacaswell @tdhopper @asmeurer Here's an example of creating a gif with matplotlib: https://t.co/liOvZVW3b0,697636263856205825
+programmingncr,2016-02-11 00:36:44,"Top packages in Anaconda besides numpy, pandas, and matplotlib? https://t.co/2527Kv0sTj #LearnPython   Seriously? I love that stack plus S…",697579989336776705
+muneebalamcu,2016-02-11 15:47:49,@muneebalamcu (hi there matplotlib!),697809269626896385
+santiagohiguera,2016-02-11 21:26:11,Free Webinar: Pandas and Matplotlib https://t.co/Dn6MxOlU2t #python,697894422604861441
+DrBennison,2016-02-07 23:57:10,@jemmaths @adamcreen I'm sure you could do similar with Python and matplotlib - I'll investigate.,696482870404243456
+HartwigMicheal,2016-02-07 11:37:54,#matplotlib - plot wrong datetime #HowTo #Question #Tech https://t.co/ppFfr1HDhE,696296825330999296
+HartwigMicheal,2016-02-07 16:57:05,#Change color of legend to match line plot matplotlib pandas #HowTo #Question #Tech https://t.co/4utkKiDiLA,696377150736363520
+GeoGinger,2016-02-11 17:59:48,"#gravitationalwaves paper uses #matplotlib for plots and #viridis colorbar in Figure 1.  Yay, Python!",697842484575993857
+modernscientist,2016-02-12 15:14:47,@betatim @alanmnichol @matplotlib And definitely don't use python 2! #cheapShot,698163344835006465
+ogrisel,2016-02-12 08:54:03,@betatim @matplotlib and they did not use the jet colormap for the heatmap! We live in the future :),698067531702145024
+SriniKadamati,2016-02-08 02:09:16,"@BecomingDataSci @dataquestio @ContinuumIO yeah this is something Matplotlib suffers from too. Curious as to why, hope it gets better tho!",696516113157324800
+mnz_r,2016-02-07 14:19:11,"Is learning #Weka seriously, for coursework, a good idea for a CS student already familiar with #Python stack (#NumPy, #SciPy, #Matplotlib)?",696337414109827072
+MTotolrahaman,2016-02-11 11:57:01,#Formatting of Dates in Python with matplotlib and datetime: x axis error - float #Tech #Internet #Programming https://t.co/XivAubiRDk,697751188024983553
+daveinstpaul,2016-02-11 02:46:50,@fnoschese This was a great excuse for learning how to make bar charts with matplotlib. https://t.co/hxCWSc5t33,697612731508203521
+ThisiswhyIcode,2016-02-12 12:39:00,Python plots used in gravitational waves discovery paper PDF: https://t.co/hhaI6l3RQr #matplotlib #viridis https://t.co/c8G5imCRrU,698124139798904833
+_rokujo,2016-02-08 10:43:37,edXのMicrosoft: DAT208x Introduction to Python for Data Science、ようやくModule5まで進んだ。あとひとつ。Matplotlibおもしろかった。 https://t.co/Mf3kWikGTw,696645554424549376
+carlmull2015,2016-02-08 03:04:55,I saved a @YouTube playlist https://t.co/x3ZCuxJolc Matplotlib Tutorial,696530115891752960
+PCSpam,2016-02-11 15:56:50,1 – Show HN: How to add jitter to a plot using Python's matplotlib and seaborn - https://t.co/8JIMgIK5W2,697811538619580417
+PyData,2016-02-11 19:25:06,Help support a robust &amp; sustainable open source data science community—donate to @NumFOCUS! https://t.co/FOwfD6j1db #matplotlib #ropensci,697863950063550464
+artwisanggeni,2016-02-11 20:26:26,"#python PXL 0.0.9: Extra functions built on NumPy, SciPy, pandas, matplotlib, etc. https://t.co/7tA6VhhORA",697879388252049408
+ThisiswhyIcode,2016-02-11 22:42:47,TIL that matplotlib can do xkcd style charts https://t.co/0D3amCa4DK #programming,697913699948867586
+higheducation1,2016-02-11 02:38:36,"#EducationAdvices Top packages in Anaconda besides numpy, pandas, and matplotlib?:… https://t.co/zIhaf0SzNq https://t.co/XxUFc9ITp5",697610659618361344
+abizycom,2016-02-09 08:10:42,#Change color of legend to match line plot matplotlib pandas #Tech https://t.co/A7Xrn12Sct,696969456451457024
+HirokiSayama,2016-02-09 23:51:09,Teaching matplotlib in the 'fivethirtyeight' style feels good,697206128950779904
+the_rain_pelts,2016-02-10 00:17:21,UserWarning: Matplotlib is building the font cache using fc-list. This may take a moment.,697212723944407041
+pydigest,2016-02-10 06:57:06,"Сравниваем цены в книжных интернет магазинах c помощью python, pandas и matplotlib: https://t.co/6tFpy2XTYJ #python",697313322526441472
+ITnan_ru,2016-02-09 08:00:41,"Сравниваем цены в книжных интернет магазинах c помощью python, pandas и matplotlib: https://t.co/cYIgMedsYI",696966937847447553
+HirokiSayama,2016-02-10 02:25:52,matplotlib + fivethirtyeight + xkcd feels even better,697245063693398016
+amuellerml,2016-02-12 15:15:08,@betatim @matplotlib I think it's fair to say this discovery wouldn't have been possible without viridis ;),698163432168808448
+smokin_wes,2016-02-08 15:33:22,"書きました。 「CentOS7にNumPy,SciPy,matplotlibをインストールする」 https://t.co/JhmzVxa4NI #機械学習 #machinelearning",696718471128743936
+FakeHawkWeisman,2016-02-12 02:39:59,the quest to get a reasonable log-log plot out of matplotlib continues https://t.co/TgZVVM69l5,697973393346469888
+OhWowHmm,2016-02-11 17:33:48,im up to my elbows in matplotlib who wants a chart made,697835941617147904
+AGrinsted,2016-02-09 09:19:25,This visualization framework looks good (can be used as matplotlib backend). Does anybody have experience with it? https://t.co/vgw3gQX7cy,696986749969547264
+nygeog,2016-02-11 19:28:38,"Is #matplotlib 1.5.1 available outside of #anaconda? When I pip, I only seem to get 1.3.1",697864842166689793
+nygeog,2016-02-11 19:26:25,Can’t quite figure out #errorbars in @YhatHQ’s #ggplot for #python. Seems like I have to settle for #matplotlib. https://t.co/ezyYYr9OFX,697864281270779904
+eteq,2016-02-12 00:27:35,"The @LIGO discovery paper (https://t.co/hnjC9yEfHZ) visibly used @matplotlib (&amp; prbly lots of other sftwre), but *no* software citations :(",697940075729055750
+Jamescolingrant,2016-02-12 09:17:18,"An interesting talk discussing the design choices for the default colormap,'viridis', in Matplotlib 2.0+. #python https://t.co/x5coGq6hVn",698073381959307264
+kaushik_k_,2016-02-08 22:07:41,@tacaswell Hi Thomas—Can I bug you about a bit about matplotlib? Would you know why interactive macosx backend doesn’t have blocking show()?,696817704100065282
+negativeashi,2016-02-08 23:30:58,@brudger write some in matplotlib,696838661762109440
+GovsInfo,2016-02-10 14:15:02,#Python Matplotlib How to plot a line chart in weekly intervale: #HowTo https://t.co/Oagr0WdScK,697423533845118976
+MedLazhari,2016-02-10 20:43:19,I just completed the chapter  Matplotlib . @datacamp https://t.co/glMxz2cvRV,697521249266888704
+FakeHawkWeisman,2016-02-12 02:46:56,*sideyes matplotlib plots*  I have a feeling that dynamic types are responsible for this somehow ,697975143071621121
+rochacbruno,2016-02-12 14:07:33,"#python foi a linguagem usada na observacao das  ondas gravitacionais , Einstein Pythonista! https://t.co/THv1LRiukt  (matplotlib no paper)",698146426522570752
+wickedchicken,2016-02-10 16:35:39,"bizweekgraphics tweet, or matplotlib? who can tell? https://t.co/H29V9CrF5K",697458920567267328
+ramkrsna,2016-02-12 07:28:16,"https://t.co/u5xootTyHC  Python plots, matplotlib and verdis colormap used in the paper that describes the discovery of gravitational waves",698045942998528000
+abizycom,2016-02-10 02:03:56,#Jupyter notebook matplotlib figures missing in exported pdf #Tech https://t.co/CMFvXTpP0t,697239546761736192
+PythonHub,2016-02-02 20:11:11,Automatically fit labels with matplotlib https://t.co/ULL6BLuN4x,694614060042682368
+odashi_t,2016-02-05 08:59:31,@sho_yokoi 最近はイメージ作成にLibreOffice Draw、グラフはmatplotlibかLibreOffice Calcです。以前はIllustratorとMATLABでした。（この図はDraw製なので曲線は適当です）,695532190805811201
+arnaudbertrand_,2016-02-02 22:50:55,@randal_olson this is generated by the call of ggplot to matplotlib,694654256591323141
+mattmcd,2016-02-05 17:08:56,matplotlib colormaps https://t.co/aCo6zuIgDs [Shiny #Python #visualization],695655359260848129
+Chu_pan,2016-02-02 10:33:50,matplotlibは灰色の部分を白にしてフォントを綺麗にすればやる気出る,694468764713115648
+Newpa_Hasai,2016-02-03 23:35:22,TOPCAT : matplotlib/numpy/scipy/astropy :: LibreOffice : LaTeX (probably),695027830304829443
+PandasOverflow,2016-02-03 22:43:34,"Function to plot a data source (probably not regularized) in format x,y,value using python matplotlib https://t.co/RIuoMkrj38",695014795200729088
+reuvenmlerner,2016-02-03 09:43:44,Free Webinar: #Pandas and #Matplotlib #python #datascience https://t.co/suuPQFUVfs,694818545008414720
+wxswxs,2016-02-04 17:39:08,How matplotlib designed their new perceptually uniform colour scheme for scientific plots: https://t.co/HNeNQVZXmU https://t.co/UYMhOgDJ7E,695300571184697344
+StackSoftRecs,2016-02-06 10:05:31,Alternative to Matplotlib for scientific plotting with Python https://t.co/CmgvGbpGfs #python,695911187045724160
+programmingncr,2016-02-04 17:13:28,volumetric rendering and/or isosurfaces using matplotlib and other standard toolkits? https://t.co/mZK26PsMnE #LearnPython   I've got some…,695294110803091460
+tokoro10g,2016-02-03 11:45:08,Matplotlib connect scatterplot points with line - Python - Stack Overflow https://t.co/K0ttVcfodG,694849093940547585
+sci_vision,2016-02-02 07:00:39,Writing .avi/.mp4 movies directly from Matplotlib of plot/movie sequences. Easy example of grabframe() behavior  https://t.co/gErpKJEPHk,694415114678767616
+MTotolrahaman,2016-02-02 22:22:22,#TclError matplotlib 1.5.0 #Tech #Internet #Programming https://t.co/cliBi9qR9e,694647073371787265
+mnemonikk,2016-02-05 08:55:01,Doing some local data analysis in #ruby. Expected to find an equivalent of #python's #matplotlib. #gruff is closest to what I need.,695531057974792192
+brokencodebot,2016-02-05 22:25:27,color_palette() broken using matplotlib &gt;=1.5,695735013392912386
+artwisanggeni,2016-02-06 13:19:11,#python wxPlotLab 0.1: A library for plotting in wxPython using matplotlib https://t.co/D5PJzGcu64,695959928108756992
+OtolamirN,2016-02-05 03:52:02,#Continuum Anaconda and matplotlib #HowTo #Programming #WebDevelopment https://t.co/z0qG810Kvk,695454811056054272
+bioinf_girl,2016-02-02 22:41:42,learning about python's numpy and matplotlib at #ResBazAKL :),694651935433994240
+PhilReedData,2016-02-01 21:02:47,"@tacaswell @ahmadia Thanks so much, `%matplotlib qt` in the terminal worked! https://t.co/DXL709J5LB",694264656601468928
+shotaro_tsuji,2016-02-03 14:21:24,@seigaikijin495 自分の周囲ではプロットはMatlabでやる人やPythonのmatplotlibを使う人が多い。,694888421861404673
+Rbloggers,2016-02-02 22:05:14,Call matplotlib from R https://t.co/Ocic8d329U #rstats #DataScience,694642760448540672
+ifttt_tutorials,2016-02-07 03:36:57,#matplotlib - pandas - No xlabel and xticks for twinx axes in subploted figures #HowTo #Tech #Question https://t.co/yFcbl4QsjK,696175791042904065
+MTotolrahaman,2016-02-02 21:46:55,#Draw matplotlib plot to PNG in Jupyter when inline matplotlib is enabled #Tech #Internet #Programming https://t.co/tE3DqbawLN,694638151265079296
+ladjango,2016-02-03 03:53:14,"Ultimate guide for Data Exploration in #Python using #NumPy, #Matplotlib and #Pandas via @AnalyticsVidhya https://t.co/cUnlT4hqSZ #django",694730336803094530
+sskutnik,2016-02-07 00:15:12,@LaneNuclear Note that I've also recently discovered Inkscape can be really good for annotating up vector-format graphics from matplotlib...,696125019202711553
+kouhualin,2016-02-04 19:13:39,"@randal_olson hi, sorry I can't DM you. Do you know any graph annotation tool? I want my matplotlib plots to be post-annotated? Thx",695324357413965824
+abizycom,2016-02-05 03:48:44,#Continuum Anaconda and matplotlib #Tech https://t.co/PXbHjpLSYt,695453978377613317
+scipython3,2016-02-03 17:58:11,"Virtual cloudy skies using the diamond-square algorithm in #Python, #NumPy and #Matplotlib https://t.co/f24MZf1NxG https://t.co/Ln28iRoA4f",694942975785353216
+akucchan_world,2016-02-04 01:31:00,"加藤「Pythonで使える機械学習・データ分析のツール。numpy, scikit-learn, matplotlibなど。」 #IPSJ",695056931732324353
+pypi_updates,2016-02-04 02:22:01,matplotlib-hep 0.1.0: Module for making data analysis in High Energy Physics with Python more convenient https://t.co/Iqn4KU7K1h,695069770383757313
+sskutnik,2016-02-07 00:14:08,"@LaneNuclear Graphs? matplotlib. Figures? Inkscape for vector graphics; otherwise, creative use of Powerpoint.",696124749173428225
+electricfork,2016-02-02 16:51:40,@sintixerr tableau.  or matplotlib/ipython. or maybe gephi for graphs.,694563849232596992
+akucchan_world,2016-02-04 01:33:30,加藤 「matplotlib + scikit-learn 入門にオススメ。」＞この本はコチラ。ステマ的な... https://t.co/GVmjgPo5o5 #IPSJ @hamukazu,695057561398042628
+yasubow202,2016-02-06 02:30:35,仕事になんねえじゃん。しかしさぁ、matplotlib.pyplotのメモリリークって、ひでえなぁ。誰か逃げ方、教えてくんねえかなぁ。pyplot.close('all')が効かんのです (T ^ T),695796702117146624
+refracta8,2016-02-04 05:22:07,matplotlib.pyplot でプロットした画像がきれいになるように調整してみた。 https://t.co/jlLv1nAiRj,695115091943882752
+programmingncr,2016-02-05 04:13:16,Best way to communicate between a Process and not-a-Process involving matplotlib? https://t.co/hhmvvDwjKj #LearnPython   So I'm using matp…,695460156247838720
+PythonHub,2016-02-03 04:53:04,Matplotlib animated histogram https://t.co/CbRMR13APj,694745394341888001
+shojiueda,2016-02-05 13:18:47,PythonでFitbit HRの各種データをWeb API経由で取得し、ちょっとした計算をしてmatplotlibでグラフ化するプログラムを書いた。Web APIのlimitがあるので、1時間で30日分のグラフを作成するようにしてみた。,695597437604356098
+artwisanggeni,2016-02-04 23:38:08,#python adjustText 0.5.2: Iteratively adjust text position in matplotlib plots to minimize overlaps https://t.co/B0QGtJdsZ6,695390915154673665
+MTotolrahaman,2016-02-04 16:59:05,#Assign specific colours to data in Matplotlib pie chart #Tech #Internet #Programming https://t.co/s2JtpOO1dz,695290488576958464
+brettmor,2016-02-02 04:04:27,Is it weird that I’m staring with joy at my @matplotlib viridis colorbar? #python #datavis,694370773960519680
+MTotolrahaman,2016-02-02 05:06:58,#matplotlib 1.5.0 Tclerror #Tech #Internet #Programming https://t.co/dvlnWgVjeN,694386506908196864
+MTotolrahaman,2016-02-07 03:53:56,#Side-specific padding for matplotlib text bbox #Tech #Internet #Programming https://t.co/dlJ888L7OB,696180063985860608
+startechwall,2016-02-02 01:43:29,#Python Matplotlib Twinx() cursor values #Tech #Question #HowTo https://t.co/qd3hli1jtd,694335298013102080
+SecNewsBot,2016-02-02 01:41:02,Hacker News - Drawing a Map from Pub Locations with the Matplotlib Basemap Toolkit https://t.co/YF9LMNWFrx,694334679495868416
+mryanbell,2016-02-04 18:22:22,Hot tip: hold 'x' while panning/zooming in a matplotlib window to constrain to only pan/zoom along x axis. https://t.co/j3DEOQFwSs,695311450038992896
+abizycom,2016-02-06 16:26:07,#Change color of legend to match line plot matplotlib pandas #Tech https://t.co/A7Xrn12Sct,696006971221217280
+Enceladosaurus,2016-02-07 02:23:03,Recent google search:  how to make beautiful plots using matplotlib   sigh...,696157194904064002
+GirishDuvvuri,2016-02-07 02:24:47,"@Enceladosaurus I personally don't see it as being much prettier, but others seem to. Wrapper on matplotlib.",696157631015215106
+kivantium,2016-02-06 12:45:04,D3.jsというのがいいと聞いて調べてみたけどmatplotlibとかRの方が楽そうだな,695951342267822082
+planetpython,2016-02-03 14:15:06,Reuven Lerner: Free Webinar: Pandas and Matplotlib https://t.co/r1d3r4Adi0,694886835344928768
+mjkirk,2016-02-05 15:40:43,@SeanTAllen I really like pandas' abstraction on top of matplotlib and numpy https://t.co/Eqb8gLzDIP plus pandas++,695633155437436928
+GovsInfo,2016-02-03 16:50:52,"#When i use matshow from matplotlib to plot figures, how can i set a double x-axis label?: #HowTo https://t.co/Iceq4fPMCa",694926034257469440
+PandasOverflow,2016-02-04 21:11:36,matplotlib - No xlabel and xticks for twinx axes in subploted figures https://t.co/rTrDZLEmJn,695354039505068032
+mmaibaum,2016-02-01 23:15:41,"@marcoarment matplotlib or d3. Or R. Not convinced a good, simple, free gui exists.",694298103244013568
+programmingncr,2016-02-02 19:14:39,Automatically fit labels with matplotlib https://t.co/zhDcySdLix #Python   submitted by   /u/LifeIsBio[link]   [comments],694599830178521089
+hilbert_d,2016-02-06 19:22:58,【はてブ新着IT】 Python3+scipy+matplotlib でCSVデータからグラフ+近似関数を描画する。 - from umentu import stupid https://t.co/QcECvILdxO,696051475680657409
+hainm_comp,2016-02-03 22:09:13,Analyze protein folding trajectory with #pytraj #nglview @ProjectJupyter #pandas #matplotlib #mybinder #matplotlib https://t.co/byu8Z0Ehlq,695006150534774784
+sakuna63,2016-02-05 04:09:04,matplotlib，gnuplotの100倍使いやすい,695459097068466176
+pierrelux,2016-02-04 22:11:16,Saving experiments parameters in the PDF metadata of a matplotlib figure: https://t.co/uqS4Ueiy57,695369054672957442
+programmingncr,2016-02-02 09:21:30,"Help with matplotlib error message. https://t.co/U8NzGFy74N #LearnPython   Hi Reddit,  So I've started using matplotlib again for a projec…",694450561597440000
+sci_vision,2016-02-02 06:58:58,random noise saved with Matplotlib animation.writer.grab_frame: https://t.co/qfPnsuJCF1 via @YouTube,694414689040752640
+randal_olson,2016-02-03 12:00:40,@hrbrmstr @sjmgarnier @noamross viridis has been default in matplotlib for some time now. Jet is about as hated as pie charts. ;-),694853003615019008
+ManAHLTech,2016-02-04 11:55:11,Free Webinar: Pandas and Matplotlib https://t.co/1DHULSPfrQ via @reuvenmlerner,695214013802741760
+PandasOverflow,2016-02-05 12:02:10,Matplotlib: Overriding  ggplot  default style properties https://t.co/S9mK7IZouU,695578156007235584
+PhysicsTrek,2016-02-02 21:21:08,I liked a @YouTube video from @sentdex https://t.co/ypGeD2kZc9 Matplotlib Tutorial 1 - Introduction and Line,694631660005003266
+aerogeek,2016-02-03 23:26:21,Visualizing 3d Triangles With Pure Matplotlib Function https://t.co/zYeXkZwzTG https://t.co/UyMY2Izm9H,695025561362542592
+DebianBug,2016-02-05 08:40:27,New bug: 813782 - #src:python-matplotlib-venn - python-matplotlib-venn: FTBFS: [failed test] Intersection with th... https://t.co/v2Sr15lJXQ,695527393155481600
+PandasOverflow,2016-02-05 22:54:35,Change color of legend to match line plot matplotlib pandas https://t.co/ClBORQ625o,695742342918230018
+bmk266,2016-02-03 21:17:43,"NBA shot charts using matplotlib, seaborn, and bokeh https://t.co/Mrorg6V2A4 #python #sportsanalytics #datascience",694993190781390849
+biernackip,2016-02-02 10:59:41,Great post for those who struggle with matplotlib fonts: https://t.co/cf8wPjPk80,694475267696414720
+shiki_sb,2016-02-02 09:02:28,matplotlibで簡単にできることがExcelでうまくできないぞ,694445770984943616
+maskot1977,2016-02-05 02:44:24,%matplotlib inline import pylab as pl #素晴らしい,695437789869899777
+AdamSmitht1,2016-02-01 20:12:12,"#matplotlib - Draw a heatmap/pixelmap with pixel labels, ability to edit individual pixel colours #Tech #News #How… https://t.co/ZRXgtavLlG",694251926263894016
+EthanRedd,2016-02-04 18:18:45,seriously considering using matplotlib/numpy to track workout progress,695310538851684352
+jakevdp,2016-02-06 14:00:47,@mikepqr Great – glad they've fixed it! I wonder if they've fixed the matplotlib issues as well?,695970394256244736
+astrofrog,2016-02-06 22:48:35,"@enceladosaurus if instead you want to be able to plot things in data units, use patches instead, e.g from matplotlib.patches import Circle",696103220402323460
+IneffectiveMath,2016-02-06 02:10:07,@habsmau5 I use a python library called matplotlib. It takes years of practice.,695791551583285248
+rtphokie,2016-02-02 02:02:22,"@COweatherman NumPy, SciPy, MatPlotLib,  PyNGL, PyNIO, CDAT if you are into climate data can become your friends now.",694340048532013056
+dwhitena,2016-02-02 13:27:23,Visualizing a @gmail Inbox https://t.co/6dQtCQFrOd via @gboeing #python #pandas @matplotlib,694512436884275204
+brianwolven,2016-02-06 07:02:47,"TFW when basemap suddenly doesn't work anymore but after uninstalling &amp; reinstalling matplotlib, geos, &amp; numpy it's somehow fixed again…",695865201422274561
+ayanguasgil,2016-02-07 06:52:30,"Played a while with @YhatHQ Rodeo. Good idea but couldn't get it to work with @matplotlib, so I am sticking with @ProjectJupyter",696225001477955584
+PandasOverflow,2016-02-07 03:33:04,matplotlib - pandas - No xlabel and xticks for twinx axes in subploted figures https://t.co/RzgtfvsyiS,696174814373871616
+juampa_lopez,2016-02-02 13:55:58,Learn how to plot some cool #visualizations with #matplotlib https://t.co/sqbcPXo50U,694519633936683008
+mnemonikk,2016-02-05 09:37:46,"#gruff is nice and simple, it just can't compete with #matplotlib on features.",695541817815797761
+abizycom,2016-02-06 21:13:51,#X labels matplotlib #Tech https://t.co/TtPTvYQKwW,696079378468511745
+khinsen,2016-02-05 12:52:14,.@gvwilson I went back to matplotlib 1.4 for that reason. Less extreme than Excel.,695590758632574977
+programmingncr,2016-02-03 16:01:51,resize already drawn matplotlib figure inside ipython notebook https://t.co/XPEv868Y6U #LearnPython   is that possible ? this doesn't work…,694913699497246723
+randal_olson,2016-02-02 23:00:19,"@arnaudbertrand_ Yeah, I don't know if it took off in the Python dataviz community. matplotlib, Seaborn, and Bokeh are the staples.",694656621096607744
+halcy,2016-02-02 23:24:22,plays with matplotlib + jupyter for several hours https://t.co/qQu9nw6ZIb,694662674517512192
+jakevdp,2016-02-05 22:20:40,.@SeanBarberie If you're doing anything with compiled code (e.g. numpy) or graphics (e.g. matplotlib) conda is hands-down the way to go.,695733807261966337
+aneesha,2016-02-02 11:31:52,I just published “Visualising Top Features in Linear SVM with Scikit Learn and Matplotlib” https://t.co/Pa4mr6OQD6,694483368021401600
+maskot1977,2016-02-05 02:45:35,pylabはmatplotlibを使用する最も一般的なツールです。グラフの作成などを行う本体がmatplotlibであり、pylabはそのインターフェイスであるといえます。 https://t.co/g3wVNu7gcY,695438089028661249
+DrBennison,2016-02-02 14:12:04,"@jemmaths @adamcreen @plotlygraphs plotly is good. I often use matplotlib, Matlab or R to be honest. Have you ever used R?",694523684191629312
+HartwigMicheal,2016-02-04 00:25:21,#Draw matplotlib plot to PNG in Jupyter when inline matplotlib is enabled #HowTo #Question #Tech https://t.co/mpHb1bfAqK,695040408187965440
+abizycom,2016-02-02 01:40:02,#Python Matplotlib Twinx() cursor values #Tech https://t.co/Fvf9xknIoc,694334427355353089
+jcszamosi,2016-02-05 13:54:31,.@gvwilson trying to get going on matplotlib made me wish for the days I was just learning ggplot. And that's saying something.,695606431417004032
+MTotolrahaman,2016-02-04 00:26:25,#Draw matplotlib plot to PNG in Jupyter when inline matplotlib is enabled #Tech #Internet #Programming https://t.co/tE3DqbawLN,695040675855917056
+tokoro10g,2016-02-03 11:41:52,Python: x-y-plot with matplotlib - Stack Overflow https://t.co/4PzVhH0i4x,694848271257178112
+johnmlhll,2016-02-01 12:24:52,"I added a video to a @YouTube playlist https://t.co/8OsPTEgJi3 Learn Python for Science - NumPy, SciPy and Matplotlib",694134320261394432
+startechwall,2016-01-31 07:28:18,#Stop gif image from repeating in matplotlib #Tech #Question #HowTo https://t.co/MPdTmRn00m,693697296475750400
+Themes_Net,2016-01-30 23:52:24,Matplotlib animated histogram: I am trying to create an animated histogram from my code below. I can create in... https://t.co/O6miBJqZLD,693582565479813121
+yyykn,2016-02-01 08:37:38,pyenvでpython3.5な環境でpipでぶちこんだmatplotlib.pyplotかまruntime errorでimportできないやつ、描画にmacosx使わなきゃいいだけなんだけどダサい,694077133124014080
+jfgofshfe,2016-01-31 09:16:27,matplotlibに必要なものが多すぎて30分かかってしまった,693724513154912256
+tkatocb,2016-02-01 15:19:43,chainer 1.6.0 （CPUのみ）の環境をDockerHubに登録した。IPython Notebookやmatplotlibなど最低限の環境は用意。 https://t.co/gnAnPh3I9F  https://t.co/5tdLvWlkkV,694178319630118913
+cielavenir,2016-01-31 09:29:40,OSX El Capitanのmatplotlibを更新するの、えらい大変でしたってお話,693727840823431168
+smokin_wes,2016-01-31 14:12:07,centOS7へのmatplotlibインストールでめっちゃてこずっている #python,693798918706978816
+anchfiend,2016-02-01 17:54:31,@Stockard matplotlib 一個就已經把 matlab 和 python 蛋疼的部分都集於一身了，有別的工具何苦不去用,694217275751010304
+GovsInfo,2016-01-31 20:23:50,#Interacting with live matplotlib plot: #HowTo https://t.co/clmBV5bFgb,693892465376542720
+outliers_es,2016-02-01 15:21:02,"[Github] Continually updated data science #python notebooks about #deeplearning #matplotlib, #pandas #spark #hadoop https://t.co/WoK6iD1fsK",694178653383446528
+tacaswell,2016-02-01 19:31:06,@PhilReedData @ahmadia try using `%matplotlib qt` in the terminal or `%matplotlib notebook` in the IPython notebook.,694241584368488449
+shindos,2016-01-31 15:21:17,matplotlib inline magicというのをつかえばよいらしく、「%matplotlib inline」を追加することで、図が表示された。 https://t.co/fVAa1fHDsE https://t.co/3hcHQsTSIw,693816328419827712
+shindos,2016-01-31 15:29:42,エラーに 「Please use `%pylab inline` or `%matplotlib inline` in the notebook itself.」 とでてるので、素直にinline magic というのを使うのが良さそう。,693818444056100864
+smokin_wes,2016-01-31 14:26:53,くそ～(&gt;_&lt;) やっとインストール出来た #matplotlib,693802637490139136
+henry0312,2016-01-31 16:04:34,matplotlibとpandasはいつまでたっても使い方が覚えられない。毎回チュートリアル読むとこから始めてる。,693827220469514241
+aneesha,2016-02-01 06:20:03,I just published “Visualising Top Features in Linear SVM with Scikit Learn and Matplotlib” https://t.co/W7NRgfIlNT,694042509857587200
+normonics,2016-01-31 05:56:23,@SanguineEmpiric np is numpy and figsize is likely matplotlib.pyplot function  controlling size of fig you see.,693674164054532096
+Tatejimaru137,2016-01-31 17:20:20,PILの画像をipython notebook上で表示したい→matplotlib.pyplotのimshowを使え / “python - How to show PIL Image in ipython notebook -…” https://t.co/HXSK5AKwl3,693846288937328640
+kwinkunks,2016-01-31 15:12:06,@My_Carta I didn't find anything I thought was 'canonical'. IIRC they used ones from Mines JTK. Maybe Petrel + Matplotlib covers it?,693814016859344896
+12Silver25,2016-02-01 04:50:02,pythonでmatplotlibが使えないの。 import出来ないの。 色々調べまわってるけど出来ないの。,694019857583505408
+sadie_lb,2016-01-31 07:09:24,"Quick program generating Ellsworth Kelly style images, higher chance of white further from the centre #matplotlib https://t.co/y5lwYplwxa",693692542001532928
+henry0312,2016-01-31 16:06:47,ユーキャンでmatplotlibとpandasの免許皆伝してほしい,693827777028444160
+63Neptune,2016-01-31 16:16:54,Python with matplotlib program written by my 13 yr old son. https://t.co/Cd7kOxFWlL,693830322237108229
+ifttt_tutorials,2016-01-31 10:18:37,#Matplotlib animated histogram #HowTo #Tech #Question https://t.co/c1nsojQdr6,693740159863537664
+abizycom,2016-02-01 17:25:15,#plotting latex matrix in matplotlib without changing font for rest of figure #Tech https://t.co/1kGqsqGlpg,694209912675655680
+jimmyc42,2016-01-31 16:09:50,matplotlib is clearly smarter than me.,693828545580126208
+johnmlhll,2016-02-01 12:24:43,"I liked a @YouTube video https://t.co/8OsPTEgJi3 Learn Python for Science - NumPy, SciPy and Matplotlib",694134282512629760
+MTotolrahaman,2016-01-31 20:20:19,#How to do a graph in matplotlib and vpython? #Tech #Internet #Programming https://t.co/tvQfVL70NZ,693891579665346560
+shindos,2016-01-31 15:28:31,以下のサイトは  --pylab inlineつかうとnumpyモジュールがトップレベルでimportされるから--matplotlib inline 使えと書いてあるけど、jupyterだとこれでもだめみたい。 https://t.co/Bp6SBHTRuP,693818146382172160
+software_daily,2016-02-01 16:25:27,Podcast: Matplotlib with Ben Root https://t.co/coyFXOCsKf @weather_god @matplotlib #python #datascience,694194863214972928
+InfoAnimation,2016-01-30 23:53:41,Matplotlib animated histogram https://t.co/asXiGtwQgM #AnimatedQuestion,693582886935465984
+chapagain,2016-02-01 15:53:03,Python: Graph plotting with Matplotlib (Line Graph) https://t.co/eh2rP3QG7p,694186709097979904
+SwerdCenter,2016-02-01 04:05:38,@octonion   import pandas as pd import scipy as sp import matplotlib.pyplot as plt from matplotlib.ticker import FuncFormatter ,694008682439393280
+irisyupingren,2016-02-01 16:40:41,“Drawing and Animating Shapes with Matplotlib” https://t.co/s8h9het3pG via @nickcharlton,694198697274535937
+shojiueda,2016-01-31 12:26:26,Fitbit HRから1分の分解能で心拍数とステップを取り出しmatplotlibでグラフ化するプログラムをPythonで書いてみた。 https://t.co/74JbuaXNJo,693772324999331844
+ifttt_tutorials,2016-02-01 14:33:44,#Interactive histogram using matplotlib? #HowTo #Tech #Question https://t.co/K9CzeK3moz,694166750615707649
+MTotolrahaman,2016-01-31 23:50:42,#Python Matplotlib: Animating scatter plot using set_offsets - data handling #Tech #Internet #Programming https://t.co/SGr2MxnGsi,693944526415749120
+essencecartoons,2016-01-31 08:00:14,InfoAnimation: Stop gif image from repeating in matplotlib  #AnimatedQuestion:    Info Animation ID  @InfoAnim... https://t.co/x3vfXHGF1e,693705332279775232
