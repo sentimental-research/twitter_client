@@ -42,6 +42,7 @@ class TwitterClient:
         refreshCursor = ''
 
         while True:
+
             response = self.getJsonReponse(term, refreshCursor)
             refreshCursor = response['min_position']
 
@@ -54,19 +55,13 @@ class TwitterClient:
             if len(tweets) == 0:
                 break
 
-            print "Tweet IDS: " + str(len(tweets))
-            #
-            # #Don't allow loading more than 100 tweets which is the Twitter API
-            # #restriction
-            # if len(tweets) >= 80:
-            #     break
-
             for tweetHTML in tweets:
-
                 tweetPQ = PyQuery(tweetHTML)
                 tweet_id = tweetPQ.attr("data-tweet-id")
                 tweet_ids.append(tweet_id)
 
+            if len(tweet_ids) > 700:
+                break
 
         return tweet_ids
 
@@ -131,7 +126,6 @@ class TwitterClient:
     def text_format(self, text):
         text = text.encode('utf-8')
         text = text.replace('"',' ').replace("\n"," ")
-        print text
         return text
 
     def write_results(self, tweets):
