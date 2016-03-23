@@ -10,6 +10,7 @@ class TestTwitterClient:
         term = "matplotlib"
         client = TwitterClient()
         results = client.get_tweets(term)
+        client.write_results(results)
         assert len(results) == 49
 
     # def test_get_recipy_tweets(self):
